@@ -1,6 +1,6 @@
-# SolMet
+# Solmetric
 
-SolMet is a static analysis based metric calculator tool for Solidity smart contract programs.
+Solmetric is a static analysis based metric calculator tool for Solidity smart contract programs.
 It is a **Work In Progress**, supporting the following metrics
 * SLOC - number of source code lines
 * LLOC - number of logical code lines (lines without empty and comment lines)
