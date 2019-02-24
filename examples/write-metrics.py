@@ -1,6 +1,18 @@
-import subprocess
+import glob, re, subprocess 
 
-jar_name = '../target/SolMet-1.0-SNAPSHOT.jar'
-input_arg = './ebfe4723c636cf0a4d1374888f16736a986f5629_TeamUndisClosed.sol'
-output_arg = './output.csv'
-subprocess.call(['java', '-jar', jar_name, '-inputFile', input_arg, '-outFile', output_arg])
+class MetricsAPI(object):
+    """
+    Base Metrics Api implementation
+    """
+    def __init__(self):
+        pass
+
+    def write_solidity_metrics(self):
+        jar = '../target/SolMet-1.0-SNAPSHOT.jar'
+        for input in glob.glob("./output/*/*.sol"):
+            output = re.sub('.sol$','.out' , input)
+            subprocess.call(['java', '-jar', jar, '-inputFile', input, '-outFile', output])
+
+if __name__ == "__main__":
+    m = MetricsAPI()
+    m.write_solidity_metrics()
