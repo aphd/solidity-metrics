@@ -99,7 +99,6 @@ class EtherScanIoApi(object):
     def _parse_tbodies(self, data):
         tbodies = []
         for tbody in re.findall(r"<tbody.*?>(.+?)</tbody>", data, re.DOTALL):
-            print(tbody)
             rows = []
             for tr in re.findall(r"<tr.*?>(.+?)</tr>", tbody):
                 rows.append(re.findall(r"<td.*?>(.+?)</td>", tr))
@@ -115,12 +114,13 @@ if __name__ == "__main__":
     e = EtherScanIoApi()
     for nr, c in enumerate(e.get_contracts()):
         with open("contracts.json", 'a') as f:
-            f.write("%s\n" % c)
+            
             print("got contract: %s" % c)
             dst = os.path.join(output_directory, c["address"].replace(
                 "0x", "")[:2].lower())  # index by 1st byte
             if not os.path.isdir(dst):
                 os.makedirs(dst)
+                f.write("%s\n" % c)
             fpath = os.path.join(dst, "%s_%s.sol" % (
                 c["address"].replace("0x", ""), str(c['name']).replace("\\", "_").replace("/", "_")))
             if not overwrite and os.path.exists(fpath):
