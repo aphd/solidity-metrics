@@ -12,11 +12,10 @@ class MetricsAPI(object):
 
     def _get_address(self):
         ''' get SC address from the file name '''
-        # TODO list comprhnesion in one line of code!!
-        addresses = []
-        for input in glob.glob("./output/*/*.sol"):
-            addresses.append(re.search(r"/([a-z0-9]{40})_", input).group(1))
-        return addresses
+        return [
+            re.search(r"/([a-z0-9]{40})_", i).group(1)
+            for i in glob.glob("./output/*/*.sol")
+        ]
 
     def _get_firstseen_lastseen(self, address):
         with open('contracts.json', 'r') as f:
@@ -38,5 +37,5 @@ class MetricsAPI(object):
 
 if __name__ == "__main__":
     m = MetricsAPI()
-    print(m._get_address())
+    #print(m._get_address())
     print(m._get_firstseen_lastseen('0xa6e0b24c65758154cac6f33b0c455727ab6193cb'))
