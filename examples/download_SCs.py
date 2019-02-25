@@ -39,6 +39,7 @@ class EtherScanIoApi(object):
                 address = self._extract_text_from_html(col[0]).split(" ", 1)[0]
                 describe_contract = self.ec.account(address).describe_contract
                 firstseen = describe_contract.__self__['firstseen']
+                lastseen = describe_contract.__self__['lastseen']
                 contract = {'address': address,
                             'name': self._extract_text_from_html(col[1]),
                             'compiler': self._extract_text_from_html(col[2]),
@@ -46,7 +47,8 @@ class EtherScanIoApi(object):
                             'txcount': int(self._extract_text_from_html(col[4])),
                             'settings': self._extract_text_from_html(col[5]),
                             'date': self._extract_text_from_html(col[6]),
-                            'firstseen': firstseen
+                            'firstseen': firstseen,
+                            'lastseen': firstseen
                             }
                 yield contract
             page += 1
