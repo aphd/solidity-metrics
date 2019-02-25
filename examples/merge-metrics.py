@@ -30,7 +30,7 @@ class MetricsAPI(object):
             output = re.sub('.sol$','.out' , input)
             subprocess.call(['java', '-jar', jar, '-inputFile', input, '-outFile', output])
 
-    def append_solidity_metrics(self):
+    def append_solidity_metrics(self, address):
         ''' It opens the metrics' output generated from SOLMET and append the lastseen and firstseen data generated from EtherChain'''
         pass
 

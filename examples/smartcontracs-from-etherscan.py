@@ -4,15 +4,12 @@
 #
 import os
 """
-
 Script to download contracts from etherscan.io with throtteling.
 Will eventually being turned into a simple etherscan.io api library. 
-
 """
 from pyetherchain.pyetherchain import UserAgent
 from pyetherchain.pyetherchain import EtherChain
 import re
-
 
 class EtherScanIoApi(object):
     """
