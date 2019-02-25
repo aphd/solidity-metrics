@@ -1,3 +1,7 @@
 # Output file from download_SCs.py
 contracts.json
 output/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
