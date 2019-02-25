@@ -1,41 +1,35 @@
-import ast, glob, re, subprocess 
+import ast, glob, os, re, subprocess 
 
-class MetricsAPI(object):
+class MergeMetrics(object):
     '''
     Base Metrics Api implementation
     '''
     def __init__(self):
-        pass
+        self.solmetant = 'solmetant.csv' # solidity metrics antonio file
+        self.etherscan_json = self._get_contracts_json()
 
-    def _append_data_to_each_line(self):
-        pass
-
-    def _get_address(self):
-        ''' get SC address from the file name '''
-        return [
-            re.search(r"/([a-z0-9]{40})_", i).group(1)
-            for i in glob.glob("./output/*/*.sol")
-        ]
-
-    def _get_firstseen_lastseen(self, address):
+    def _get_contracts_json(self):
         with open('contracts.json', 'r') as f:
-            for line in f:
-                o = ast.literal_eval(line)
-                if o['address'] == address:
-                    return [o['firstseen'], o['lastseen']]
+            return [ast.literal_eval(line) for line in f]
 
-    def write_solidity_metrics(self):
-        jar = '../target/SolMet-1.0-SNAPSHOT.jar'
-        for input in glob.glob("./output/*/*.sol"):
-            output = re.sub('.sol$','.out' , input)
-            subprocess.call(['java', '-jar', jar, '-inputFile', input, '-outFile', output])
-
-    def append_solidity_metrics(self, address):
-        ''' It opens the metrics' output generated from SOLMET and append the lastseen and firstseen data generated from EtherChain'''
+    def _get_file_name_from_contract_json_file(self, obj):
+            src = os.path.join('./output', obj["address"].replace("0x", "")[:2].lower())
+            src = "/".join([src, obj["address"].replace("0x", "")])
+            return "_".join([src, obj["name"] + '.out'])
+    
+    def _write_file_header(self):
+        ''' TODO '''
         pass
 
+    def merge_etherscan_with_solmet(self):
+        fh = open(self.solmetant, 'w')  
+        for obj in self.etherscan_json:
+            fn = self._get_file_name_from_contract_json_file(obj)
+            lines = open(fn, 'r').readlines()
+            print(";".join([lines[1].rstrip(), 'FS', 'LS']))
+            fh.write(';'.join([lines[1].rstrip(), obj['firstseen'], obj['lastseen'], '\n']))
+        fh.close()  
 
 if __name__ == "__main__":
-    m = MetricsAPI()
-    #print(m._get_address())
-    print(m._get_firstseen_lastseen('0xa6e0b24c65758154cac6f33b0c455727ab6193cb'))
+    m = MergeMetrics()
+    print(m.merge_etherscan_with_solmet())

@@ -5,7 +5,10 @@
 import os
 """
 Script to download contracts from etherscan.io with throtteling.
-Will eventually being turned into a simple etherscan.io api library. 
+Input: amount (number of smart contract)
+Output: 
+    ./output/a6/a6e0b24c65758154cac6f33b0c455727ab6193cb_BasicTokenSC.sol
+    contracts.json
 """
 from pyetherchain.pyetherchain import UserAgent
 from pyetherchain.pyetherchain import EtherChain
