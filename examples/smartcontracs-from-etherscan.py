@@ -43,10 +43,9 @@ class EtherScanIoApi(object):
                 contract = {'address': address,
                             'name': self._extract_text_from_html(col[1]),
                             'compiler': self._extract_text_from_html(col[2]),
-                            'balance': self._extract_text_from_html(col[3]),
-                            'txcount': int(self._extract_text_from_html(col[4])),
-                            'settings': self._extract_text_from_html(col[5]),
-                            'date': self._extract_text_from_html(col[6]),
+                            'compiler_version': self._extract_text_from_html(col[3]),
+                            'balance': self._get_balance(self._extract_text_from_html(col[4])),
+                            'txcount': self._extract_text_from_html(col[5]),
                             'firstseen': firstseen,
                             'lastseen': firstseen
                             }
@@ -77,10 +76,15 @@ class EtherScanIoApi(object):
 
     def _extract_text_from_html(self, s):
         return re.sub('<[^<]+?>', '', s).strip()
-        # return ''.join(re.findall(r">(.+?)</", s)) if ">" in s and "</" in s else s
 
     def _extract_hexstr_from_html_attrib(self, s):
         return ''.join(re.findall(r".+/([^']+)'", s)) if ">" in s and "</" in s else s
+
+    def _get_balance(self, balance):
+        try:
+            return int(re.sub('[a-zA-Z]', '', balance))
+        except ValueError:
+            return None
 
     def _get_pageable_data(self, path, start=0, length=10):
         params = {
@@ -111,12 +115,11 @@ class EtherScanIoApi(object):
 if __name__ == "__main__":
     output_directory = "./output"
     overwrite = False
-    amount = 1
+    amount = 1000
 
     e = EtherScanIoApi()
     for nr, c in enumerate(e.get_contracts()):
         with open("contracts.json", 'a') as f:
-            
             print("got contract: %s" % c)
             dst = os.path.join(output_directory, c["address"].replace(
                 "0x", "")[:2].lower())  # index by 1st byte
