@@ -1,4 +1,5 @@
-# Output file from download_SCs.py
+# Output files
+solmetant.csv
 contracts.json
 output/
 

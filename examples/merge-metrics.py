@@ -18,17 +18,17 @@ class MergeMetrics(object):
             return "_".join([src, obj["name"] + '.out'])
     
     def _write_file_header(self):
-        ''' TODO '''
-        pass
+        self.outf = open(self.solmetant, 'w')
+        self.outf.write('SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI;FS;LS;')
 
     def merge_etherscan_with_solmet(self):
-        fh = open(self.solmetant, 'w')  
+        self._write_file_header()
         for obj in self.etherscan_json:
             fn = self._get_file_name_from_contract_json_file(obj)
             lines = open(fn, 'r').readlines()
             print(";".join([lines[1].rstrip(), 'FS', 'LS']))
-            fh.write(';'.join([lines[1].rstrip(), obj['firstseen'], obj['lastseen'], '\n']))
-        fh.close()  
+            self.outf.write(';'.join([lines[1].rstrip(), obj['firstseen'], obj['lastseen'], '\n']))
+        self.outf.close()  
 
 if __name__ == "__main__":
     m = MergeMetrics()
