@@ -1,0 +1,35 @@
+import ast, glob, os, re, subprocess 
+
+class MergeMetrics(object):
+    '''
+    Base Metrics Api implementation
+    '''
+    def __init__(self):
+        self.solmetant = 'solmetant.csv' # solidity metrics antonio file
+        self.etherscan_json = self._get_contracts_json()
+
+    def _get_contracts_json(self):
+        with open('contracts.json', 'r') as f:
+            return [ast.literal_eval(line) for line in f]
+
+    def _get_file_name_from_contract_json_file(self, obj):
+            src = os.path.join('./output', obj["address"].replace("0x", "")[:2].lower())
+            src = "/".join([src, obj["address"].replace("0x", "")])
+            return "_".join([src, obj["name"] + '.out'])
+    
+    def _write_file_header(self):
+        self.outf = open(self.solmetant, 'w')
+        self.outf.write('SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI;FS;LS;')
+
+    def merge_etherscan_with_solmet(self):
+        self._write_file_header()
+        for obj in self.etherscan_json:
+            fn = self._get_file_name_from_contract_json_file(obj)
+            lines = open(fn, 'r').readlines()
+            print(";".join([lines[1].rstrip(), 'FS', 'LS']))
+            self.outf.write(';'.join([lines[1].rstrip(), obj['firstseen'], obj['lastseen'], '\n']))
+        self.outf.close()  
+
+if __name__ == "__main__":
+    m = MergeMetrics()
+    print(m.merge_etherscan_with_solmet())

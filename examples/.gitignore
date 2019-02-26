@@ -1,0 +1,8 @@
+# Output files
+solmetant.csv
+contracts.json
+output/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb

@@ -4,15 +4,15 @@
 #
 import os
 """
-
 Script to download contracts from etherscan.io with throtteling.
-Will eventually being turned into a simple etherscan.io api library. 
-
+Input: amount (number of smart contract)
+Output: 
+    ./output/a6/a6e0b24c65758154cac6f33b0c455727ab6193cb_BasicTokenSC.sol
+    contracts.json
 """
 from pyetherchain.pyetherchain import UserAgent
 from pyetherchain.pyetherchain import EtherChain
 import re
-
 
 class EtherScanIoApi(object):
     """
@@ -39,6 +39,7 @@ class EtherScanIoApi(object):
                 address = self._extract_text_from_html(col[0]).split(" ", 1)[0]
                 describe_contract = self.ec.account(address).describe_contract
                 firstseen = describe_contract.__self__['firstseen']
+                lastseen = describe_contract.__self__['lastseen']
                 contract = {'address': address,
                             'name': self._extract_text_from_html(col[1]),
                             'compiler': self._extract_text_from_html(col[2]),
@@ -46,7 +47,8 @@ class EtherScanIoApi(object):
                             'txcount': int(self._extract_text_from_html(col[4])),
                             'settings': self._extract_text_from_html(col[5]),
                             'date': self._extract_text_from_html(col[6]),
-                            'firstseen': firstseen
+                            'firstseen': firstseen,
+                            'lastseen': firstseen
                             }
                 yield contract
             page += 1
@@ -99,7 +101,6 @@ class EtherScanIoApi(object):
     def _parse_tbodies(self, data):
         tbodies = []
         for tbody in re.findall(r"<tbody.*?>(.+?)</tbody>", data, re.DOTALL):
-            print(tbody)
             rows = []
             for tr in re.findall(r"<tr.*?>(.+?)</tr>", tbody):
                 rows.append(re.findall(r"<td.*?>(.+?)</td>", tr))
@@ -115,12 +116,13 @@ if __name__ == "__main__":
     e = EtherScanIoApi()
     for nr, c in enumerate(e.get_contracts()):
         with open("contracts.json", 'a') as f:
-            f.write("%s\n" % c)
+            
             print("got contract: %s" % c)
             dst = os.path.join(output_directory, c["address"].replace(
                 "0x", "")[:2].lower())  # index by 1st byte
             if not os.path.isdir(dst):
                 os.makedirs(dst)
+                f.write("%s\n" % c)
             fpath = os.path.join(dst, "%s_%s.sol" % (
                 c["address"].replace("0x", ""), str(c['name']).replace("\\", "_").replace("/", "_")))
             if not overwrite and os.path.exists(fpath):
