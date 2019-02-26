@@ -115,7 +115,7 @@ class EtherScanIoApi(object):
 if __name__ == "__main__":
     output_directory = "./output"
     overwrite = False
-    amount = 1000
+    amount = 2
 
     e = EtherScanIoApi()
     for nr, c in enumerate(e.get_contracts()):
@@ -125,7 +125,6 @@ if __name__ == "__main__":
                 "0x", "")[:2].lower())  # index by 1st byte
             if not os.path.isdir(dst):
                 os.makedirs(dst)
-                f.write("%s\n" % c)
             fpath = os.path.join(dst, "%s_%s.sol" % (
                 c["address"].replace("0x", ""), str(c['name']).replace("\\", "_").replace("/", "_")))
             if not overwrite and os.path.exists(fpath):
@@ -140,6 +139,7 @@ if __name__ == "__main__":
             except Exception as e:
                 continue
 
+            f.write("%s\n" % c)
             with open(fpath, "wb") as f:
                 f.write(bytes(source, "utf8"))
 
