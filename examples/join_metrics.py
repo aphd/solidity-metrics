@@ -19,19 +19,22 @@ class MergeMetrics(object):
     
     def _write_file_header(self):
         self.outf = open(self.solmetant, 'w')
-        self.outf.write('SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI;FS;LS;\n')
+        self.outf.write('SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI;FS;LS;CV;\n')
 
     def join_etherscan_solmet(self):
         self._write_file_header()
         for obj in self.etherscan_json:
             fn = ".".join([self.get_sol_file_name(obj), 'out'])
-            print('### fn ###', fn)
             lines = open(fn, 'r').readlines()
-            print(";".join([lines[1].rstrip(), 'FS', 'LS']))
-            self.outf.write(';'.join([lines[1].rstrip(), obj['firstseen'], obj['lastseen'], '\n']))
+            self.outf.write(';'.join([
+                lines[1].rstrip(), 
+                obj['firstseen'],
+                obj['lastseen'], 
+                obj['compiler_version'], '\n'
+            ]))
         self.outf.close()
 
 if __name__ == "__main__":
     m = MergeMetrics()
-    #m.join_etherscan_solmet()
-    print(m.get_sol_file_name({'address': '0x79a64dbe0a25390fa40a2eb819b934ccc7a06f45', 'name': 'ALLDigitalToken', 'compiler': 'Solidity', 'compiler_version': '0.4.25', 'balance': 0, 'txcount': '1', 'firstse    en': '2019-02-26T05:04:06.000Z', 'lastseen': '2019-02-26T05:04:06.000Z'}))
+    m.join_etherscan_solmet()
+    #print(m.get_sol_file_name({'address': '0x79a64dbe0a25390fa40a2eb819b934ccc7a06f45', 'name': 'ALLDigitalToken', 'compiler': 'Solidity', 'compiler_version': '0.4.25', 'balance': 0, 'txcount': '1', 'firstse    en': '2019-02-26T05:04:06.000Z', 'lastseen': '2019-02-26T05:04:06.000Z'}))
