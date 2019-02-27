@@ -26,12 +26,15 @@ class MergeMetrics(object):
         for obj in self.etherscan_json:
             fn = ".".join([self.get_sol_file_name(obj), 'out'])
             lines = open(fn, 'r').readlines()
-            self.outf.write(';'.join([
-                lines[1].rstrip(), 
-                obj['firstseen'],
-                obj['lastseen'], 
-                obj['compiler_version'], '\n'
-            ]))
+            try:
+                self.outf.write(';'.join([
+                    lines[1].rstrip(),
+                    obj['firstseen'],
+                    obj['lastseen'],
+                    obj['compiler_version'], '\n'
+                ]))
+            except IndexError:
+                print("fn: ", fn)
         self.outf.close()
 
 if __name__ == "__main__":
