@@ -11,7 +11,7 @@ It is a **Work In Progress**, supporting the following metrics
 | LS        | The Last time the smart contract has been Seen on the blockchain  | Date               |
 | NA        | Number of Asserts                                                 | Number             |
 | NC        | Number of contracts                                               | Number             |
-| NCL       | Number of Comment Lines                                           |                    | Number |
+| NCL       | Number of Comment Lines                                           | Number             |
 | NF        | Number of Functions                                               | Number             |
 | NFM       | Number of function modifiers                                      | Number             |
 | NM        | Number of Mapping types                                           | Number             |
@@ -20,6 +20,15 @@ It is a **Work In Progress**, supporting the following metrics
 | NRv       | Number of reverts                                                 | Number             |
 | NSCL      | Number of Source Code Lines                                       | Number             |
 | McCC      | McCabe’s cyclomatic complexity                                    | Number             |
+
+## User instructions
+
+```bash
+cd examples
+python3 smartcontracs-from-etherscan.py
+python3 metrics-from-solmet.py
+python3 join_metrics.py
+```
 
 <!--
 ## Building the tool
