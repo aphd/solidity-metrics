@@ -23,11 +23,35 @@ It is a **Work In Progress**, supporting the following metrics
 
 ## User instructions
 
+### Download and compute the metrics
+
 ```bash
 cd examples
 python3 smartcontracs-from-etherscan.py
 python3 metrics-from-solmet.py
 python3 join_metrics.py
+```
+
+### Data Analysis with Pandas and Python
+
+```bash
+cd examples
+jupyter notebook &
+```
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('solmetant.csv', sep=';')
+df.sort_values(by=['CV'], inplace=True)
+df.head()
+
+plt.figure(figsize=(20,5))
+sns.swarmplot(x = 'CV',y='SLOC',data=df, size=5)
+plt.show()
+
 ```
 
 <!--
