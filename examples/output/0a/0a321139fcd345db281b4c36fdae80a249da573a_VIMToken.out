@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+0a321139fcd345db281b4c36fdae80a249da573a_VIMToken.sol;0a;StandardToken;contract;33;21;5;3;3;0;0;7;12;2;3;1;0;1;4;1.0;0.0;0.0;2.3333333333333335;4.0;1.3333333333333333
+0a321139fcd345db281b4c36fdae80a249da573a_VIMToken.sol;0a;SafeMath;library;58;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+0a321139fcd345db281b4c36fdae80a249da573a_VIMToken.sol;0a;VIMToken;contract;14;11;0;0;0;0;0;0;3;3;4;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
+0a321139fcd345db281b4c36fdae80a249da573a_VIMToken.sol;0a;ERC20;contract;8;6;0;3;3;0;0;7;0;1;1;2;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+0a321139fcd345db281b4c36fdae80a249da573a_VIMToken.sol;0a;BasicToken;contract;39;19;11;3;3;0;0;3;8;1;1;2;0;2;3;1.0;0.0;0.0;1.0;2.6666666666666665;1.0
+0a321139fcd345db281b4c36fdae80a249da573a_VIMToken.sol;0a;ERC20Interface;contract;8;6;0;3;3;0;0;3;0;0;0;4;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0

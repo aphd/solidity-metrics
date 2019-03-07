@@ -1,0 +1,13 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;ERC20;contract;199;97;80;12;12;0;0;23;38;1;1;4;0;3;21;1.0;0.0;0.0;1.9166666666666667;3.1666666666666665;1.75
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;MinterRole;contract;39;30;0;5;5;0;0;4;10;0;0;2;1;1;5;1.0;0.0;0.0;0.8;2.0;1.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;ERC20Burnable;contract;19;8;9;2;2;0;0;3;2;2;2;1;0;0;2;1.0;0.0;0.0;1.5;1.0;1.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;ERC20Detailed;contract;32;19;9;3;3;0;0;0;6;1;1;1;0;3;0;1.0;0.0;0.0;0.0;2.0;0.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;SpinToken;contract;22;14;8;0;0;0;0;0;7;3;9;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;PauserRole;contract;39;30;0;5;5;0;0;4;10;0;0;3;1;1;5;1.0;0.0;0.0;0.8;2.0;1.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;ERC20Pausable;contract;58;53;0;5;5;0;0;11;5;2;4;1;0;0;5;1.0;0.0;0.0;2.2;1.0;1.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;Roles;library;38;23;10;3;3;0;0;6;8;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;ERC20Mintable;contract;19;13;6;1;1;0;0;2;2;2;3;1;0;0;1;1.0;0.0;0.0;2.0;2.0;1.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;Pausable;contract;49;27;15;3;3;0;0;0;10;1;1;2;0;1;0;1.0;0.0;0.0;0.0;3.3333333333333335;0.0
+4f22310c27ef39feaa4a756027896dc382f0b5e2_SpinToken.sol;4f;IERC20;interface;28;21;0;6;6;0;0;10;0;0;0;6;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0

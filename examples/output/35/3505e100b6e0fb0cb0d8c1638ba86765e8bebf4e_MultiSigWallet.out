@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+3505e100b6e0fb0cb0d8c1638ba86765e8bebf4e_MultiSigWallet.sol;35;MultiSigWallet;contract;376;275;71;16;37;17;17;23;108;0;0;0;0;7;11;2.3125;1.0625;1.0625;1.4375;6.75;0.6875

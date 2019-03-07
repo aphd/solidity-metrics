@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+56eed4c191ccd1c7a0b1ee5dcbc371814e7e5c1e_DailyLucky.sol;56;Ownable;contract;43;24;13;2;2;0;0;1;9;0;0;1;0;2;1;1.0;0.0;0.0;0.5;4.5;0.5
+56eed4c191ccd1c7a0b1ee5dcbc371814e7e5c1e_DailyLucky.sol;56;DailyLucky;contract;24;15;4;0;0;0;0;0;0;1;1;0;0;14;0;0.0;0.0;0.0;0.0;0.0;0.0
+56eed4c191ccd1c7a0b1ee5dcbc371814e7e5c1e_DailyLucky.sol;56;SafeMath;library;41;23;14;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75

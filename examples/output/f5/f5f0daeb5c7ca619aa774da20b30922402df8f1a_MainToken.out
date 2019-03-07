@@ -1,0 +1,14 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;FreezableToken;contract;167;104;38;10;19;6;6;13;64;3;4;2;0;3;18;1.9;0.6;0.6;1.3;6.4;1.8
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;FreezableMintableToken;contract;24;13;9;1;1;0;0;3;9;4;7;1;0;0;5;1.0;0.0;0.0;3.0;9.0;5.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;StandardToken;contract;114;63;42;5;6;1;1;11;21;2;3;4;0;1;6;1.2;0.2;0.2;2.2;4.2;1.2
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;Ownable;contract;53;27;18;3;3;0;0;2;9;0;0;4;0;1;3;1.0;0.0;0.0;0.6666666666666666;3.0;1.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;8;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;MainToken;contract;66;47;0;6;10;2;2;5;23;5;11;0;0;1;12;1.6666666666666667;0.3333333333333333;0.3333333333333333;0.8333333333333334;3.8333333333333335;2.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;Pausable;contract;39;21;12;2;2;0;0;0;8;1;1;1;0;1;0;1.0;0.0;0.0;0.0;4.0;0.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;SafeMath;library;45;22;18;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;Consts;contract;12;10;0;0;0;0;0;0;0;0;0;1;0;10;0;0.0;0.0;0.0;0.0;0.0;0.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;ERC20;contract;14;12;0;3;3;0;0;7;0;1;1;5;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;MintableToken;contract;49;33;10;2;2;0;0;2;12;3;5;2;0;1;2;1.0;0.0;0.0;1.0;6.0;1.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;BurnableToken;contract;23;13;6;2;2;0;0;3;6;2;2;1;0;0;4;1.0;0.0;0.0;1.5;3.0;2.0
+f5f0daeb5c7ca619aa774da20b30922402df8f1a_MainToken.sol;f5;BasicToken;contract;39;19;13;3;3;0;0;3;8;1;1;6;0;2;3;1.0;0.0;0.0;1.0;2.6666666666666665;1.0

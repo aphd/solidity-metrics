@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+353cb8bd3f9d4216546d6bfb47cdeab6ae1b3e3d_StoreIPHash.sol;35;StoreIPHash;contract;7;6;0;1;1;0;0;0;1;0;0;0;0;3;0;1.0;0.0;0.0;0.0;1.0;0.0

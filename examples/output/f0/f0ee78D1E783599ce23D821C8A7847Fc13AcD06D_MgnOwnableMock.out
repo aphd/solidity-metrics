@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f0ee78D1E783599ce23D821C8A7847Fc13AcD06D_MgnOwnableMock.sol;f0;MgnOwnableMock;contract;9;6;1;1;1;0;0;2;1;1;1;0;0;1;0;1.0;0.0;0.0;2.0;1.0;0.0
+f0ee78D1E783599ce23D821C8A7847Fc13AcD06D_MgnOwnableMock.sol;f0;Ownable;contract;65;30;27;5;5;0;0;2;12;0;0;1;0;1;3;1.0;0.0;0.0;0.4;2.4;0.6

@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+1f76e9bba9f3a33d968fb174dc3233d8e42d8911_RemiAirdrop.sol;1f;IERC20;interface;10;10;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+1f76e9bba9f3a33d968fb174dc3233d8e42d8911_RemiAirdrop.sol;1f;RemiAirdrop;contract;47;32;6;5;6;1;1;6;20;1;1;0;1;3;4;1.2;0.2;0.2;1.2;4.0;0.8
+1f76e9bba9f3a33d968fb174dc3233d8e42d8911_RemiAirdrop.sol;1f;Ownable;contract;6;6;0;1;1;0;0;1;7;0;0;1;0;5;0;1.0;0.0;0.0;1.0;7.0;0.0

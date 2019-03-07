@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+85e7a45bfff55f8a57acb25095bf59724f748897_EthDeltaHold.sol;85;EthDeltaHold;contract;16;16;0;4;7;3;3;2;6;0;0;0;0;2;1;1.75;0.75;0.75;0.5;1.5;0.25

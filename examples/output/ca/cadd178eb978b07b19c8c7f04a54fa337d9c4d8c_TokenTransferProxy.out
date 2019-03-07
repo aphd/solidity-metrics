@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+cadd178eb978b07b19c8c7f04a54fa337d9c4d8c_TokenTransferProxy.sol;ca;ERC20;interface;130;61;57;9;9;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.1111111111111112;0.0;0.0
+cadd178eb978b07b19c8c7f04a54fa337d9c4d8c_TokenTransferProxy.sol;ca;Abilitable;contract;135;76;46;3;5;2;2;6;17;0;0;1;0;9;3;1.6666666666666667;0.6666666666666666;0.6666666666666666;2.0;5.666666666666667;1.0
+cadd178eb978b07b19c8c7f04a54fa337d9c4d8c_TokenTransferProxy.sol;ca;Proxy;interface;18;9;7;1;1;0;0;4;0;0;0;1;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+cadd178eb978b07b19c8c7f04a54fa337d9c4d8c_TokenTransferProxy.sol;ca;TokenTransferProxy;contract;39;21;14;1;1;0;0;4;1;1;2;0;0;3;1;1.0;0.0;0.0;4.0;1.0;1.0
+cadd178eb978b07b19c8c7f04a54fa337d9c4d8c_TokenTransferProxy.sol;ca;SafeMath;library;112;65;39;5;6;1;1;10;12;0;0;0;0;6;5;1.2;0.2;0.2;2.0;2.4;1.0

@@ -1,0 +1,16 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;CHFsToken;contract;16;16;0;0;0;0;0;0;9;5;12;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;RBAC;contract;92;36;46;4;4;0;0;8;8;0;0;2;1;1;4;1.0;0.0;0.0;2.0;2.0;1.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;PausableToken;contract;58;53;0;5;5;0;0;11;5;3;6;1;0;0;5;1.0;0.0;0.0;2.2;1.0;1.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;MintableToken;contract;49;33;10;2;2;0;0;2;12;3;5;2;0;1;2;1.0;0.0;0.0;1.0;6.0;1.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;RBACMintableToken;contract;30;13;14;2;2;0;0;2;4;4;7;1;0;2;2;1.0;0.0;0.0;1.0;2.0;1.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;BasicToken;contract;39;19;13;3;3;0;0;3;8;1;1;6;0;2;3;1.0;0.0;0.0;1.0;2.6666666666666665;1.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;BurnableToken;contract;23;13;6;2;2;0;0;3;6;2;2;1;0;0;4;1.0;0.0;0.0;1.5;3.0;2.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;Ownable;contract;56;27;21;3;3;0;0;2;9;0;0;5;0;1;3;1.0;0.0;0.0;0.6666666666666666;3.0;1.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;StandardToken;contract;111;63;39;5;6;1;1;11;21;2;3;4;0;1;6;1.2;0.2;0.2;2.2;4.2;1.2
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;Roles;library;46;28;14;4;4;0;0;8;4;0;0;0;0;0;1;1.0;0.0;0.0;2.0;1.0;0.25
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;SafeMath;library;45;22;18;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;ERC20;contract;14;12;0;3;3;0;0;7;0;1;1;6;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;DetailedERC20;contract;11;10;0;0;0;0;0;0;3;2;2;1;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;9;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+0afdacdb91a1be348c4f93cdadf654ffd3fcb1c7_CHFsToken.sol;0a;Pausable;contract;39;21;12;2;2;0;0;0;8;1;1;2;0;1;0;1.0;0.0;0.0;0.0;4.0;0.0

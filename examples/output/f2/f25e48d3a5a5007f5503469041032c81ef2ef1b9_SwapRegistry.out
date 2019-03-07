@@ -1,0 +1,9 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;Initializable;contract;42;18;16;1;1;0;0;0;14;0;0;2;0;3;0;1.0;0.0;0.0;0.0;14.0;0.0
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;SwapRegistry;contract;156;131;12;12;15;1;1;15;94;2;2;0;3;13;22;1.25;0.08333333333333333;0.08333333333333333;1.25;7.833333333333333;1.8333333333333333
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;Bridge;contract;19;14;5;1;1;0;0;0;0;0;0;0;0;6;0;1.0;0.0;0.0;0.0;0.0;0.0
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;Vault;contract;15;8;0;1;1;0;0;1;0;0;0;0;1;4;0;1.0;0.0;0.0;1.0;0.0;0.0
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;SwapExchange;contract;11;6;1;1;1;0;0;2;0;0;0;0;0;3;0;1.0;0.0;0.0;2.0;0.0;0.0
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;ERC20Mintable;contract;12;6;6;3;3;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+f25e48d3a5a5007f5503469041032c81ef2ef1b9_SwapRegistry.sol;f2;Adminable;contract;32;16;12;2;2;0;0;0;5;1;1;1;0;1;1;1.0;0.0;0.0;0.0;2.5;0.5

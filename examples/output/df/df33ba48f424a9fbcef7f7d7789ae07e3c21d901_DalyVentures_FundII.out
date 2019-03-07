@@ -1,0 +1,10 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;CrowdsaleToken;contract;88;54;23;4;7;2;2;0;34;3;6;1;0;1;17;1.75;0.5;0.5;0.0;8.5;4.25
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;DalyVentures_FundII;contract;5;5;0;0;0;0;0;0;0;4;7;0;0;6;0;0.0;0.0;0.0;0.0;0.0;0.0
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;5;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;Configurable;contract;8;7;1;0;0;0;0;0;0;0;0;2;0;5;0;0.0;0.0;0.0;0.0;0.0;0.0
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;StandardToken;contract;84;36;42;5;6;1;1;11;21;2;3;2;0;1;6;1.2;0.2;0.2;2.2;4.2;1.2
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;SafeMath;library;44;22;19;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;Ownable;contract;29;16;10;1;1;0;0;1;6;0;0;2;0;1;1;1.0;0.0;0.0;1.0;6.0;1.0
+df33ba48f424a9fbcef7f7d7789ae07e3c21d901_DalyVentures_FundII.sol;df;BasicToken;contract;36;19;13;3;3;0;0;3;8;1;1;3;0;2;3;1.0;0.0;0.0;1.0;2.6666666666666665;1.0

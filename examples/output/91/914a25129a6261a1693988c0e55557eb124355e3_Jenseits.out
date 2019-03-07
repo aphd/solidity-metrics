@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+914a25129a6261a1693988c0e55557eb124355e3_Jenseits.sol;91;Jenseits;contract;12;12;0;5;9;4;4;1;8;0;0;0;0;2;2;1.8;0.8;0.8;0.2;1.6;0.4

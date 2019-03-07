@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d0e43e4dd75b07d7d5f6ce1153b8044ff5e0fd9d_Snip3dbridgecontract.sol;d0;Snip3DInterface;interface;21;20;0;9;9;0;0;5;0;0;0;0;0;0;0;1.0;0.0;0.0;0.5555555555555556;0.0;0.0
+d0e43e4dd75b07d7d5f6ce1153b8044ff5e0fd9d_Snip3dbridgecontract.sol;d0;Owned;contract;20;15;0;1;1;0;0;1;4;0;0;1;0;2;0;1.0;0.0;0.0;1.0;4.0;0.0
+d0e43e4dd75b07d7d5f6ce1153b8044ff5e0fd9d_Snip3dbridgecontract.sol;d0;Snip3dbridgecontract;contract;42;39;2;8;8;0;0;2;11;1;1;0;1;2;13;1.0;0.0;0.0;0.25;1.375;1.625
+d0e43e4dd75b07d7d5f6ce1153b8044ff5e0fd9d_Snip3dbridgecontract.sol;d0;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0

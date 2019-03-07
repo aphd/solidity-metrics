@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+9f65bc3af32eec8e3286078376b5a6f17a72dc3a_MultiSender.sol;9f;MultiSender;contract;24;11;12;1;2;1;1;3;6;0;0;0;1;0;2;2.0;1.0;1.0;3.0;6.0;2.0
+9f65bc3af32eec8e3286078376b5a6f17a72dc3a_MultiSender.sol;9f;ERC20;contract;3;3;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0

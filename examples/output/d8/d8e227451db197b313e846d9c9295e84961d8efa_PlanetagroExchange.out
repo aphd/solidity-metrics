@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d8e227451db197b313e846d9c9295e84961d8efa_PlanetagroExchange.sol;d8;BasicToken;contract;41;20;14;2;2;0;0;3;10;1;1;2;0;1;4;1.0;0.0;0.0;1.5;5.0;2.0
+d8e227451db197b313e846d9c9295e84961d8efa_PlanetagroExchange.sol;d8;PlanetagroExchange;contract;46;33;5;4;4;0;0;3;15;3;4;0;1;7;6;1.0;0.0;0.0;0.75;3.75;1.5
+d8e227451db197b313e846d9c9295e84961d8efa_PlanetagroExchange.sol;d8;ERC20Basic;contract;11;7;0;2;2;0;0;3;0;0;0;3;0;2;0;1.0;0.0;0.0;1.5;0.0;0.0
+d8e227451db197b313e846d9c9295e84961d8efa_PlanetagroExchange.sol;d8;SafeMath;library;41;32;2;8;8;0;0;16;14;0;0;0;0;0;3;1.0;0.0;0.0;2.0;1.75;0.375
+d8e227451db197b313e846d9c9295e84961d8efa_PlanetagroExchange.sol;d8;StandardToken;contract;73;37;28;5;6;1;1;11;22;2;3;1;0;1;10;1.2;0.2;0.2;2.2;4.4;2.0
+d8e227451db197b313e846d9c9295e84961d8efa_PlanetagroExchange.sol;d8;ERC20;contract;18;11;0;5;5;0;0;10;0;0;0;2;0;2;0;1.0;0.0;0.0;2.0;0.0;0.0

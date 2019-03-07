@@ -1,0 +1,9 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;MintableToken;contract;35;19;10;2;2;0;0;2;9;3;5;1;0;1;2;1.0;0.0;0.0;1.0;4.5;1.0
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;Ownable;contract;30;14;11;1;1;0;0;1;5;0;0;2;0;1;1;1.0;0.0;0.0;1.0;5.0;1.0
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;BasicToken;contract;28;13;10;2;2;0;0;3;5;1;1;3;0;1;2;1.0;0.0;0.0;1.5;2.5;1.0
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;SafeMath;library;25;20;0;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;TopTenCoinToken;contract;9;5;0;0;0;0;0;0;0;4;6;0;0;6;0;0.0;0.0;0.0;0.0;0.0;0.0
+9869ff129b436929e5957fb85af22c42e1d1c740_TopTenCoinToken.sol;98;StandardToken;contract;45;20;17;3;3;0;0;7;11;2;3;2;0;1;4;1.0;0.0;0.0;2.3333333333333335;3.6666666666666665;1.3333333333333333

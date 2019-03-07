@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+fd5ae5585b49abcb723edd3657f429556a4e554e_campaign.sol;fd;owned;contract;15;12;0;1;1;0;0;1;3;0;0;3;0;2;0;1.0;0.0;0.0;1.0;3.0;0.0
+fd5ae5585b49abcb723edd3657f429556a4e554e_campaign.sol;fd;IOracle;interface;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+fd5ae5585b49abcb723edd3657f429556a4e554e_campaign.sol;fd;campaign;contract;365;304;7;19;31;9;9;54;150;3;3;0;2;4;45;1.631578947368421;0.47368421052631576;0.47368421052631576;2.8421052631578947;7.894736842105263;2.3684210526315788
+fd5ae5585b49abcb723edd3657f429556a4e554e_campaign.sol;fd;oracleClient;contract;8;6;0;1;1;0;0;1;1;2;2;1;0;1;0;1.0;0.0;0.0;1.0;1.0;0.0
+fd5ae5585b49abcb723edd3657f429556a4e554e_campaign.sol;fd;ERC20Holder;contract;23;18;0;5;5;0;0;8;6;1;1;2;1;1;4;1.0;0.0;0.0;1.6;1.2;0.8
+fd5ae5585b49abcb723edd3657f429556a4e554e_campaign.sol;fd;IERC20;interface;5;4;0;2;2;0;0;5;0;0;0;0;0;0;0;1.0;0.0;0.0;2.5;0.0;0.0

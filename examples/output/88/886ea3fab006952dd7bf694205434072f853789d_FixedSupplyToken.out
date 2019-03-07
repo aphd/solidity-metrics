@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+886ea3fab006952dd7bf694205434072f853789d_FixedSupplyToken.sol;88;Owned;contract;45;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0
+886ea3fab006952dd7bf694205434072f853789d_FixedSupplyToken.sol;88;ERC20Interface;contract;20;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+886ea3fab006952dd7bf694205434072f853789d_FixedSupplyToken.sol;88;ApproveAndCallFallBack;contract;5;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+886ea3fab006952dd7bf694205434072f853789d_FixedSupplyToken.sol;88;SafeMath;library;35;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
+886ea3fab006952dd7bf694205434072f853789d_FixedSupplyToken.sol;88;FixedSupplyToken;contract;225;56;46;9;9;0;0;15;31;1;2;0;0;6;11;1.0;0.0;0.0;1.6666666666666667;3.4444444444444446;1.2222222222222223

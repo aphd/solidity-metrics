@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+3961ce832e1e4b8939b63be071c96f6340f01ea0_DINOToken.sol;39;"address&quot;);require(_to!=address(crowdSaleAddr),&quot;Cannotsendtocrowdsaleaddress&quot;);_;}modifieronlyCrowdsale";contract;11;8;2;0;0;0;0;0;0;0;0;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
+3961ce832e1e4b8939b63be071c96f6340f01ea0_DINOToken.sol;39;SafeMath;library;27;22;0;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+3961ce832e1e4b8939b63be071c96f6340f01ea0_DINOToken.sol;39;BaseDINOToken;contract;199;97;80;14;18;3;3;23;108;0;0;1;0;4;18;1.2857142857142858;0.21428571428571427;0.21428571428571427;1.6428571428571428;7.714285714285714;1.2857142857142858
+3961ce832e1e4b8939b63be071c96f6340f01ea0_DINOToken.sol;39;DINOToken;contract;32;15;18;0;0;0;0;0;12;1;1;0;0;13;0;0.0;0.0;0.0;0.0;0.0;0.0

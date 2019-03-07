@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+4368c145cb149686e0e11b8e84ea464679e46907_Subscrypto.sol;43;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+4368c145cb149686e0e11b8e84ea464679e46907_Subscrypto.sol;43;Medianizer;contract;3;3;0;1;1;0;0;0;0;0;0;0;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0
+4368c145cb149686e0e11b8e84ea464679e46907_Subscrypto.sol;43;Subscrypto;contract;447;267;123;16;40;18;18;23;219;0;0;0;2;11;44;2.5;1.125;1.125;1.4375;13.6875;2.75
+4368c145cb149686e0e11b8e84ea464679e46907_Subscrypto.sol;43;Weth;contract;6;5;0;1;1;0;0;3;0;0;0;0;0;2;0;1.0;0.0;0.0;3.0;0.0;0.0

@@ -1,0 +1,14 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage5;contract;10;6;4;0;0;0;0;0;0;5;5;5;0;4;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;MokenCategories;contract;10;8;0;1;1;0;0;2;5;10;10;0;0;0;0;1.0;0.0;0.0;2.0;5.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage4;contract;8;5;3;0;0;0;0;0;0;4;4;6;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage0;contract;4;3;1;0;0;0;0;0;0;0;0;10;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage3;contract;12;10;2;0;0;0;0;0;0;3;3;7;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage9;contract;7;4;2;0;0;0;0;0;0;9;9;1;0;2;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage2;contract;3;3;0;0;0;0;0;0;0;2;2;8;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage8;contract;14;11;6;0;0;0;0;0;0;8;8;2;0;9;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage7;contract;6;4;2;0;0;0;0;0;0;7;7;3;0;2;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;".&quot;);categoryMintPrice[_index]=_mintPrice;}functioncategoryByIndex(uint256_index)externalviewreturns(bytes32category)";contract;8;7;0;0;0;0;0;0;0;0;0;0;0;8;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage6;contract;8;5;3;0;0;0;0;0;0;6;6;4;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;Storage1;contract;6;5;1;0;0;0;0;0;0;1;1;9;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+f7ecb4119bfe090a2009d379631053513e1c661c_MokenCategories.sol;f7;".&quot;);index=categoryLength++;categories[index]=_categoryName;categoryIndex[_categoryName]=index+1;categoryMintPrice[index]=_mintPrice;emitNewCategory(index,_categoryName,_mintPrice);}functionsetCategoryMintPrice(uint256_index,uint256_mintPrice)external";contract;10;9;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.0;0.0;0.0;0.0;0.0

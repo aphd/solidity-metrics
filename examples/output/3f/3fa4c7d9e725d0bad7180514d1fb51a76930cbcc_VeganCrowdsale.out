@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+3fa4c7d9e725d0bad7180514d1fb51a76930cbcc_VeganCrowdsale.sol;3f;VeganCrowdsale;contract;47;35;11;4;5;1;1;4;14;1;1;0;0;6;12;1.25;0.25;0.25;1.0;3.5;3.0
+3fa4c7d9e725d0bad7180514d1fb51a76930cbcc_VeganCrowdsale.sol;3f;IERC20;interface;9;7;0;3;3;0;0;6;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+3fa4c7d9e725d0bad7180514d1fb51a76930cbcc_VeganCrowdsale.sol;3f;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+3fa4c7d9e725d0bad7180514d1fb51a76930cbcc_VeganCrowdsale.sol;3f;Owned;contract;10;10;0;1;1;0;0;1;2;0;0;1;0;3;0;1.0;0.0;0.0;1.0;2.0;0.0

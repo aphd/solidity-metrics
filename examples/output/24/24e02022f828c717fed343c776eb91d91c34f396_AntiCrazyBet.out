@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+24e02022f828c717fed343c776eb91d91c34f396_AntiCrazyBet.sol;24;AntiCrazyBet;contract;59;42;0;4;8;2;2;1;30;0;0;0;2;2;11;2.0;0.5;0.5;0.25;7.5;2.75
+24e02022f828c717fed343c776eb91d91c34f396_AntiCrazyBet.sol;24;PseudoBet;contract;6;6;0;0;0;0;0;0;0;0;0;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
+24e02022f828c717fed343c776eb91d91c34f396_AntiCrazyBet.sol;24;TargetInterface;interface;4;4;0;2;2;0;0;0;0;0;0;0;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0

@@ -1,0 +1,25 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;ECDSA;library;50;26;19;2;5;1;1;3;24;0;0;0;0;0;2;2.5;0.5;0.5;1.5;12.0;1.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;ERC20Burnable;contract;18;8;9;2;2;0;0;3;2;2;2;1;0;0;2;1.0;0.0;0.0;1.5;1.0;1.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;VotingMachineCallbacks;contract;79;69;3;6;12;6;6;15;29;1;1;1;2;1;17;2.0;1.0;1.0;2.5;4.833333333333333;2.8333333333333335
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;Ownable;contract;65;30;27;5;5;0;0;2;12;0;0;5;0;1;3;1.0;0.0;0.0;0.4;2.4;0.6
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;DAOToken;contract;33;18;12;1;2;1;1;2;7;3;4;0;0;4;2;2.0;1.0;1.0;2.0;7.0;2.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;Reputation;contract;161;92;55;8;17;6;6;12;46;1;1;0;0;3;13;2.125;0.75;0.75;1.5;5.75;1.625
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;VotingMachineCallbacksInterface;interface;12;10;0;6;6;0;0;15;0;0;0;2;1;0;0;1.0;0.0;0.0;2.5;0.0;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;IntVoteInterface;interface;83;46;25;8;8;0;0;13;4;0;0;2;0;0;0;1.0;0.0;0.0;1.625;0.5;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;3;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;Avatar;contract;58;32;20;3;3;0;0;4;6;1;1;0;2;8;1;1.0;0.0;0.0;1.3333333333333333;2.0;0.3333333333333333
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;ProposalExecuteInterface;interface;3;3;0;1;1;0;0;2;0;0;0;1;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;ERC20;contract;170;66;83;12;12;0;0;23;36;1;1;2;0;3;19;1.0;0.0;0.0;1.9166666666666667;3.0;1.5833333333333333
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;GenesisProtocolLogic;contract;723;503;208;13;62;21;19;27;293;1;1;1;1;12;61;4.769230769230769;1.6153846153846154;1.4615384615384615;2.076923076923077;22.53846153846154;4.6923076923076925
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;SafeERC20;library;53;28;14;3;3;0;0;10;13;0;0;0;0;22;6;1.0;0.0;0.0;3.3333333333333335;4.333333333333333;2.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;GenesisProtocol;contract;279;133;125;19;21;2;2;31;42;2;2;0;1;18;14;1.105263157894737;0.10526315789473684;0.10526315789473684;1.631578947368421;2.210526315789474;0.7368421052631579
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;SchemeRegistrar;contract;179;131;34;5;8;2;2;16;44;2;6;0;3;2;14;1.6;0.4;0.4;3.2;8.8;2.8
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;UniversalScheme;contract;21;16;4;2;2;0;0;2;8;1;2;1;1;1;3;1.0;0.0;0.0;1.0;4.0;1.5
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;Address;library;21;7;14;1;1;0;0;1;3;0;0;0;0;0;0;1.0;0.0;0.0;1.0;3.0;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;ControllerInterface;interface;184;53;110;21;21;0;0;53;0;0;0;0;2;2;0;1.0;0.0;0.0;2.5238095238095237;0.0;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;GlobalConstraintInterface;contract;12;6;4;3;3;0;0;6;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;RealMath;library;69;27;31;4;6;2;2;8;12;0;0;0;0;3;5;1.5;0.5;0.5;2.0;3.0;1.25
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;UniversalSchemeInterface;contract;6;4;0;2;2;0;0;2;0;0;0;2;1;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+7e1ec709a76837f621c2bb707cc1e6ed75e553b9_SchemeRegistrar.sol;7e;Math;library;25;11;12;3;3;0;0;6;3;0;0;0;0;0;0;1.0;0.0;0.0;2.0;1.0;0.0

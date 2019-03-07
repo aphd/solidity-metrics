@@ -1,0 +1,11 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;ApprovalReceiver;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;ERC20Basic;contract;6;5;0;2;2;0;0;3;0;0;0;4;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;StandardToken;contract;116;61;42;5;6;1;1;11;66;3;5;1;0;1;5;1.2;0.2;0.2;2.2;13.2;1.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;MUBCoin;contract;75;44;20;3;3;0;0;7;30;4;6;0;0;4;7;1.0;0.0;0.0;2.3333333333333335;10.0;2.3333333333333335
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;SafeMathUint8;library;47;26;17;5;6;1;1;10;33;0;0;0;0;0;0;1.2;0.2;0.2;2.0;6.6;0.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;Ownership;contract;21;17;0;1;1;0;0;1;8;0;0;4;0;3;0;1.0;0.0;0.0;1.0;8.0;0.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;SafeMathUint256;library;47;26;17;5;6;1;1;10;33;0;0;0;0;0;0;1.2;0.2;0.2;2.0;6.6;0.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;Controllable;contract;60;48;0;4;6;2;2;2;25;1;1;3;0;2;0;1.5;0.5;0.5;0.5;6.25;0.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;ERC20;contract;7;6;0;3;3;0;0;7;0;1;1;2;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+bfc80ebcf78094cc4cf973bdc0a2a60ad621e09d_MUBCoin.sol;bf;BasicToken;contract;50;31;11;2;2;0;0;3;25;2;3;2;0;2;2;1.0;0.0;0.0;1.5;12.5;1.0

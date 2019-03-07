@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+08c22e4024f6863655b230a1124fab135108be76_LockTokenContract.sol;08;SafeMath;library;26;22;0;4;4;0;0;8;12;0;0;0;0;0;4;1.0;0.0;0.0;2.0;3.0;1.0
+08c22e4024f6863655b230a1124fab135108be76_LockTokenContract.sol;08;LockTokenContract;contract;200;179;2;2;9;4;2;3;26;0;0;0;1;10;8;4.5;2.0;1.0;1.5;13.0;4.0
+08c22e4024f6863655b230a1124fab135108be76_LockTokenContract.sol;08;Token;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0

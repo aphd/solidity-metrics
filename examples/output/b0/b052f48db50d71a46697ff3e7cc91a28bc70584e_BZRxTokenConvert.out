@@ -1,0 +1,12 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;UnlimitedAllowanceToken;contract;48;35;8;2;3;1;1;5;33;3;4;1;0;1;7;1.5;0.5;0.5;2.5;16.5;3.5
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;ERC20;contract;14;12;0;3;3;0;0;7;0;1;1;4;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;StandardToken;contract;110;63;39;5;6;1;1;11;21;2;3;2;0;1;6;1.2;0.2;0.2;2.2;4.2;1.2
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;WETHInterface;interface;4;4;0;2;2;0;0;1;0;0;0;0;0;0;0;1.0;0.0;0.0;0.5;0.0;0.0
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;6;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;DetailedERC20;contract;11;10;0;0;0;0;0;0;3;2;2;1;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;BZRxToken;contract;36;29;0;0;0;0;0;0;6;4;7;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;BasicToken;contract;39;19;13;3;3;0;0;3;8;1;1;3;0;2;3;1.0;0.0;0.0;1.0;2.6666666666666665;1.0
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;Ownable;contract;56;27;21;3;3;0;0;2;9;0;0;2;0;1;3;1.0;0.0;0.0;0.6666666666666666;3.0;1.0
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;SafeMath;library;45;22;18;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+b052f48db50d71a46697ff3e7cc91a28bc70584e_BZRxTokenConvert.sol;b0;BZRxTokenConvert;contract;152;128;11;9;11;2;2;9;45;1;1;0;0;16;13;1.2222222222222223;0.2222222222222222;0.2222222222222222;1.0;5.0;1.4444444444444444

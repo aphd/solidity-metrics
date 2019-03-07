@@ -1,0 +1,13 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;8;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;Ownable;contract;14;10;0;1;1;0;0;0;3;0;0;4;0;1;0;1.0;0.0;0.0;0.0;3.0;0.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;CappedToken;contract;22;11;6;2;2;0;0;3;4;4;6;1;0;1;3;1.0;0.0;0.0;1.5;2.0;1.5
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;BurnableToken;contract;21;10;6;1;1;0;0;1;5;2;2;1;0;0;4;1.0;0.0;0.0;1.0;5.0;4.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;MintableToken;contract;27;16;6;1;1;0;0;2;7;3;5;2;0;1;4;1.0;0.0;0.0;2.0;7.0;4.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;Pausable;contract;41;21;12;2;2;0;0;0;8;1;1;1;0;1;2;1.0;0.0;0.0;0.0;4.0;1.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;BasicToken;contract;34;17;11;2;2;0;0;3;7;1;1;5;0;3;4;1.0;0.0;0.0;1.5;3.5;2.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;StandardToken;contract;87;36;42;5;6;1;1;11;21;2;3;3;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;5;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;DetailedERC20;contract;12;10;0;1;1;0;0;3;3;2;2;1;0;3;0;1.0;0.0;0.0;3.0;3.0;0.0
+e25eb658aea7a5573cf618f69a1df3f2badf7fd2_PIEZOCHAIN.sol;e2;PIEZOCHAIN;contract;10;6;3;1;1;0;0;0;0;5;10;0;2;3;0;1.0;0.0;0.0;0.0;0.0;0.0
