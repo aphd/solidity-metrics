@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+3d8a5da9e31cfda2a8ac782e8f884dc4f7eda986_SimpleToken.sol;3d;SimpleToken;contract;7;6;0;0;0;0;0;0;0;2;3;0;0;8;0;0.0;0.0;0.0;0.0;0.0;0.0
+3d8a5da9e31cfda2a8ac782e8f884dc4f7eda986_SimpleToken.sol;3d;ERC20;contract;72;64;0;13;13;0;0;26;32;1;1;2;0;3;18;1.0;0.0;0.0;2.0;2.4615384615384617;1.3846153846153846
+3d8a5da9e31cfda2a8ac782e8f884dc4f7eda986_SimpleToken.sol;3d;ERC20Burnable;contract;10;8;0;2;2;0;0;3;2;2;2;0;0;0;2;1.0;0.0;0.0;1.5;1.0;1.0
+3d8a5da9e31cfda2a8ac782e8f884dc4f7eda986_SimpleToken.sol;3d;ERC20Detailed;contract;23;19;0;3;3;0;0;0;6;1;1;1;0;3;0;1.0;0.0;0.0;0.0;2.0;0.0
+3d8a5da9e31cfda2a8ac782e8f884dc4f7eda986_SimpleToken.sol;3d;SafeMath;library;39;29;0;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+3d8a5da9e31cfda2a8ac782e8f884dc4f7eda986_SimpleToken.sol;3d;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;4;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0

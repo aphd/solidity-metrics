@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+06eb5444bd13815a77d72e336e8fe7dedb801709_TwoKrinkles.sol;06;TwoKrinkles;contract;12;12;0;5;9;4;4;1;8;0;0;0;0;2;2;1.8;0.8;0.8;0.2;1.6;0.4

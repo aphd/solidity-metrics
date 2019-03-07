@@ -1,0 +1,9 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;GasTracker;contract;13;8;3;0;0;0;0;0;3;0;0;2;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;BZxObjects;contract;65;58;0;0;0;0;0;0;0;0;0;2;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;BZxStorage;contract;55;40;25;0;0;0;0;0;0;1;5;1;0;38;0;0.0;0.0;0.0;0.0;0.0;0.0
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;BZxProxy;contract;9;8;0;0;0;0;0;0;14;2;7;0;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;ReentrancyGuard;contract;30;11;14;0;0;0;0;0;4;0;0;2;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;BZxProxiable;contract;7;5;0;1;1;0;0;1;0;0;0;1;0;2;0;1.0;0.0;0.0;1.0;0.0;0.0
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;BZxEvents;contract;97;86;0;0;0;0;0;0;0;0;0;2;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+1cf226e9413addaf22412a2e182f9c0de44af002_BZxProxy.sol;1c;Ownable;contract;42;22;15;2;2;0;0;2;7;0;0;2;0;1;2;1.0;0.0;0.0;1.0;3.5;1.0

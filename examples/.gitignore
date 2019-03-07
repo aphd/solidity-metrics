@@ -1,6 +1,6 @@
 # Output files
-contracts.json
-output/
+# contracts.json
+# output/
 
 # Jupyter Notebook
 .ipynb_checkpoints

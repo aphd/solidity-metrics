@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+e54b3458c47e44c37a267e7c633afef88287c294_TokenArtFinity.sol;e5;owned;contract;9;8;0;0;0;0;0;0;3;0;0;1;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+e54b3458c47e44c37a267e7c633afef88287c294_TokenArtFinity.sol;e5;TokenArtFinity;contract;73;59;1;7;7;0;0;14;26;1;1;0;0;9;4;1.0;0.0;0.0;2.0;3.7142857142857144;0.5714285714285714

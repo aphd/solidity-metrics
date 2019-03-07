@@ -1,0 +1,8 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+dac064e9b22383fcd4c1142f570df95b7d04021f_MRPROTokenContract.sol;da;tokenRecipientInterface;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+dac064e9b22383fcd4c1142f570df95b7d04021f_MRPROTokenContract.sol;da;ERC20Token;contract;157;65;78;11;11;0;0;19;32;2;4;1;1;7;15;1.0;0.0;0.0;1.7272727272727273;2.909090909090909;1.3636363636363635
+dac064e9b22383fcd4c1142f570df95b7d04021f_MRPROTokenContract.sol;da;Owned;contract;17;13;1;1;1;0;0;1;2;0;0;3;0;5;0;1.0;0.0;0.0;1.0;2.0;0.0
+dac064e9b22383fcd4c1142f570df95b7d04021f_MRPROTokenContract.sol;da;MRPROTokenContract;contract;13;9;3;0;0;0;0;0;7;3;5;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+dac064e9b22383fcd4c1142f570df95b7d04021f_MRPROTokenContract.sol;da;SafeMath;contract;22;18;0;3;4;1;1;6;8;0;0;2;0;1;3;1.3333333333333333;0.3333333333333333;0.3333333333333333;2.0;2.6666666666666665;1.0
+dac064e9b22383fcd4c1142f570df95b7d04021f_MRPROTokenContract.sol;da;Lockable;contract;22;16;0;2;2;0;0;4;6;1;1;2;0;1;0;1.0;0.0;0.0;2.0;3.0;0.0
+dac064e9b22383fcd4c1142f570df95b7d04021f_MRPROTokenContract.sol;da;ERC20TokenInterface;contract;11;10;0;6;6;0;0;10;0;0;0;2;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0

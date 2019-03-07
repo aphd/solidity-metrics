@@ -1,0 +1,10 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;Distribution;contract;30;25;0;1;2;1;1;2;19;2;4;0;1;1;3;2.0;1.0;1.0;2.0;19.0;3.0
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;0;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;SafeERC20;library;20;18;0;3;3;0;0;10;3;0;0;0;2;0;3;1.0;0.0;0.0;3.3333333333333335;1.0;1.0
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;Claimable;contract;28;15;10;2;2;0;0;1;6;1;1;1;0;1;1;1.0;0.0;0.0;0.5;3.0;0.5
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;Whitelist;contract;70;37;26;4;10;6;6;4;16;1;1;1;0;1;2;2.5;1.5;1.5;1.0;4.0;0.5
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;Ownable;contract;34;16;11;2;2;0;0;1;6;0;0;4;0;1;1;1.0;0.0;0.0;0.5;3.0;0.5
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;CanReclaimToken;contract;13;7;4;1;1;0;0;1;2;1;1;1;1;0;2;1.0;0.0;0.0;1.0;2.0;2.0
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;SafeMath;library;41;22;15;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+6d6f337ef9da52cd32334c4b26766ecf81353551_Distribution.sol;6d;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;1;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0

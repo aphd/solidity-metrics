@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f9514a8fd03888ceca74c1db030f0c6b3b4b06d2_ICOBucket.sol;f9;IMintableToken;interface;3;3;0;1;1;0;0;2;0;0;0;1;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+f9514a8fd03888ceca74c1db030f0c6b3b4b06d2_ICOBucket.sol;f9;RBACMixin;contract;114;58;43;8;10;2;2;10;23;0;0;1;0;7;6;1.25;0.25;0.25;1.25;2.875;0.75
+f9514a8fd03888ceca74c1db030f0c6b3b4b06d2_ICOBucket.sol;f9;ICOBucket;contract;83;39;36;5;5;0;0;6;18;1;2;0;1;5;8;1.0;0.0;0.0;1.2;3.6;1.6
+f9514a8fd03888ceca74c1db030f0c6b3b4b06d2_ICOBucket.sol;f9;SafeMath;library;45;22;18;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75

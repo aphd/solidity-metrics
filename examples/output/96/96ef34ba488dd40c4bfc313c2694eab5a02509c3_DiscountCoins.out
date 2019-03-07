@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+96ef34ba488dd40c4bfc313c2694eab5a02509c3_DiscountCoins.sol;96;BasicToken;contract;65;30;26;4;4;0;0;6;12;1;1;1;0;2;5;1.0;0.0;0.0;1.5;3.0;1.25
+96ef34ba488dd40c4bfc313c2694eab5a02509c3_DiscountCoins.sol;96;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;1;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+96ef34ba488dd40c4bfc313c2694eab5a02509c3_DiscountCoins.sol;96;DiscountCoins;contract;95;52;37;7;7;0;0;10;30;2;3;0;0;6;10;1.0;0.0;0.0;1.4285714285714286;4.285714285714286;1.4285714285714286
+96ef34ba488dd40c4bfc313c2694eab5a02509c3_DiscountCoins.sol;96;SafeMath;library;41;22;15;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+96ef34ba488dd40c4bfc313c2694eab5a02509c3_DiscountCoins.sol;96;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;3;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0

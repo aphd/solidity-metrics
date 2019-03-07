@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+ad90f2dcfb34a6ace762ad6bb0f9b53abcad2c5c_ClothesStores.sol;ad;ClothesStores;contract;27;18;0;2;2;0;0;2;6;0;0;0;0;2;2;1.0;0.0;0.0;1.0;3.0;1.0

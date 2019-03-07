@@ -1,0 +1,20 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;ProxyRegistry;contract;125;63;47;7;7;0;0;6;70;1;2;0;2;5;7;1.0;0.0;0.0;0.8571428571428571;10.0;1.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;OwnedUpgradeabilityProxy;contract;71;29;35;5;5;0;0;5;33;1;2;1;1;0;7;1.0;0.0;0.0;1.0;6.6;1.4
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;OwnableDelegateProxy;contract;12;10;0;0;0;0;0;0;7;2;3;0;1;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;Ownable;contract;65;30;27;5;5;0;0;2;12;0;0;1;0;1;3;1.0;0.0;0.0;0.4;2.4;0.6
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;StaticCaller;contract;30;27;0;2;2;0;0;4;9;0;0;3;0;0;0;1.0;0.0;0.0;2.0;4.5;0.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;ERC20;contract;170;66;83;12;12;0;0;23;36;1;1;0;0;3;19;1.0;0.0;0.0;1.9166666666666667;3.0;1.5833333333333333
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;Exchange;contract;73;62;1;8;8;0;0;42;9;2;4;1;0;0;9;1.0;0.0;0.0;5.25;1.125;1.125
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;ReentrancyGuarded;contract;13;9;1;0;0;0;0;0;7;0;0;3;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;WyvernExchange;contract;21;14;2;0;0;0;0;0;23;3;5;0;1;7;0;0.0;0.0;0.0;0.0;0.0;0.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;AuthenticatedProxy;contract;63;27;27;3;3;0;0;6;28;1;2;0;1;4;1;1.0;0.0;0.0;2.0;9.333333333333334;0.3333333333333333
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;Proxy;contract;35;18;12;3;3;0;0;0;6;0;0;2;1;0;2;1.0;0.0;0.0;0.0;2.0;0.6666666666666666
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;ExchangeCore;contract;340;187;82;12;26;5;5;36;131;1;3;2;3;14;21;2.1666666666666665;0.4166666666666667;0.4166666666666667;3.0;10.916666666666666;1.75
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;ProxyRegistryInterface;interface;7;4;0;2;2;0;0;1;0;0;0;1;1;0;0;1.0;0.0;0.0;0.5;0.0;0.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;TokenRecipient;contract;24;12;10;2;2;0;0;4;8;0;0;1;1;0;2;1.0;0.0;0.0;2.0;4.0;1.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;EIP712;contract;30;25;0;1;1;0;0;1;1;0;0;3;0;8;1;1.0;0.0;0.0;1.0;1.0;1.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;authorized;contract;25;15;8;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+d7ca74ff003c90e62505d21ec7dac36bcfd9f6f2_WyvernExchange.sol;d7;OwnedUpgradeabilityStorage;contract;40;16;17;4;4;0;0;1;4;0;0;3;0;2;0;1.0;0.0;0.0;0.25;1.0;0.0

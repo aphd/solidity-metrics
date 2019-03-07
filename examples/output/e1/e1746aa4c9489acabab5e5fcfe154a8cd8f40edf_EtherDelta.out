@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+e1746aa4c9489acabab5e5fcfe154a8cd8f40edf_EtherDelta.sol;e1;ReserveToken;contract;25;20;3;2;2;0;0;4;8;2;2;0;0;1;3;1.0;0.0;0.0;2.0;4.0;1.5
+e1746aa4c9489acabab5e5fcfe154a8cd8f40edf_EtherDelta.sol;e1;EtherDelta;contract;260;200;28;16;24;6;6;74;148;1;1;0;0;7;31;1.5;0.375;0.375;4.625;9.25;1.9375
+e1746aa4c9489acabab5e5fcfe154a8cd8f40edf_EtherDelta.sol;e1;ERC20;contract;106;65;12;5;5;0;0;10;33;1;1;1;0;5;4;1.0;0.0;0.0;2.0;6.6;0.8
+e1746aa4c9489acabab5e5fcfe154a8cd8f40edf_EtherDelta.sol;e1;SafeMath;contract;22;20;2;3;3;0;0;6;8;0;0;3;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0

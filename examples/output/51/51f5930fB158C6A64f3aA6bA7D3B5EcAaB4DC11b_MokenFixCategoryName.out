@@ -1,0 +1,12 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage0;contract;4;3;1;0;0;0;0;0;0;0;0;9;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage1;contract;6;5;1;0;0;0;0;0;0;1;1;8;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage5;contract;10;6;4;0;0;0;0;0;0;5;5;4;0;4;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage6;contract;8;5;3;0;0;0;0;0;0;6;6;3;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage8;contract;14;11;6;0;0;0;0;0;0;8;8;1;0;9;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;".&quot;);deletecategoryIndex[categories[categoryLength-1]];categories[categoryLength-1]=_categoryName;categoryIndex[_categoryName]=categoryLength;}}";contract;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;MokenFixCategoryName;contract;4;3;0;1;1;0;0;1;5;9;9;0;0;0;0;1.0;0.0;0.0;1.0;5.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage2;contract;3;3;0;0;0;0;0;0;0;2;2;7;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage3;contract;12;10;2;0;0;0;0;0;0;3;3;6;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage4;contract;8;5;3;0;0;0;0;0;0;4;4;5;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
+51f5930fB158C6A64f3aA6bA7D3B5EcAaB4DC11b_MokenFixCategoryName.sol;51;Storage7;contract;6;4;2;0;0;0;0;0;0;7;7;2;0;2;0;0.0;0.0;0.0;0.0;0.0;0.0

@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c03336e65c175b077771eeadac345161eae1e09c_CGCXMarchMassLock.sol;c0;CGCXMarchMassLock;contract;43;30;4;4;6;2;2;4;12;1;1;0;1;3;4;1.5;0.5;0.5;1.0;3.0;1.0
+c03336e65c175b077771eeadac345161eae1e09c_CGCXMarchMassLock.sol;c0;ERC20;contract;18;16;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+c03336e65c175b077771eeadac345161eae1e09c_CGCXMarchMassLock.sol;c0;SafeERC20;library;20;18;0;3;3;0;0;10;3;0;0;0;1;0;3;1.0;0.0;0.0;3.3333333333333335;1.0;1.0
+c03336e65c175b077771eeadac345161eae1e09c_CGCXMarchMassLock.sol;c0;Ownable;contract;68;33;27;5;5;0;0;2;12;0;0;1;0;1;3;1.0;0.0;0.0;0.4;2.4;0.6

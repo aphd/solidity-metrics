@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+777777d1123591df7f68e053bc182de3cd4fa6de_SlotsCoin.sol;77;SlotsCoin;contract;56;47;1;1;1;0;0;1;9;1;1;0;0;29;0;1.0;0.0;0.0;1.0;9.0;0.0
+777777d1123591df7f68e053bc182de3cd4fa6de_SlotsCoin.sol;77;Ownable;contract;20;10;7;0;0;0;0;0;3;0;0;1;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+777777d1123591df7f68e053bc182de3cd4fa6de_SlotsCoin.sol;77;SafeMath;library;32;25;4;4;5;1;1;8;14;0;0;0;0;0;4;1.25;0.25;0.25;2.0;3.5;1.0

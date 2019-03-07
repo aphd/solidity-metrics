@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c6c0b53af6d992998567ef2c5547cb95daf72958_fubicaiToken.sol;c6;fubicaiToken;contract;74;62;0;10;10;0;0;16;33;1;2;0;0;6;12;1.0;0.0;0.0;1.6;3.3;1.2
+c6c0b53af6d992998567ef2c5547cb95daf72958_fubicaiToken.sol;c6;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+c6c0b53af6d992998567ef2c5547cb95daf72958_fubicaiToken.sol;c6;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+c6c0b53af6d992998567ef2c5547cb95daf72958_fubicaiToken.sol;c6;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
+c6c0b53af6d992998567ef2c5547cb95daf72958_fubicaiToken.sol;c6;Owned;contract;25;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0

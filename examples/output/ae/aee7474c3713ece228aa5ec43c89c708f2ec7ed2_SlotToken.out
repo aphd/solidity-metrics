@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+aee7474c3713ece228aa5ec43c89c708f2ec7ed2_SlotToken.sol;ae;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+aee7474c3713ece228aa5ec43c89c708f2ec7ed2_SlotToken.sol;ae;ERC20Detailed;contract;32;19;9;3;3;0;0;0;6;1;1;1;0;3;0;1.0;0.0;0.0;0.0;2.0;0.0
+aee7474c3713ece228aa5ec43c89c708f2ec7ed2_SlotToken.sol;ae;SlotToken;contract;87;44;30;6;6;0;0;6;12;2;3;0;0;25;0;1.0;0.0;0.0;1.0;2.0;0.0
+aee7474c3713ece228aa5ec43c89c708f2ec7ed2_SlotToken.sol;ae;IERC20;interface;28;21;0;6;6;0;0;10;0;0;0;3;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+aee7474c3713ece228aa5ec43c89c708f2ec7ed2_SlotToken.sol;ae;ERC20;contract;193;98;74;11;11;0;0;20;41;1;1;1;0;3;21;1.0;0.0;0.0;1.8181818181818181;3.727272727272727;1.9090909090909092

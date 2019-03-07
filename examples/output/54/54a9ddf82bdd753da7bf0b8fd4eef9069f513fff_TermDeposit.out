@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+54a9ddf82bdd753da7bf0b8fd4eef9069f513fff_TermDeposit.sol;54;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+54a9ddf82bdd753da7bf0b8fd4eef9069f513fff_TermDeposit.sol;54;TermDeposit;contract;424;316;64;15;42;17;17;19;243;1;1;0;1;14;31;2.8;1.1333333333333333;1.1333333333333333;1.2666666666666666;16.2;2.066666666666667
+54a9ddf82bdd753da7bf0b8fd4eef9069f513fff_TermDeposit.sol;54;SafeERC20;library;29;21;3;5;5;0;0;16;8;0;0;0;1;0;9;1.0;0.0;0.0;3.2;1.6;1.8
+54a9ddf82bdd753da7bf0b8fd4eef9069f513fff_TermDeposit.sol;54;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+54a9ddf82bdd753da7bf0b8fd4eef9069f513fff_TermDeposit.sol;54;WhitelistAdminRole;contract;39;30;0;5;5;0;0;4;10;0;0;1;1;1;5;1.0;0.0;0.0;0.8;2.0;1.0
+54a9ddf82bdd753da7bf0b8fd4eef9069f513fff_TermDeposit.sol;54;Roles;library;34;19;10;3;3;0;0;6;8;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0

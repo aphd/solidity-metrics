@@ -1,0 +1,13 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;CutieCoreInterface;contract;105;86;0;22;22;0;0;36;0;0;0;0;1;1;0;1.0;0.0;0.0;1.6363636363636365;0.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;Ownable;contract;34;16;11;1;1;0;0;1;6;0;0;3;0;1;1;1.0;0.0;0.0;1.0;6.0;1.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;TokenFallback;interface;4;4;0;1;1;0;0;3;0;0;0;2;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;TokenRecipientInterface;interface;4;4;0;1;1;0;0;4;0;0;0;2;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;TokenRegistryInterface;interface;12;12;0;9;9;0;0;12;0;0;0;0;1;0;0;1.0;0.0;0.0;1.3333333333333333;0.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;Pausable;contract;39;21;12;2;2;0;0;0;8;1;1;2;0;1;0;1.0;0.0;0.0;0.0;4.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;SaleMarket;contract;18;12;5;1;1;0;0;1;2;3;6;0;0;1;2;1.0;0.0;0.0;1.0;2.0;2.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;MarketInterface;contract;25;21;0;6;6;0;0;14;0;0;0;2;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;ERC20;contract;31;17;6;10;10;0;0;20;0;0;0;0;0;3;0;1.0;0.0;0.0;2.0;0.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;Gen0CallbackInterface;interface;4;4;0;1;1;0;0;1;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;Market;contract;630;433;111;37;47;9;9;65;148;2;5;1;4;6;82;1.2702702702702702;0.24324324324324326;0.24324324324324326;1.7567567567567568;4.0;2.2162162162162162
+338ffc2cafc121bc83bf7a610ccc136ba7247b64_SaleMarket.sol;33;ConfigInterface;interface;18;13;0;10;10;0;0;13;0;0;0;0;0;0;0;1.0;0.0;0.0;1.3;0.0;0.0

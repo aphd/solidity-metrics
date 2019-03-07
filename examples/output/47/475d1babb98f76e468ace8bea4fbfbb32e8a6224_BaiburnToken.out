@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+475d1babb98f76e468ace8bea4fbfbb32e8a6224_BaiburnToken.sol;47;Pausable;contract;26;21;0;2;2;0;0;0;8;1;1;1;0;1;0;1.0;0.0;0.0;0.0;4.0;0.0
+475d1babb98f76e468ace8bea4fbfbb32e8a6224_BaiburnToken.sol;47;SafeMath;library;29;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+475d1babb98f76e468ace8bea4fbfbb32e8a6224_BaiburnToken.sol;47;BaiburnToken;contract;243;191;4;22;28;6;6;37;107;2;3;0;2;10;36;1.2727272727272727;0.2727272727272727;0.2727272727272727;1.6818181818181819;4.863636363636363;1.6363636363636365
+475d1babb98f76e468ace8bea4fbfbb32e8a6224_BaiburnToken.sol;47;TokenRecipient;interface;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+475d1babb98f76e468ace8bea4fbfbb32e8a6224_BaiburnToken.sol;47;ERC20;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+475d1babb98f76e468ace8bea4fbfbb32e8a6224_BaiburnToken.sol;47;Ownable;contract;31;26;0;2;2;0;0;1;11;0;0;2;0;2;1;1.0;0.0;0.0;0.5;5.5;0.5

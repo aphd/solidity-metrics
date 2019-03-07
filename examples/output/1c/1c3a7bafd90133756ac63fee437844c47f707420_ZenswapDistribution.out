@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+1c3a7bafd90133756ac63fee437844c47f707420_ZenswapDistribution.sol;1c;Ownable;contract;17;13;0;1;1;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;1.0;4.0;0.0
+1c3a7bafd90133756ac63fee437844c47f707420_ZenswapDistribution.sol;1c;token;interface;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+1c3a7bafd90133756ac63fee437844c47f707420_ZenswapDistribution.sol;1c;ZenswapDistribution;contract;51;22;17;3;4;1;1;5;10;1;1;0;1;1;6;1.3333333333333333;0.3333333333333333;0.3333333333333333;1.6666666666666667;3.3333333333333335;2.0

@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+8290333cef9e6d528dd5618fb97a76f268f3edd4_ANKRToken.sol;82;SafeMath;library;45;22;18;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+8290333cef9e6d528dd5618fb97a76f268f3edd4_ANKRToken.sol;82;ANKRToken;contract;12;11;0;0;0;0;0;0;3;3;4;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
+8290333cef9e6d528dd5618fb97a76f268f3edd4_ANKRToken.sol;82;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;4;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+8290333cef9e6d528dd5618fb97a76f268f3edd4_ANKRToken.sol;82;StandardToken;contract;111;63;39;5;6;1;1;11;40;2;3;1;0;1;6;1.2;0.2;0.2;2.2;8.0;1.2
+8290333cef9e6d528dd5618fb97a76f268f3edd4_ANKRToken.sol;82;BasicToken;contract;39;19;13;3;3;0;0;3;21;1;1;2;0;2;3;1.0;0.0;0.0;1.0;7.0;1.0
+8290333cef9e6d528dd5618fb97a76f268f3edd4_ANKRToken.sol;82;ERC20;contract;14;12;0;3;3;0;0;7;0;1;1;2;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0

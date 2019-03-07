@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+83a00b57bd2365cdba6eba562b28f588ea948623_AraniumToken.sol;83;SafeERC20;library;15;11;0;3;3;0;0;10;3;0;0;0;1;0;3;1.0;0.0;0.0;3.3333333333333335;1.0;1.0
+83a00b57bd2365cdba6eba562b28f588ea948623_AraniumToken.sol;83;SafeMath;library;42;22;15;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+83a00b57bd2365cdba6eba562b28f588ea948623_AraniumToken.sol;83;AraniumToken;contract;195;159;3;20;21;1;1;23;78;0;0;0;1;15;20;1.05;0.05;0.05;1.15;3.9;1.0

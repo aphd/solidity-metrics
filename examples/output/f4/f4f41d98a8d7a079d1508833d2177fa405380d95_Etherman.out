@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f4f41d98a8d7a079d1508833d2177fa405380d95_Etherman.sol;f4;Ownable;contract;42;22;15;2;2;0;0;2;7;0;0;3;0;1;2;1.0;0.0;0.0;1.0;3.5;1.0
+f4f41d98a8d7a079d1508833d2177fa405380d95_Etherman.sol;f4;cannot;contract;12;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+f4f41d98a8d7a079d1508833d2177fa405380d95_Etherman.sol;f4;calling;contract;200;144;42;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+f4f41d98a8d7a079d1508833d2177fa405380d95_Etherman.sol;f4;Etherman;contract;26;21;0;0;0;0;0;0;2;3;3;0;0;2;0;0.0;0.0;0.0;0.0;0.0;0.0
+f4f41d98a8d7a079d1508833d2177fa405380d95_Etherman.sol;f4;Mortal;contract;35;18;13;4;4;0;0;0;26;1;1;2;0;3;2;1.0;0.0;0.0;0.0;6.5;0.5
+f4f41d98a8d7a079d1508833d2177fa405380d95_Etherman.sol;f4;Administrable;contract;133;87;32;10;10;0;0;19;66;2;2;1;0;17;10;1.0;0.0;0.0;1.9;6.6;1.0

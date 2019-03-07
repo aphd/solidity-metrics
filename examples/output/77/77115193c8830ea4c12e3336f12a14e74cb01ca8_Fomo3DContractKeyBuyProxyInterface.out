@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+77115193c8830ea4c12e3336f12a14e74cb01ca8_Fomo3DContractKeyBuyProxyInterface.sol;77;Fomo3DContractKeyBuyProxyInterface;contract;21;16;2;1;1;0;0;0;3;0;0;0;2;3;3;1.0;0.0;0.0;0.0;3.0;3.0
+77115193c8830ea4c12e3336f12a14e74cb01ca8_Fomo3DContractKeyBuyProxyInterface.sol;77;ChildContract;contract;7;6;0;0;0;0;0;0;1;0;0;0;1;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+77115193c8830ea4c12e3336f12a14e74cb01ca8_Fomo3DContractKeyBuyProxyInterface.sol;77;LongInterface;interface;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0

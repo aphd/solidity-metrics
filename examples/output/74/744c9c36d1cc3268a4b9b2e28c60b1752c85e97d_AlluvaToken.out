@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+744c9c36d1cc3268a4b9b2e28c60b1752c85e97d_AlluvaToken.sol;74;ERC20Interface;contract;12;10;0;5;5;0;0;10;0;0;0;1;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0
+744c9c36d1cc3268a4b9b2e28c60b1752c85e97d_AlluvaToken.sol;74;Owned;contract;33;21;7;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0
+744c9c36d1cc3268a4b9b2e28c60b1752c85e97d_AlluvaToken.sol;74;AlluvaToken;contract;128;63;47;9;9;0;0;16;36;1;3;0;0;7;14;1.0;0.0;0.0;1.7777777777777777;4.0;1.5555555555555556
+744c9c36d1cc3268a4b9b2e28c60b1752c85e97d_AlluvaToken.sol;74;SafeMath;contract;22;18;4;4;4;0;0;8;8;0;0;1;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0

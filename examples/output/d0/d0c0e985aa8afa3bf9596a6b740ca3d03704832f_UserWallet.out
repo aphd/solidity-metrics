@@ -1,0 +1,8 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d0c0e985aa8afa3bf9596a6b740ca3d03704832f_UserWallet.sol;d0;DefaultSweeper;contract;30;25;0;1;5;2;2;2;15;1;1;0;1;0;7;5.0;2.0;2.0;2.0;15.0;7.0
+d0c0e985aa8afa3bf9596a6b740ca3d03704832f_UserWallet.sol;d0;Token;contract;12;11;0;2;2;0;0;3;5;0;0;0;0;0;0;1.0;0.0;0.0;1.5;2.5;0.0
+d0c0e985aa8afa3bf9596a6b740ca3d03704832f_UserWallet.sol;d0;UserWallet;contract;22;18;0;3;3;0;0;5;7;0;0;0;1;1;3;1.0;0.0;0.0;1.6666666666666667;2.3333333333333335;1.0
+d0c0e985aa8afa3bf9596a6b740ca3d03704832f_UserWallet.sol;d0;WalletController;contract;48;38;0;7;9;2;2;12;14;2;2;0;2;3;2;1.2857142857142858;0.2857142857142857;0.2857142857142857;1.7142857142857142;2.0;0.2857142857142857
+d0c0e985aa8afa3bf9596a6b740ca3d03704832f_UserWallet.sol;d0;RequiringAuthorization;contract;20;16;0;2;2;0;0;2;5;1;1;1;0;1;0;1.0;0.0;0.0;1.0;2.5;0.0
+d0c0e985aa8afa3bf9596a6b740ca3d03704832f_UserWallet.sol;d0;AbstractSweeper;contract;16;12;0;2;2;0;0;2;5;0;0;1;1;1;1;1.0;0.0;0.0;1.0;2.5;0.5
+d0c0e985aa8afa3bf9596a6b740ca3d03704832f_UserWallet.sol;d0;Owned;contract;16;13;0;1;1;0;0;1;4;0;0;2;0;1;0;1.0;0.0;0.0;1.0;4.0;0.0

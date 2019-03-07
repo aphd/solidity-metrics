@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+a2e655dd84ffb827bb6ae1f23d7d3b4173b143b1_CryptoTycoonsVIPLib.sol;a2;CryptoTycoonsVIPLib;contract;108;85;4;10;22;12;3;9;65;0;0;0;0;8;4;2.2;1.2;0.3;0.9;6.5;0.4

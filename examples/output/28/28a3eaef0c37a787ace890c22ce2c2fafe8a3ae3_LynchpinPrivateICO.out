@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+28a3eaef0c37a787ace890c22ce2c2fafe8a3ae3_LynchpinPrivateICO.sol;28;ERC20;interface;12;11;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+28a3eaef0c37a787ace890c22ce2c2fafe8a3ae3_LynchpinPrivateICO.sol;28;LynchpinPrivateICO;contract;95;76;2;7;7;0;0;4;35;1;1;0;1;10;12;1.0;0.0;0.0;0.5714285714285714;5.0;1.7142857142857142
+28a3eaef0c37a787ace890c22ce2c2fafe8a3ae3_LynchpinPrivateICO.sol;28;LynchpinToken;contract;70;57;1;8;8;0;0;13;19;1;1;0;0;9;9;1.0;0.0;0.0;1.625;2.375;1.125
+28a3eaef0c37a787ace890c22ce2c2fafe8a3ae3_LynchpinPrivateICO.sol;28;SafeMath;library;39;29;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+28a3eaef0c37a787ace890c22ce2c2fafe8a3ae3_LynchpinPrivateICO.sol;28;Ownable;contract;24;20;0;1;1;0;0;1;6;0;0;1;0;1;1;1.0;0.0;0.0;1.0;6.0;1.0

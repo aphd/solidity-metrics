@@ -1,0 +1,16 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;SafeERC20;library;61;52;3;5;5;0;0;16;8;0;0;0;1;0;9;1.0;0.0;0.0;3.2;1.6;1.8
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;CappedCrowdsale;contract;46;24;16;3;3;0;0;2;6;2;2;2;0;1;3;1.0;0.0;0.0;0.6666666666666666;2.0;1.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;Ownable;contract;68;33;27;5;5;0;0;2;12;0;0;4;0;1;3;1.0;0.0;0.0;0.4;2.4;0.6
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;ReentrancyGuard;contract;26;12;10;0;0;0;0;0;5;0;0;5;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;BaseCrowdsale;contract;111;62;40;6;6;0;0;4;12;3;6;1;1;2;6;1.0;0.0;0.0;0.6666666666666666;2.0;1.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;Contributions;contract;114;54;42;9;10;1;1;8;15;2;3;0;0;4;6;1.1111111111111112;0.1111111111111111;0.1111111111111111;0.8888888888888888;1.6666666666666667;0.6666666666666666
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;Roles;library;38;23;10;3;3;0;0;6;8;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;OperatorRole;contract;39;30;0;5;5;0;0;4;10;0;0;1;1;1;5;1.0;0.0;0.0;0.8;2.0;1.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;ERC20;contract;199;97;80;12;12;0;0;23;38;1;1;0;0;3;21;1.0;0.0;0.0;1.9166666666666667;3.1666666666666665;1.75
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;TimedCrowdsale;contract;76;37;29;5;5;0;0;2;11;2;2;2;0;2;1;1.0;0.0;0.0;0.4;2.2;0.2
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;Crowdsale;contract;222;102;92;13;13;0;0;12;26;1;1;4;1;4;13;1.0;0.0;0.0;0.9230769230769231;2.0;1.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;TokenRecover;contract;17;11;5;1;1;0;0;2;1;1;1;3;0;0;2;1.0;0.0;0.0;2.0;1.0;2.0
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;ForkTokenSale;contract;78;50;20;5;5;0;0;4;8;4;7;0;0;2;4;1.0;0.0;0.0;0.8;1.6;0.8
+4ec0cb5c73a9ed73ea821806f2701b29e6e44f0d_ForkTokenSale.sol;4e;IERC20;interface;28;21;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0

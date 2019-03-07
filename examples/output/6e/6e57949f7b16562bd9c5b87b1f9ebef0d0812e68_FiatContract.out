@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+6e57949f7b16562bd9c5b87b1f9ebef0d0812e68_FiatContract.sol;6e;FiatContract;contract;27;21;2;0;0;0;0;0;0;0;0;0;0;5;0;0.0;0.0;0.0;0.0;0.0;0.0

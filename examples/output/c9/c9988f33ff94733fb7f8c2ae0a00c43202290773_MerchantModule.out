@@ -1,0 +1,15 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;EtherPaymentFallback;contract;10;7;1;1;1;0;0;0;0;0;0;2;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;MasterCopy;contract;16;10;5;1;1;0;0;1;8;1;1;2;0;1;1;1.0;0.0;0.0;1.0;8.0;1.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;Executor;contract;49;41;3;4;6;2;1;13;10;1;1;1;1;0;4;1.5;0.5;0.25;3.25;2.5;1.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;SM;interface;33;30;0;3;3;0;0;20;0;0;0;0;1;6;0;1.0;0.0;0.0;6.666666666666667;0.0;0.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;MerchantModule;contract;153;108;5;4;7;2;2;12;87;3;4;0;3;11;18;1.75;0.5;0.5;3.0;21.75;4.5
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;DSMath;library;76;53;15;14;16;2;2;30;19;0;0;0;0;2;11;1.1428571428571428;0.14285714285714285;0.14285714285714285;2.142857142857143;1.3571428571428572;0.7857142857142857
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;Enum;contract;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;OracleRegistry;interface;21;17;0;4;4;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;0.5;0.0;0.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;SecuredTokenTransfer;contract;27;21;5;1;1;0;0;3;10;0;0;1;0;0;1;1.0;0.0;0.0;3.0;10.0;1.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;Module;contract;18;13;2;1;1;0;0;0;13;2;2;1;1;1;2;1.0;0.0;0.0;0.0;13.0;2.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;ERC20;interface;17;10;0;7;7;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.4285714285714286;0.0;0.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;SelfAuthorized;contract;3;3;0;0;0;0;0;0;7;0;0;4;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;ModuleManager;contract;93;62;22;5;8;2;2;9;59;2;3;0;2;2;7;1.6;0.4;0.4;1.8;11.8;1.4
+c9988f33ff94733fb7f8c2ae0a00c43202290773_MerchantModule.sol;c9;&quot;contract;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0

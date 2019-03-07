@@ -1,0 +1,8 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+adef4de5a5ce8c57a10a8cffb6dbf1cc51528983_BhuoCoin.sol;ad;tokenRecipient;interface;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+adef4de5a5ce8c57a10a8cffb6dbf1cc51528983_BhuoCoin.sol;ad;BhuoCoin;contract;51;37;0;5;5;0;0;8;20;3;4;0;0;4;7;1.0;0.0;0.0;1.6;4.0;1.4
+adef4de5a5ce8c57a10a8cffb6dbf1cc51528983_BhuoCoin.sol;ad;Ownable;contract;27;20;0;2;2;0;0;2;8;1;1;2;0;1;1;1.0;0.0;0.0;1.0;4.0;0.5
+adef4de5a5ce8c57a10a8cffb6dbf1cc51528983_BhuoCoin.sol;ad;Lockable;contract;18;14;0;2;3;1;1;2;6;2;2;1;0;1;1;1.5;0.5;0.5;1.0;3.0;0.5
+adef4de5a5ce8c57a10a8cffb6dbf1cc51528983_BhuoCoin.sol;ad;SafeMath;library;12;11;0;2;2;0;0;4;11;0;0;0;1;0;0;1.0;0.0;0.0;2.0;5.5;0.0
+adef4de5a5ce8c57a10a8cffb6dbf1cc51528983_BhuoCoin.sol;ad;TokenERC20;contract;80;62;0;6;7;1;1;15;29;0;0;1;1;6;12;1.1666666666666667;0.16666666666666666;0.16666666666666666;2.5;4.833333333333333;2.0
+adef4de5a5ce8c57a10a8cffb6dbf1cc51528983_BhuoCoin.sol;ad;BhConfig;contract;8;7;0;0;0;0;0;0;0;0;0;3;1;6;0;0.0;0.0;0.0;0.0;0.0;0.0

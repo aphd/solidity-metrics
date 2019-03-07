@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+83e93a1d6120bf8de84de520923ced1811f3f64a_SamsungCryptoPayments.sol;83;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;1;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+83e93a1d6120bf8de84de520923ced1811f3f64a_SamsungCryptoPayments.sol;83;SamsungCryptoPayments;contract;258;203;4;20;37;8;7;26;113;2;2;0;1;21;32;1.85;0.4;0.35;1.3;5.65;1.6
+83e93a1d6120bf8de84de520923ced1811f3f64a_SamsungCryptoPayments.sol;83;SafeMath;library;41;22;15;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
+83e93a1d6120bf8de84de520923ced1811f3f64a_SamsungCryptoPayments.sol;83;ForeignToken;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+83e93a1d6120bf8de84de520923ced1811f3f64a_SamsungCryptoPayments.sol;83;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;2;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0

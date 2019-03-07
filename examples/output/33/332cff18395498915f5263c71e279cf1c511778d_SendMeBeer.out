@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+332cff18395498915f5263c71e279cf1c511778d_SendMeBeer.sol;33;SendMeBeer;contract;9;9;0;2;2;0;0;0;2;0;0;0;0;1;1;1.0;0.0;0.0;0.0;1.0;0.5

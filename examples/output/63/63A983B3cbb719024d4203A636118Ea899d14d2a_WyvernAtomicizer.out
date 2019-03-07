@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+63A983B3cbb719024d4203A636118Ea899d14d2a_WyvernAtomicizer.sol;63;WyvernAtomicizer;library;20;17;0;1;3;2;2;4;21;0;0;0;0;0;3;3.0;2.0;2.0;4.0;21.0;3.0

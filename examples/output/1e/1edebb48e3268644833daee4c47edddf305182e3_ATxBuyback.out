@@ -1,0 +1,15 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;Object;contract;25;19;3;2;5;3;3;2;9;1;1;2;0;2;3;2.5;1.5;1.5;1.0;4.5;1.5
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ERC20Interface;contract;12;11;0;6;6;0;0;10;0;0;0;0;0;1;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;DataControllerInterface;contract;11;5;3;3;3;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;1.3333333333333333;0.0;0.0
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ServiceAllowance;contract;3;3;0;1;1;0;0;5;0;0;0;2;0;0;0;1.0;0.0;0.0;5.0;0.0;0.0
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ATxAssetInterface;contract;12;10;0;4;4;0;0;14;1;0;0;0;2;2;1;1.0;0.0;0.0;3.5;0.25;0.25
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;Owned;contract;68;30;29;4;6;2;2;1;13;0;0;3;0;2;1;1.5;0.5;0.5;0.25;3.25;0.25
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ATxAssetProxy;contract;316;120;164;21;27;6;6;44;53;2;4;0;2;4;22;1.2857142857142858;0.2857142857142857;0.2857142857142857;2.0952380952380953;2.5238095238095237;1.0476190476190477
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ATxBuyback;contract;177;95;52;12;19;5;5;18;49;2;4;0;2;5;23;1.5833333333333333;0.4166666666666667;0.4166666666666667;1.5;4.083333333333333;1.9166666666666667
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ServiceControllerInterface;contract;7;3;3;1;1;0;0;1;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ATxBuybackInterface;contract;13;12;0;0;0;0;0;0;0;0;0;1;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ATxPlatformInterface;contract;18;18;0;15;15;0;0;40;0;0;0;0;0;1;0;1.0;0.0;0.0;2.6666666666666665;0.0;0.0
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;ERC20;contract;12;11;0;6;6;0;0;10;0;0;0;1;0;1;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+1edebb48e3268644833daee4c47edddf305182e3_ATxBuyback.sol;1e;Platform;contract;18;18;0;15;15;0;0;40;0;0;0;0;0;1;0;1.0;0.0;0.0;2.6666666666666665;0.0;0.0

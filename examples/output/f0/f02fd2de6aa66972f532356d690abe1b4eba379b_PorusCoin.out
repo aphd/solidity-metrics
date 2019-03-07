@@ -1,0 +1,8 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f02fd2de6aa66972f532356d690abe1b4eba379b_PorusCoin.sol;f0;Pausable;contract;26;21;0;2;2;0;0;0;8;1;1;1;0;1;0;1.0;0.0;0.0;0.0;4.0;0.0
+f02fd2de6aa66972f532356d690abe1b4eba379b_PorusCoin.sol;f0;ERC20;contract;10;10;0;5;5;0;0;10;0;0;0;0;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0
+f02fd2de6aa66972f532356d690abe1b4eba379b_PorusCoin.sol;f0;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
+f02fd2de6aa66972f532356d690abe1b4eba379b_PorusCoin.sol;f0;ERC20Interface;contract;12;11;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+f02fd2de6aa66972f532356d690abe1b4eba379b_PorusCoin.sol;f0;SafeMath64;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+f02fd2de6aa66972f532356d690abe1b4eba379b_PorusCoin.sol;f0;PorusCoin;contract;177;97;59;12;12;0;0;18;60;2;3;0;0;6;22;1.0;0.0;0.0;1.5;5.0;1.8333333333333333
+f02fd2de6aa66972f532356d690abe1b4eba379b_PorusCoin.sol;f0;Owned;contract;25;21;0;2;2;0;0;1;8;0;0;2;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0

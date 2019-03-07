@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+46abe92691a5e341fcf30bc39e1cae12d1e5b73b_Play0x_LottoBall.sol;46;ERC20;contract;9;9;0;5;5;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+46abe92691a5e341fcf30bc39e1cae12d1e5b73b_Play0x_LottoBall.sol;46;Play0x_LottoBall;contract;727;510;85;40;74;19;15;73;293;0;0;0;0;23;79;1.85;0.475;0.375;1.825;7.325;1.975
+46abe92691a5e341fcf30bc39e1cae12d1e5b73b_Play0x_LottoBall.sol;46;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0

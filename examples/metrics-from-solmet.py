@@ -1,4 +1,4 @@
-import glob, re, subprocess 
+import glob, os, re, subprocess
 
 class MetricsFromSolMet(object):
     '''
@@ -13,8 +13,14 @@ class MetricsFromSolMet(object):
     def write_solidity_metrics(self):
         jar = '../target/SolMet-1.0-SNAPSHOT.jar'
         for input in glob.glob("./output/*/*.sol"):
-            output = re.sub('.sol$','.out' , input)
-            subprocess.call(['java', '-jar', jar, '-inputFile', input, '-outFile', output])
+            outFile = re.sub('.sol$','.out' , input)
+            if not os.path.exists(outFile):
+                print('### ouput file ###: ', outFile)
+                subprocess.call([
+                    'java', '-jar', jar,
+                    '-inputFile', input,
+                    '-outFile', outFile
+                ])
 
 
 if __name__ == "__main__":
