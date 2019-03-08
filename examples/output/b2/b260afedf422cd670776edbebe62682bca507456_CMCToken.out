@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+b260afedf422cd670776edbebe62682bca507456_CMCToken.sol;b2;CMCToken;contract;86;70;3;8;8;0;0;10;35;0;0;0;1;11;9;1.0;0.0;0.0;1.25;4.375;1.125

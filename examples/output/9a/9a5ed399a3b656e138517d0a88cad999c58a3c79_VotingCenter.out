@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+9a5ed399a3b656e138517d0a88cad999c58a3c79_VotingCenter.sol;9a;DependentOnIPFS;contract;19;10;6;1;1;0;0;1;4;0;0;1;0;0;1;1.0;0.0;0.0;1.0;4.0;1.0
+9a5ed399a3b656e138517d0a88cad999c58a3c79_VotingCenter.sol;9a;Poll;contract;48;33;7;2;2;0;0;6;12;1;1;0;0;6;3;1.0;0.0;0.0;3.0;6.0;1.5
+9a5ed399a3b656e138517d0a88cad999c58a3c79_VotingCenter.sol;9a;VotingCenter;contract;35;21;8;3;3;0;0;4;6;0;0;0;1;1;4;1.0;0.0;0.0;1.3333333333333333;2.0;1.3333333333333333

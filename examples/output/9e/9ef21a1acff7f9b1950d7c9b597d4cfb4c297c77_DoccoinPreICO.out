@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+9ef21a1acff7f9b1950d7c9b597d4cfb4c297c77_DoccoinPreICO.sol;9e;DoccoinPreICO;contract;60;36;12;4;4;0;0;2;13;1;1;0;1;8;8;1.0;0.0;0.0;0.5;3.25;2.0
+9ef21a1acff7f9b1950d7c9b597d4cfb4c297c77_DoccoinPreICO.sol;9e;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+9ef21a1acff7f9b1950d7c9b597d4cfb4c297c77_DoccoinPreICO.sol;9e;doccoin;contract;163;78;80;10;11;1;1;19;39;1;1;0;1;10;14;1.1;0.1;0.1;1.9;3.9;1.4
+9ef21a1acff7f9b1950d7c9b597d4cfb4c297c77_DoccoinPreICO.sol;9e;owned;contract;16;13;0;2;2;0;0;1;4;0;0;2;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
