@@ -1,0 +1,10 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;Destructible;contract;15;9;3;3;3;0;0;1;2;1;1;1;0;0;2;1.0;0.0;0.0;0.3333333333333333;0.6666666666666666;0.6666666666666666
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;RntTokenVault;contract;178;127;28;13;13;0;0;21;35;2;3;0;1;7;17;1.0;0.0;0.0;1.6153846153846154;2.6923076923076925;1.3076923076923077
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;ICrowdsale;contract;3;3;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;Pausable;contract;39;21;12;2;2;0;0;0;8;1;1;2;0;1;2;1.0;0.0;0.0;0.0;4.0;1.0
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;5;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;RntTokenProxy;contract;77;55;12;6;6;0;0;16;12;2;4;0;3;4;8;1.0;0.0;0.0;2.6666666666666665;2.0;1.3333333333333333
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;IRntToken;contract;16;9;0;3;3;0;0;5;0;0;0;0;0;7;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+4ac1eb291b0115b25c7ce2a189fe2055ea54aa33_RntTokenProxy.sol;4a;HasNoEther;contract;26;10;13;3;3;0;0;0;2;1;1;2;0;0;2;1.0;0.0;0.0;0.0;0.6666666666666666;0.6666666666666666

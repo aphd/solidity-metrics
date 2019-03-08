@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+808067e2f6e266319f71b2e21bdf99b59ead05c6_ProWalletToken.sol;80;ERC20Interface;contract;29;10;10;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+808067e2f6e266319f71b2e21bdf99b59ead05c6_ProWalletToken.sol;80;ProWalletToken;contract;142;63;37;8;11;3;3;11;29;1;1;0;0;9;4;1.375;0.375;0.375;1.375;3.625;0.5
