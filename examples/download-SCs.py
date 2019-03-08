@@ -72,7 +72,7 @@ class EtherScanIoApi(object):
         return re.search('v(\d{1,2}.\d{1,2}.\d{1,2})', str)[1]
 
     def _get_contract_name(self):
-        return soup.find(lambda tag:tag.name=="span" and "Name" in tag.text).parent.find_next('td').contents[0].strip()
+        return self.soup.find(lambda tag:tag.name=="span" and "Name" in tag.text).parent.find_next('td').contents[0].strip()
 
     def _get_sc_addresses_from_file(self, fn = '/tmp/add.out'):
         try:  
