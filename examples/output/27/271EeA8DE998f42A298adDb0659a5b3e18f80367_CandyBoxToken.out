@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+271EeA8DE998f42A298adDb0659a5b3e18f80367_CandyBoxToken.sol;27;StandardToken;contract;73;34;32;5;5;0;0;10;19;1;1;1;0;2;11;1.0;0.0;0.0;2.0;3.8;2.2
+271EeA8DE998f42A298adDb0659a5b3e18f80367_CandyBoxToken.sol;27;CandyBoxToken;contract;10;9;0;1;1;0;0;0;2;2;2;0;0;6;0;1.0;0.0;0.0;0.0;2.0;0.0
+271EeA8DE998f42A298adDb0659a5b3e18f80367_CandyBoxToken.sol;27;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+271EeA8DE998f42A298adDb0659a5b3e18f80367_CandyBoxToken.sol;27;ERC20;contract;10;10;0;5;5;0;0;10;0;0;0;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0

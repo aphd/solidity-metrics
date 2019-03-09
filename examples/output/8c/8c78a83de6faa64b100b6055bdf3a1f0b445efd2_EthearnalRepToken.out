@@ -1,0 +1,10 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;BasicToken;contract;30;14;11;2;2;0;0;3;6;1;1;4;0;1;4;1.0;0.0;0.0;1.5;3.0;2.0
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;LockableToken;contract;59;45;3;7;8;1;1;10;25;3;5;1;1;2;17;1.1428571428571428;0.14285714285714285;0.14285714285714285;1.4285714285714286;3.5714285714285716;2.4285714285714284
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;6;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;EthearnalRepToken;contract;5;5;0;0;0;0;0;0;0;4;7;0;0;6;0;0.0;0.0;0.0;0.0;0.0;0.0
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;3;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;4;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;StandardToken;contract;78;37;30;5;6;1;1;11;20;2;3;3;0;1;10;1.2;0.2;0.2;2.2;4.0;2.0
+8c78a83de6faa64b100b6055bdf3a1f0b445efd2_EthearnalRepToken.sol;8c;MintableToken;contract;36;21;10;2;2;0;0;2;10;3;5;1;0;1;5;1.0;0.0;0.0;1.0;5.0;2.5

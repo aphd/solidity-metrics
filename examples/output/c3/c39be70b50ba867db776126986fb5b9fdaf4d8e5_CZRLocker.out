@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c39be70b50ba867db776126986fb5b9fdaf4d8e5_CZRLocker.sol;c3;owned;contract;16;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+c39be70b50ba867db776126986fb5b9fdaf4d8e5_CZRLocker.sol;c3;token;interface;1;1;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
+c39be70b50ba867db776126986fb5b9fdaf4d8e5_CZRLocker.sol;c3;CZRLocker;contract;122;84;16;8;16;5;5;12;46;1;1;0;1;8;11;2.0;0.625;0.625;1.5;5.75;1.375

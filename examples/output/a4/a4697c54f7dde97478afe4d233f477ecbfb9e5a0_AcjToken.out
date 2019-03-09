@@ -1,0 +1,12 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;BurnableToken;contract;19;10;6;1;1;0;0;1;5;2;2;1;0;0;4;1.0;0.0;0.0;1.0;5.0;4.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;PausableToken;contract;15;11;0;3;3;0;0;7;3;3;6;1;0;0;3;1.0;0.0;0.0;2.3333333333333335;1.0;1.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;4;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;Ownable;contract;36;27;4;3;3;0;0;1;9;0;0;4;0;2;2;1.0;0.0;0.0;0.3333333333333333;3.0;0.6666666666666666
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;7;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;5;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;StandardToken;contract;50;21;22;3;3;0;0;7;12;2;3;3;0;1;6;1.0;0.0;0.0;2.3333333333333335;4.0;2.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;Pausable;contract;41;21;12;2;2;0;0;0;8;1;1;2;0;1;2;1.0;0.0;0.0;0.0;4.0;1.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;SafeMath;library;20;16;0;3;3;0;0;6;8;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;MintableToken;contract;36;21;10;2;2;0;0;2;10;3;5;1;0;1;5;1.0;0.0;0.0;1.0;5.0;2.5
+a4697c54f7dde97478afe4d233f477ecbfb9e5a0_AcjToken.sol;a4;AcjToken;contract;36;26;3;4;4;0;0;3;12;4;9;0;0;6;7;1.0;0.0;0.0;0.75;3.0;1.75

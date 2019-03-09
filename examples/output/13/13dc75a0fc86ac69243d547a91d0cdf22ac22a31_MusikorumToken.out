@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+13dc75a0fc86ac69243d547a91d0cdf22ac22a31_MusikorumToken.sol;13;tokenRecipient;contract;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+13dc75a0fc86ac69243d547a91d0cdf22ac22a31_MusikorumToken.sol;13;MusikorumToken;contract;89;77;0;10;21;5;5;16;55;0;0;0;1;8;8;2.1;0.5;0.5;1.6;5.5;0.8
