@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-173905a75a0244fcb20db32dbacfadd3996cc702_SchruteBuck.sol;17;SchruteBuck;contract;115;79;3;12;24;6;6;12;64;0;0;0;1;11;13;2.0;0.5;0.5;1.0;5.333333333333333;1.0833333333333333
-173905a75a0244fcb20db32dbacfadd3996cc702_SchruteBuck.sol;17;ForeignToken;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0

@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-e36584509f808f865be1960aa459ab428fa7a25b_deflatMarket.sol;e3;token;interface;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-e36584509f808f865be1960aa459ab428fa7a25b_deflatMarket.sol;e3;deflatMarket;contract;44;39;0;1;5;2;2;0;19;0;0;0;1;16;5;5.0;2.0;2.0;0.0;19.0;5.0

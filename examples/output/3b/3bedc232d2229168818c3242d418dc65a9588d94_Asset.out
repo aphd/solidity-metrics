@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-3bedc232d2229168818c3242d418dc65a9588d94_Asset.sol;3b;ERC20Token;contract;75;36;38;5;5;0;0;10;18;1;1;1;0;3;10;1.0;0.0;0.0;2.0;3.6;2.0
-3bedc232d2229168818c3242d418dc65a9588d94_Asset.sol;3b;SafeMath;library;14;11;0;2;2;0;0;4;5;0;0;0;0;0;2;1.0;0.0;0.0;2.0;2.5;1.0
-3bedc232d2229168818c3242d418dc65a9588d94_Asset.sol;3b;ERC20TokenInterface;contract;9;7;0;5;5;0;0;10;0;0;0;2;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
-3bedc232d2229168818c3242d418dc65a9588d94_Asset.sol;3b;Asset;contract;27;15;8;2;2;0;0;0;5;2;2;0;0;6;3;1.0;0.0;0.0;0.0;2.5;1.5

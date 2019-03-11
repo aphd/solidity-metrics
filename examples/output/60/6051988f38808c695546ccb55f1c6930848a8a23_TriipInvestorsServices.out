@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-6051988f38808c695546ccb55f1c6930848a8a23_TriipInvestorsServices.sol;60;TriipInvestorsServices;contract;75;35;22;0;0;0;0;0;7;0;0;0;0;17;0;0.0;0.0;0.0;0.0;0.0;0.0
-6051988f38808c695546ccb55f1c6930848a8a23_TriipInvestorsServices.sol;60;should;contract;155;90;11;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0

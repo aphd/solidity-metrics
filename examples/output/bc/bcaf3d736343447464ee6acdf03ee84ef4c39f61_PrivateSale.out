@@ -1,7 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-bcaf3d736343447464ee6acdf03ee84ef4c39f61_PrivateSale.sol;bc;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;1;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-bcaf3d736343447464ee6acdf03ee84ef4c39f61_PrivateSale.sol;bc;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
-bcaf3d736343447464ee6acdf03ee84ef4c39f61_PrivateSale.sol;bc;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;0;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-bcaf3d736343447464ee6acdf03ee84ef4c39f61_PrivateSale.sol;bc;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
-bcaf3d736343447464ee6acdf03ee84ef4c39f61_PrivateSale.sol;bc;Pausable;contract;39;21;12;2;2;0;0;0;8;1;1;1;0;1;2;1.0;0.0;0.0;0.0;4.0;1.0
-bcaf3d736343447464ee6acdf03ee84ef4c39f61_PrivateSale.sol;bc;PrivateSale;contract;39;32;0;5;6;1;1;5;15;2;2;0;1;2;10;1.2;0.2;0.2;1.0;3.0;2.0

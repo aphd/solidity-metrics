@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-eefb9542fc3ab1e7ced1c4ff6be3bdda59d8df5b_SaleBalanceTracker.sol;ee;Token;contract;3;3;0;1;1;0;0;1;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
-eefb9542fc3ab1e7ced1c4ff6be3bdda59d8df5b_SaleBalanceTracker.sol;ee;SaleBalanceTracker;contract;15;15;0;1;1;0;0;0;5;0;0;0;0;6;3;1.0;0.0;0.0;0.0;5.0;3.0

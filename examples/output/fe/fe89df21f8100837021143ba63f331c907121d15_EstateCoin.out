@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-fe89df21f8100837021143ba63f331c907121d15_EstateCoin.sol;fe;tokenRecipient;contract;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-fe89df21f8100837021143ba63f331c907121d15_EstateCoin.sol;fe;EstateCoin;contract;89;77;0;10;21;5;5;16;55;0;0;0;1;8;8;2.1;0.5;0.5;1.6;5.5;0.8

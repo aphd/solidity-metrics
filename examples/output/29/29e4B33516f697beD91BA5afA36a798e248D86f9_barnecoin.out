@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-29e4B33516f697beD91BA5afA36a798e248D86f9_barnecoin.sol;29;SafeMath;contract;18;18;0;4;4;0;0;8;8;0;0;1;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
-29e4B33516f697beD91BA5afA36a798e248D86f9_barnecoin.sol;29;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-29e4B33516f697beD91BA5afA36a798e248D86f9_barnecoin.sol;29;barnecoin;contract;122;55;46;10;10;0;0;15;29;1;3;0;0;6;10;1.0;0.0;0.0;1.5;2.9;1.0
-29e4B33516f697beD91BA5afA36a798e248D86f9_barnecoin.sol;29;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-29e4B33516f697beD91BA5afA36a798e248D86f9_barnecoin.sol;29;Owned;contract;25;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0

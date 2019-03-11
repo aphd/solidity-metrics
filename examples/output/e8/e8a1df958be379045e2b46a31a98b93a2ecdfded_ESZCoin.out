@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-e8a1df958be379045e2b46a31a98b93a2ecdfded_ESZCoin.sol;e8;ESZCoin;contract;221;171;29;12;12;0;0;15;49;0;0;0;0;9;15;1.0;0.0;0.0;1.25;4.083333333333333;1.25
-e8a1df958be379045e2b46a31a98b93a2ecdfded_ESZCoin.sol;e8;SafeMath;library;25;20;0;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75

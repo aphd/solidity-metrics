@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-1d4aa340b0b179c2d3cd846a3b32a6dfd8aa3df5_Airdrop.sol;1d;Airdrop;contract;7;7;0;1;2;1;1;3;2;0;0;0;1;0;1;2.0;1.0;1.0;3.0;2.0;1.0
-1d4aa340b0b179c2d3cd846a3b32a6dfd8aa3df5_Airdrop.sol;1d;ERC20;contract;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0

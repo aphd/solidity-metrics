@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-5ecd84482176db90bb741ddc8c2f9ccc290e29ce_BTL.sol;5e;StandardToken;contract;43;32;13;5;5;0;0;10;16;1;1;1;0;2;5;1.0;0.0;0.0;2.0;3.2;1.0
-5ecd84482176db90bb741ddc8c2f9ccc290e29ce_BTL.sol;5e;BTL;contract;29;19;14;2;2;0;0;7;35;2;2;0;0;5;2;1.0;0.0;0.0;3.5;17.5;1.0
-5ecd84482176db90bb741ddc8c2f9ccc290e29ce_BTL.sol;5e;Token;contract;28;13;8;5;5;0;0;10;0;0;0;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0

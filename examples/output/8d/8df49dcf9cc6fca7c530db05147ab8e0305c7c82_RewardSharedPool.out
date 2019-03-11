@@ -1,8 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-8df49dcf9cc6fca7c530db05147ab8e0305c7c82_RewardSharedPool.sol;8d;DSAuthority;contract;5;5;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-8df49dcf9cc6fca7c530db05147ab8e0305c7c82_RewardSharedPool.sol;8d;RewardSharedPool;contract;57;41;0;6;6;0;0;5;12;3;4;0;0;3;6;1.0;0.0;0.0;0.8333333333333334;2.0;1.0
-8df49dcf9cc6fca7c530db05147ab8e0305c7c82_RewardSharedPool.sol;8d;DSNote;contract;24;20;0;0;0;0;0;0;5;0;0;2;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-8df49dcf9cc6fca7c530db05147ab8e0305c7c82_RewardSharedPool.sol;8d;DSAuth;contract;42;37;0;4;7;3;1;4;15;1;1;2;1;2;6;1.75;0.75;0.25;1.0;3.75;1.5
-8df49dcf9cc6fca7c530db05147ab8e0305c7c82_RewardSharedPool.sol;8d;SafeMath;library;41;32;2;8;8;0;0;16;14;0;0;0;0;0;3;1.0;0.0;0.0;2.0;1.75;0.375
-8df49dcf9cc6fca7c530db05147ab8e0305c7c82_RewardSharedPool.sol;8d;DSStop;contract;16;13;0;2;2;0;0;0;4;2;3;1;0;1;0;1.0;0.0;0.0;0.0;2.0;0.0
-8df49dcf9cc6fca7c530db05147ab8e0305c7c82_RewardSharedPool.sol;8d;DSAuthEvents;contract;4;4;0;0;0;0;0;0;0;0;0;3;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0

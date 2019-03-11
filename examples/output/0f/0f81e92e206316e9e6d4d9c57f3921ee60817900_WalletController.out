@@ -1,8 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-0f81e92e206316e9e6d4d9c57f3921ee60817900_WalletController.sol;0f;Owned;contract;16;13;0;1;1;0;0;1;4;0;0;2;0;1;0;1.0;0.0;0.0;1.0;4.0;0.0
-0f81e92e206316e9e6d4d9c57f3921ee60817900_WalletController.sol;0f;RequiringAuthorization;contract;20;16;0;2;2;0;0;2;5;1;1;1;0;1;0;1.0;0.0;0.0;1.0;2.5;0.0
-0f81e92e206316e9e6d4d9c57f3921ee60817900_WalletController.sol;0f;AbstractSweeper;contract;17;13;0;2;2;0;0;2;7;0;0;1;1;1;1;1.0;0.0;0.0;1.0;3.5;0.5
-0f81e92e206316e9e6d4d9c57f3921ee60817900_WalletController.sol;0f;DefaultSweeper;contract;30;25;0;1;5;2;2;2;15;1;1;0;1;0;7;5.0;2.0;2.0;2.0;15.0;7.0
-0f81e92e206316e9e6d4d9c57f3921ee60817900_WalletController.sol;0f;WalletController;contract;57;45;0;9;11;2;2;12;16;2;2;0;2;4;2;1.2222222222222223;0.2222222222222222;0.2222222222222222;1.3333333333333333;1.7777777777777777;0.2222222222222222
-0f81e92e206316e9e6d4d9c57f3921ee60817900_WalletController.sol;0f;UserWallet;contract;22;18;0;3;3;0;0;5;7;0;0;0;1;1;3;1.0;0.0;0.0;1.6666666666666667;2.3333333333333335;1.0
-0f81e92e206316e9e6d4d9c57f3921ee60817900_WalletController.sol;0f;Token;contract;12;11;0;2;2;0;0;3;5;0;0;0;0;0;0;1.0;0.0;0.0;1.5;2.5;0.0

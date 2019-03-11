@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-18ae6bc100ac9ef701c14562e1b812393a86a8e8_InGRedientToken.sol;18;InGRedientToken;contract;230;106;95;16;16;0;0;47;62;1;2;0;1;6;24;1.0;0.0;0.0;2.9375;3.875;1.5
-18ae6bc100ac9ef701c14562e1b812393a86a8e8_InGRedientToken.sol;18;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
-18ae6bc100ac9ef701c14562e1b812393a86a8e8_InGRedientToken.sol;18;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-18ae6bc100ac9ef701c14562e1b812393a86a8e8_InGRedientToken.sol;18;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-18ae6bc100ac9ef701c14562e1b812393a86a8e8_InGRedientToken.sol;18;Owned;contract;25;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0

@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-b3c66fa11af5b4975d74c654665a0b7e505b2bde_CarInsurancePolicyManager.sol;b3;CarInsurancePolicy;contract;66;54;0;4;4;0;0;3;39;0;0;0;0;7;0;1.0;0.0;0.0;0.75;9.75;0.0
-b3c66fa11af5b4975d74c654665a0b7e505b2bde_CarInsurancePolicyManager.sol;b3;CarInsurancePolicyManager;contract;33;27;0;2;3;1;1;2;11;0;0;0;1;4;4;1.5;0.5;0.5;1.0;5.5;2.0

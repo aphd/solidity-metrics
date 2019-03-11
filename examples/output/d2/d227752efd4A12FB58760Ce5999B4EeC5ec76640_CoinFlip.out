@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-d227752efd4A12FB58760Ce5999B4EeC5ec76640_CoinFlip.sol;d2;balance;contract;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-d227752efd4A12FB58760Ce5999B4EeC5ec76640_CoinFlip.sol;d2;CoinFlip;contract;126;97;3;8;12;4;4;3;87;0;0;0;0;5;7;1.5;0.5;0.5;0.375;10.875;0.875

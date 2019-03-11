@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-adb6cbaf416ce1b6fab5d344afb8e1c848364376_LibertyEcoToken.sol;ad;SafeMath;library;39;29;0;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-adb6cbaf416ce1b6fab5d344afb8e1c848364376_LibertyEcoToken.sol;ad;Owned;contract;27;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0
-adb6cbaf416ce1b6fab5d344afb8e1c848364376_LibertyEcoToken.sol;ad;LibertyEcoToken;contract;208;123;33;15;16;1;1;22;80;1;2;0;0;13;32;1.0666666666666667;0.06666666666666667;0.06666666666666667;1.4666666666666666;5.333333333333333;2.1333333333333333
-adb6cbaf416ce1b6fab5d344afb8e1c848364376_LibertyEcoToken.sol;ad;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-adb6cbaf416ce1b6fab5d344afb8e1c848364376_LibertyEcoToken.sol;ad;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

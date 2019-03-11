@@ -1,7 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-9163c46eec4d1e6683cd9da3e44de8385123181f_PCW.sol;91;PCW;contract;36;26;8;1;2;1;1;3;8;3;4;0;2;10;3;2.0;1.0;1.0;3.0;8.0;3.0
-9163c46eec4d1e6683cd9da3e44de8385123181f_PCW.sol;91;SafeMath;contract;31;21;5;4;4;0;0;8;11;0;0;2;0;0;4;1.0;0.0;0.0;2.0;2.75;1.0
-9163c46eec4d1e6683cd9da3e44de8385123181f_PCW.sol;91;Authorization;contract;72;69;0;5;8;3;3;5;19;0;0;3;0;4;2;1.6;0.6;0.6;1.0;3.8;0.4
-9163c46eec4d1e6683cd9da3e44de8385123181f_PCW.sol;91;Token;contract;12;10;1;5;5;0;0;10;0;1;1;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0
-9163c46eec4d1e6683cd9da3e44de8385123181f_PCW.sol;91;StandardToken;contract;46;37;4;5;7;2;2;10;19;2;3;1;0;2;5;1.4;0.4;0.4;2.0;3.8;1.0
-9163c46eec4d1e6683cd9da3e44de8385123181f_PCW.sol;91;tokenRecipient;contract;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

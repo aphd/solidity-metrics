@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;Ownable;contract;35;16;11;1;1;0;0;1;6;0;0;4;0;1;1;1.0;0.0;0.0;1.0;6.0;1.0
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;StandardToken;contract;80;40;30;5;6;1;1;11;21;2;4;2;0;1;6;1.2;0.2;0.2;2.2;4.2;1.2
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;ReliableIndex;contract;18;12;4;0;0;0;0;0;4;4;6;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;BurnableToken;contract;21;12;6;1;1;0;0;1;7;3;5;1;0;0;3;1.0;0.0;0.0;1.0;7.0;3.0
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-4bf62424385ddcd858535caa1878e512314a9aeb_ReliableIndex.sol;4b;BasicToken;contract;61;35;13;6;9;2;2;9;18;1;2;3;0;4;5;1.5;0.3333333333333333;0.3333333333333333;1.5;3.0;0.8333333333333334

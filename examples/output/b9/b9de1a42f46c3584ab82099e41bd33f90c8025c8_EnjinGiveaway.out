@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-b9de1a42f46c3584ab82099e41bd33f90c8025c8_EnjinGiveaway.sol;b9;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
-b9de1a42f46c3584ab82099e41bd33f90c8025c8_EnjinGiveaway.sol;b9;EnjinGiveaway;contract;51;35;8;4;5;1;1;2;34;0;0;0;0;7;7;1.25;0.25;0.25;0.5;8.5;1.75

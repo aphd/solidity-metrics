@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-98d706cd95a9fa16a06c0c1b0f07426d1234d761_Crowdsale.sol;98;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;1;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-98d706cd95a9fa16a06c0c1b0f07426d1234d761_Crowdsale.sol;98;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
-98d706cd95a9fa16a06c0c1b0f07426d1234d761_Crowdsale.sol;98;Crowdsale;contract;85;57;14;8;8;0;0;3;29;1;1;0;1;7;15;1.0;0.0;0.0;0.375;3.625;1.875
-98d706cd95a9fa16a06c0c1b0f07426d1234d761_Crowdsale.sol;98;ALT0Token;contract;61;33;19;4;4;0;0;5;13;1;2;0;0;9;6;1.0;0.0;0.0;1.25;3.25;1.5
-98d706cd95a9fa16a06c0c1b0f07426d1234d761_Crowdsale.sol;98;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75

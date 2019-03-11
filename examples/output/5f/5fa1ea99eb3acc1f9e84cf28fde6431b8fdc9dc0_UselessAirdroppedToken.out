@@ -1,7 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0_UselessAirdroppedToken.sol;5f;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;1;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0_UselessAirdroppedToken.sol;5f;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;2;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0_UselessAirdroppedToken.sol;5f;SafeMath;library;23;20;0;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0_UselessAirdroppedToken.sol;5f;UselessAirdroppedToken;contract;243;183;4;21;35;10;10;28;98;2;2;0;2;17;38;1.6666666666666667;0.47619047619047616;0.47619047619047616;1.3333333333333333;4.666666666666667;1.8095238095238095
-5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0_UselessAirdroppedToken.sol;5f;ForeignToken;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0_UselessAirdroppedToken.sol;5f;Token;interface;5;5;0;3;3;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0

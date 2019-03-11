@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-505a098ecc396b2974e57d106e2523497c36c3c2_QuickCoin.sol;50;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-505a098ecc396b2974e57d106e2523497c36c3c2_QuickCoin.sol;50;QuickCoin;contract;154;66;83;8;9;1;1;16;38;0;0;0;1;6;13;1.125;0.125;0.125;2.0;4.75;1.625

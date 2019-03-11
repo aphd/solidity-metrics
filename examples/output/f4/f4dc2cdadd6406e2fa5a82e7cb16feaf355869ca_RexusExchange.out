@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-f4dc2cdadd6406e2fa5a82e7cb16feaf355869ca_RexusExchange.sol;f4;RexusExchange;contract;189;147;3;16;23;4;4;21;83;2;2;0;1;16;35;1.4375;0.25;0.25;1.3125;5.1875;2.1875
-f4dc2cdadd6406e2fa5a82e7cb16feaf355869ca_RexusExchange.sol;f4;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;2;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-f4dc2cdadd6406e2fa5a82e7cb16feaf355869ca_RexusExchange.sol;f4;AltcoinToken;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-f4dc2cdadd6406e2fa5a82e7cb16feaf355869ca_RexusExchange.sol;f4;SafeMath;library;22;22;0;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
-f4dc2cdadd6406e2fa5a82e7cb16feaf355869ca_RexusExchange.sol;f4;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;1;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0

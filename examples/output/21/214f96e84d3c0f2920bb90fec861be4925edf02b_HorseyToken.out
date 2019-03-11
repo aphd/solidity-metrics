@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-214f96e84d3c0f2920bb90fec861be4925edf02b_HorseyToken.sol;21;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
-214f96e84d3c0f2920bb90fec861be4925edf02b_HorseyToken.sol;21;HorseyToken;contract;147;71;54;10;12;2;2;19;35;1;2;0;1;6;13;1.2;0.2;0.2;1.9;3.5;1.3
-214f96e84d3c0f2920bb90fec861be4925edf02b_HorseyToken.sol;21;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-214f96e84d3c0f2920bb90fec861be4925edf02b_HorseyToken.sol;21;Owned;contract;25;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0
-214f96e84d3c0f2920bb90fec861be4925edf02b_HorseyToken.sol;21;ERC20Interface;contract;11;9;1;5;5;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0

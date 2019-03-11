@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-29ad674d180D33f0391b7b043d4880918b66b72e_Kyber.sol;29;Kyber;contract;74;39;34;4;4;0;0;5;18;0;0;0;1;12;7;1.0;0.0;0.0;1.25;4.5;1.75
-29ad674d180D33f0391b7b043d4880918b66b72e_Kyber.sol;29;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

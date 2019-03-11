@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;DSAuthEvents;contract;4;4;0;0;0;0;0;0;0;0;0;2;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;TokenTransferGuard;contract;3;3;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;SwapController;contract;43;35;1;6;9;3;3;11;10;2;3;0;1;1;5;1.5;0.5;0.5;1.8333333333333333;1.6666666666666667;0.8333333333333334
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;DSAuthority;contract;5;5;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;ERC20;contract;12;10;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;DSAuth;contract;42;37;0;4;7;3;1;4;15;1;1;1;1;2;6;1.75;0.75;0.25;1.0;3.75;1.5
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;TokenController;contract;22;5;15;3;3;0;0;7;0;0;0;1;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-bccfe34a2c6c59e396d2873d0d5bcb4736c8e2e7_SwapController.sol;bc;Controlled;contract;15;8;4;2;2;0;0;1;5;0;0;0;0;1;0;1.0;0.0;0.0;0.5;2.5;0.0

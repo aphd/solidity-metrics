@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-ac1886906baa783e634b2c6c392082e0dee5f465_ProgressiveUnlockWallet.sol;ac;IERC20;interface;33;9;18;5;5;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
-ac1886906baa783e634b2c6c392082e0dee5f465_ProgressiveUnlockWallet.sol;ac;ProgressiveUnlockWallet;contract;249;192;26;6;8;2;2;14;55;1;2;0;1;3;8;1.3333333333333333;0.3333333333333333;0.3333333333333333;2.3333333333333335;9.166666666666666;1.3333333333333333
-ac1886906baa783e634b2c6c392082e0dee5f465_ProgressiveUnlockWallet.sol;ac;SafeMath;contract;84;76;0;8;9;1;1;16;22;0;0;1;0;0;0;1.125;0.125;0.125;2.0;2.75;0.0
-ac1886906baa783e634b2c6c392082e0dee5f465_ProgressiveUnlockWallet.sol;ac;Ownable;contract;24;19;0;1;1;0;0;1;6;0;0;1;0;1;1;1.0;0.0;0.0;1.0;6.0;1.0

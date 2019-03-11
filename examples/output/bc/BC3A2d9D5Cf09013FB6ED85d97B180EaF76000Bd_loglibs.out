@@ -1,2 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-BC3A2d9D5Cf09013FB6ED85d97B180EaF76000Bd_loglibs.sol;bc;loglibs;contract;13;8;2;1;1;0;0;0;2;0;0;0;0;1;1;1.0;0.0;0.0;0.0;2.0;1.0

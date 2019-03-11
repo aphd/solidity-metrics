@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-edab973d01970f6f83962fe3aaae818f1cd13487_IQNSecondPreICO.sol;ed;Ownable;contract;14;10;0;1;1;0;0;0;3;0;0;1;0;1;0;1.0;0.0;0.0;0.0;3.0;0.0
-edab973d01970f6f83962fe3aaae818f1cd13487_IQNSecondPreICO.sol;ed;token;interface;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
-edab973d01970f6f83962fe3aaae818f1cd13487_IQNSecondPreICO.sol;ed;IQNSecondPreICO;contract;71;49;11;5;5;0;0;6;18;1;1;0;1;11;6;1.0;0.0;0.0;1.2;3.6;1.2

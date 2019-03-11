@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-469562c7118F42cC6409FE03fe4537bBe19BaCBe_EPOpresale.sol;46;MyOwned;contract;6;6;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
-469562c7118F42cC6409FE03fe4537bBe19BaCBe_EPOpresale.sol;46;EPOpresale;contract;58;52;0;5;5;0;0;8;21;1;1;0;1;9;8;1.0;0.0;0.0;1.6;4.2;1.6
-469562c7118F42cC6409FE03fe4537bBe19BaCBe_EPOpresale.sol;46;token;interface;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0

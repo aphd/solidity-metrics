@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-4032a725b81cfd0cdb519933cc6084d9b22175c0_SimpleDistributor.sol;40;ERC20Cutted;contract;7;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-4032a725b81cfd0cdb519933cc6084d9b22175c0_SimpleDistributor.sol;40;SimpleDistributor;contract;28;21;0;4;5;1;1;4;8;0;0;0;1;2;6;1.25;0.25;0.25;1.0;2.0;1.5

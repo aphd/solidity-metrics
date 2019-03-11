@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-0617fd39b66a2167d9f6d99f1c6ecf71daab24e8_ProofOfFomo.sol;06;IFomo;interface;5;5;0;3;3;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
-0617fd39b66a2167d9f6d99f1c6ecf71daab24e8_ProofOfFomo.sol;06;IDivies;interface;3;3;0;1;1;0;0;0;0;0;0;0;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0
-0617fd39b66a2167d9f6d99f1c6ecf71daab24e8_ProofOfFomo.sol;06;ProofOfFomo;contract;92;74;0;7;7;0;0;3;24;0;0;0;2;5;12;1.0;0.0;0.0;0.42857142857142855;3.4285714285714284;1.7142857142857142

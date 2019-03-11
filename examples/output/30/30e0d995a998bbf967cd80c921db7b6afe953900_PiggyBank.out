@@ -1,2 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-30e0d995a998bbf967cd80c921db7b6afe953900_PiggyBank.sol;30;PiggyBank;contract;17;14;2;2;2;0;0;0;4;0;0;0;0;2;4;1.0;0.0;0.0;0.0;2.0;2.0

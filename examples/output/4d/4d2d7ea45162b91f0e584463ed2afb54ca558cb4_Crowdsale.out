@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-4d2d7ea45162b91f0e584463ed2afb54ca558cb4_Crowdsale.sol;4d;token;interface;1;1;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
-4d2d7ea45162b91f0e584463ed2afb54ca558cb4_Crowdsale.sol;4d;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-4d2d7ea45162b91f0e584463ed2afb54ca558cb4_Crowdsale.sol;4d;Crowdsale;contract;101;56;21;9;9;0;0;4;26;0;0;0;1;6;12;1.0;0.0;0.0;0.4444444444444444;2.888888888888889;1.3333333333333333

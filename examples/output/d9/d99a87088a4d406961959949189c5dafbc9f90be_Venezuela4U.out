@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-d99a87088a4d406961959949189c5dafbc9f90be_Venezuela4U.sol;d9;SafeMath;contract;18;18;0;4;4;0;0;8;8;0;0;1;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
-d99a87088a4d406961959949189c5dafbc9f90be_Venezuela4U.sol;d9;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-d99a87088a4d406961959949189c5dafbc9f90be_Venezuela4U.sol;d9;Venezuela4U;contract;122;55;46;9;9;0;0;15;29;1;3;0;0;6;10;1.0;0.0;0.0;1.6666666666666667;3.2222222222222223;1.1111111111111112
-d99a87088a4d406961959949189c5dafbc9f90be_Venezuela4U.sol;d9;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-d99a87088a4d406961959949189c5dafbc9f90be_Venezuela4U.sol;d9;Owned;contract;25;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0

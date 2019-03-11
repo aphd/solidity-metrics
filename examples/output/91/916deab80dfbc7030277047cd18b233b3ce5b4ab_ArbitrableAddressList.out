@@ -1,8 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-916deab80dfbc7030277047cd18b233b3ce5b4ab_ArbitrableAddressList.sol;91;CappedMath;library;35;19;12;3;5;2;2;6;9;0;0;0;0;1;0;1.6666666666666667;0.6666666666666666;0.6666666666666666;2.0;3.0;0.0
-916deab80dfbc7030277047cd18b233b3ce5b4ab_ArbitrableAddressList.sol;91;IArbitrable;interface;37;7;26;1;1;0;0;2;0;0;0;3;1;0;0;1.0;0.0;0.0;2.0;0.0;0.0
-916deab80dfbc7030277047cd18b233b3ce5b4ab_ArbitrableAddressList.sol;91;ArbitrableAddressList;contract;885;549;289;30;69;28;18;63;341;2;3;0;1;13;44;2.3;0.9333333333333333;0.6;2.1;11.366666666666667;1.4666666666666666
-916deab80dfbc7030277047cd18b233b3ce5b4ab_ArbitrableAddressList.sol;91;ArbitrableTokenList;contract;930;584;301;30;69;28;18;67;349;2;3;0;1;14;46;2.3;0.9333333333333333;0.6;2.2333333333333334;11.633333333333333;1.5333333333333334
-916deab80dfbc7030277047cd18b233b3ce5b4ab_ArbitrableAddressList.sol;91;Arbitrable;contract;33;14;14;2;2;0;0;4;13;1;1;2;1;2;1;1.0;0.0;0.0;2.0;6.5;0.5
-916deab80dfbc7030277047cd18b233b3ce5b4ab_ArbitrableAddressList.sol;91;Arbitrator;contract;77;23;42;7;7;0;0;10;19;0;0;0;1;0;0;1.0;0.0;0.0;1.4285714285714286;2.7142857142857144;0.0
-916deab80dfbc7030277047cd18b233b3ce5b4ab_ArbitrableAddressList.sol;91;PermissionInterface;interface;10;3;6;1;1;0;0;1;0;0;0;2;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0

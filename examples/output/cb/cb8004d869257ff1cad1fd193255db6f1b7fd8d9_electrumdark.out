@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-cb8004d869257ff1cad1fd193255db6f1b7fd8d9_electrumdark.sol;cb;SafeMath;library;60;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-cb8004d869257ff1cad1fd193255db6f1b7fd8d9_electrumdark.sol;cb;electrumdark;contract;108;66;42;7;7;0;0;10;23;0;0;0;0;6;10;1.0;0.0;0.0;1.4285714285714286;3.2857142857142856;1.4285714285714286

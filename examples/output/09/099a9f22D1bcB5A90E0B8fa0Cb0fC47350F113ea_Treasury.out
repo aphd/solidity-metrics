@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-099a9f22D1bcB5A90E0B8fa0Cb0fC47350F113ea_Treasury.sol;09;IDGTXToken;interface;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-099a9f22D1bcB5A90E0B8fa0Cb0fC47350F113ea_Treasury.sol;09;ITreasury;interface;3;3;0;1;1;0;0;0;0;0;0;1;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0
-099a9f22D1bcB5A90E0B8fa0Cb0fC47350F113ea_Treasury.sol;09;Treasury;contract;44;35;10;2;2;0;0;3;10;1;1;0;0;5;2;1.0;0.0;0.0;1.5;5.0;1.0

@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-ddddddd1fd4e3708869c00cabe6b0b9d15181bb9_FckRoulette.sol;dd;stopped;contract;193;124;38;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-ddddddd1fd4e3708869c00cabe6b0b9d15181bb9_FckRoulette.sol;dd;FckRoulette;contract;23;19;1;1;1;0;0;1;18;0;0;0;0;8;0;1.0;0.0;0.0;1.0;18.0;0.0
-ddddddd1fd4e3708869c00cabe6b0b9d15181bb9_FckRoulette.sol;dd;stopped;contract;212;155;31;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0

@@ -1,7 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-2e9494387868eb9ec6997b711d655de82f53713f_FindTheRabbit.sol;2e;ERC20Basic;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-2e9494387868eb9ec6997b711d655de82f53713f_FindTheRabbit.sol;2e;Ownable;contract;54;26;21;4;4;0;0;2;13;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.25;0.5
-2e9494387868eb9ec6997b711d655de82f53713f_FindTheRabbit.sol;2e;Claimable;contract;28;15;10;2;2;0;0;1;9;1;1;1;0;1;1;1.0;0.0;0.0;0.5;4.5;0.5
-2e9494387868eb9ec6997b711d655de82f53713f_FindTheRabbit.sol;2e;Messages;contract;114;74;32;4;4;0;0;11;23;0;0;1;0;3;6;1.0;0.0;0.0;2.75;5.75;1.5
-2e9494387868eb9ec6997b711d655de82f53713f_FindTheRabbit.sol;2e;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-2e9494387868eb9ec6997b711d655de82f53713f_FindTheRabbit.sol;2e;FindTheRabbit;contract;257;155;101;0;0;0;0;0;28;2;3;0;0;69;0;0.0;0.0;0.0;0.0;0.0;0.0

@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-0fcf114c63a5387878e0da051c81cb6febd93b6c_MANABurner.sol;0f;Ownable;contract;19;15;0;1;1;0;0;1;9;0;0;1;0;1;0;1.0;0.0;0.0;1.0;9.0;0.0
-0fcf114c63a5387878e0da051c81cb6febd93b6c_MANABurner.sol;0f;Marketplace;interface;6;6;0;4;4;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;0.5;0.0;0.0
-0fcf114c63a5387878e0da051c81cb6febd93b6c_MANABurner.sol;0f;BurnableERC20;interface;4;4;0;2;2;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
-0fcf114c63a5387878e0da051c81cb6febd93b6c_MANABurner.sol;0f;MANABurner;contract;30;23;0;5;5;0;0;2;7;1;1;0;2;2;5;1.0;0.0;0.0;0.4;1.4;1.0

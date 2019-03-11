@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;UnlimitedAllowanceToken;contract;28;16;8;1;2;1;1;3;10;3;4;1;0;1;5;2.0;1.0;1.0;3.0;10.0;5.0
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;3;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;StandardToken;contract;72;36;28;5;6;1;1;11;21;2;3;2;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;Ownable;contract;20;17;0;2;3;1;1;1;6;0;0;1;0;1;1;1.5;0.5;0.5;0.5;3.0;0.5
-47423b0fdb181ecab813c908307e9795c0272db7_EtherToken.sol;47;EtherToken;contract;114;56;38;7;7;0;0;5;32;4;6;0;0;8;20;1.0;0.0;0.0;0.7142857142857143;4.571428571428571;2.857142857142857

@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-58487f6f0de31cdffbe903dc4cfaf77cb3ac92c9_LivenSale.sol;58;SafeMath;library;45;22;18;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
-58487f6f0de31cdffbe903dc4cfaf77cb3ac92c9_LivenSale.sol;58;LivenSale;contract;60;42;4;4;6;1;1;1;36;1;1;0;0;8;8;1.5;0.25;0.25;0.25;9.0;2.0
-58487f6f0de31cdffbe903dc4cfaf77cb3ac92c9_LivenSale.sol;58;Ownable;contract;57;27;24;4;4;0;0;2;21;0;0;1;0;1;3;1.0;0.0;0.0;0.5;5.25;0.75

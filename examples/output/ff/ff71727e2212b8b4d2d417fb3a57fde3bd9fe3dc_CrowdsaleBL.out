@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;Ownable;contract;29;14;11;2;2;0;0;1;5;0;0;3;0;1;1;1.0;0.0;0.0;0.5;2.5;0.5
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;Pausable;contract;37;23;9;3;3;0;0;0;9;1;1;1;0;1;4;1.0;0.0;0.0;0.0;3.0;1.3333333333333333
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;MigrationAgent;contract;4;4;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;RefundVault;contract;59;41;9;6;6;0;0;4;19;1;1;0;0;2;12;1.0;0.0;0.0;0.6666666666666666;3.1666666666666665;2.0
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;CrowdsaleBL;contract;609;294;196;35;46;8;8;28;173;0;0;0;3;25;88;1.3142857142857143;0.22857142857142856;0.22857142857142856;0.8;4.942857142857143;2.5142857142857142
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;SVTAllocation;contract;27;16;4;2;2;0;0;2;5;0;0;0;1;4;1;1.0;0.0;0.0;1.0;2.5;0.5
-ff71727e2212b8b4d2d417fb3a57fde3bd9fe3dc_CrowdsaleBL.sol;ff;Token;contract;143;87;25;13;13;0;0;15;40;2;2;0;0;13;24;1.0;0.0;0.0;1.1538461538461537;3.076923076923077;1.8461538461538463

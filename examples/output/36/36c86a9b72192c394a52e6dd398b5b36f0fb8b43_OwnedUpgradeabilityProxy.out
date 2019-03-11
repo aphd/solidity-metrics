@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-36c86a9b72192c394a52e6dd398b5b36f0fb8b43_OwnedUpgradeabilityProxy.sol;36;UpgradeabilityProxy;contract;43;22;17;3;3;0;0;2;8;1;1;1;0;3;3;1.0;0.0;0.0;0.6666666666666666;2.6666666666666665;1.0
-36c86a9b72192c394a52e6dd398b5b36f0fb8b43_OwnedUpgradeabilityProxy.sol;36;not;contract;15;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-36c86a9b72192c394a52e6dd398b5b36f0fb8b43_OwnedUpgradeabilityProxy.sol;36;OwnedUpgradeabilityProxy;contract;112;54;46;7;7;0;0;4;27;2;2;0;1;6;5;1.0;0.0;0.0;0.5714285714285714;3.857142857142857;0.7142857142857143
-36c86a9b72192c394a52e6dd398b5b36f0fb8b43_OwnedUpgradeabilityProxy.sol;36;Proxy;contract;15;5;8;2;2;0;0;0;5;0;0;2;0;0;2;1.0;0.0;0.0;0.0;2.5;1.0

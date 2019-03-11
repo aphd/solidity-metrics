@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-9ae1d9371486501ae5d6bd4c7f200a9837ffd2af_frozenForever.sol;9a;frozenForever;contract;4;4;0;0;0;0;0;0;0;0;0;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
-9ae1d9371486501ae5d6bd4c7f200a9837ffd2af_frozenForever.sol;9a;donothing;contract;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0

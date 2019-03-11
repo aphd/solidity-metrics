@@ -1,7 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-d32289af05a7b10ff545e094d0ef5805dd6112fb_GetEthIoToken.sol;d3;ERC20Detailed;contract;32;19;9;3;3;0;0;0;6;1;1;1;0;3;0;1.0;0.0;0.0;0.0;2.0;0.0
-d32289af05a7b10ff545e094d0ef5805dd6112fb_GetEthIoToken.sol;d3;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;3;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-d32289af05a7b10ff545e094d0ef5805dd6112fb_GetEthIoToken.sol;d3;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-d32289af05a7b10ff545e094d0ef5805dd6112fb_GetEthIoToken.sol;d3;GetEthIoToken;contract;5;3;0;0;0;0;0;0;0;2;4;0;0;3;0;0.0;0.0;0.0;0.0;0.0;0.0
-d32289af05a7b10ff545e094d0ef5805dd6112fb_GetEthIoToken.sol;d3;Ownable;contract;65;30;27;5;5;0;0;2;12;0;0;1;0;1;3;1.0;0.0;0.0;0.4;2.4;0.6
-d32289af05a7b10ff545e094d0ef5805dd6112fb_GetEthIoToken.sol;d3;ERC20;contract;154;61;75;11;11;0;0;21;33;1;1;1;0;3;17;1.0;0.0;0.0;1.9090909090909092;3.0;1.5454545454545454

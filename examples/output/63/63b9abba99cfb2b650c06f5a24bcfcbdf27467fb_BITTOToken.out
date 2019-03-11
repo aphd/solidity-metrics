@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-63b9abba99cfb2b650c06f5a24bcfcbdf27467fb_BITTOToken.sol;63;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-63b9abba99cfb2b650c06f5a24bcfcbdf27467fb_BITTOToken.sol;63;BITTOToken;contract;87;43;14;7;7;0;0;5;19;1;2;0;0;8;13;1.0;0.0;0.0;0.7142857142857143;2.7142857142857144;1.8571428571428572
-63b9abba99cfb2b650c06f5a24bcfcbdf27467fb_BITTOToken.sol;63;SafeERC20;contract;78;41;24;5;5;0;0;9;14;0;0;1;0;6;11;1.0;0.0;0.0;1.8;2.8;2.2
-63b9abba99cfb2b650c06f5a24bcfcbdf27467fb_BITTOToken.sol;63;owned;contract;16;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0

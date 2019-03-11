@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-eeab9b54cbf17ce0bb5b618f3bd3a20ca3cf5331_YourMomToken.sol;ee;owned;contract;27;19;6;2;2;0;0;1;7;0;0;1;0;1;1;1.0;0.0;0.0;0.5;3.5;0.5
-eeab9b54cbf17ce0bb5b618f3bd3a20ca3cf5331_YourMomToken.sol;ee;YourMomToken;contract;71;60;38;12;12;0;0;17;37;1;1;0;0;6;9;1.0;0.0;0.0;1.4166666666666667;3.0833333333333335;0.75
