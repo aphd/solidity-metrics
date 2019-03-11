@@ -1,0 +1,10 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;Ownable;contract;30;14;11;2;2;0;0;1;5;0;0;6;0;1;1;1.0;0.0;0.0;0.5;2.5;0.5
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;SalesManager;contract;142;107;25;9;16;3;3;8;53;1;1;0;2;14;28;1.7777777777777777;0.3333333333333333;0.3333333333333333;0.8888888888888888;5.888888888888889;3.111111111111111
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;Token;contract;10;10;0;5;5;0;0;10;0;0;0;3;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;StandardToken;contract;95;47;38;7;8;1;1;14;26;2;3;2;0;2;14;1.1428571428571428;0.14285714285714285;0.14285714285714285;2.0;3.7142857142857144;2.0
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;Pausable;contract;20;12;4;1;1;0;0;0;4;1;1;3;0;2;0;1.0;0.0;0.0;0.0;4.0;0.0
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;KeeppetToken;contract;23;16;3;2;2;0;0;2;6;4;5;0;0;7;2;1.0;0.0;0.0;1.0;3.0;1.0
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;RefundVault;contract;45;37;0;5;5;0;0;3;17;1;1;0;0;3;11;1.0;0.0;0.0;0.6;3.4;2.2
+839e78cf4b2d6c6bc80d679eb95d072a0358d5b3_SalesManager.sol;83;BurnableToken;contract;18;11;4;1;1;0;0;1;6;3;4;1;0;0;4;1.0;0.0;0.0;1.0;6.0;4.0

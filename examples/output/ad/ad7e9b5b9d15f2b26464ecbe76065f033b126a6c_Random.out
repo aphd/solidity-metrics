@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+ad7e9b5b9d15f2b26464ecbe76065f033b126a6c_Random.sol;ad;Random;contract;317;225;48;25;49;16;16;17;124;0;0;0;0;17;33;1.96;0.64;0.64;0.68;4.96;1.32

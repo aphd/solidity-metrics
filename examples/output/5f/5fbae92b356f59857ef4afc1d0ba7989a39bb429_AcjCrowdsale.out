@@ -1,0 +1,13 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;StandardToken;contract;50;21;22;3;3;0;0;7;12;2;3;3;0;1;6;1.0;0.0;0.0;2.3333333333333335;4.0;2.0
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;5;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;MintableToken;contract;36;21;10;2;2;0;0;2;10;3;5;1;0;1;5;1.0;0.0;0.0;1.0;5.0;2.5
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;AcjCrowdsale;contract;364;189;91;17;22;4;3;18;95;1;1;0;1;24;35;1.2941176470588236;0.23529411764705882;0.17647058823529413;1.0588235294117647;5.588235294117647;2.0588235294117645
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;SafeMath;library;20;16;0;3;3;0;0;6;8;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;7;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;4;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;Pausable;contract;41;21;12;2;2;0;0;0;8;1;1;2;0;1;2;1.0;0.0;0.0;0.0;4.0;1.0
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;AcjToken;contract;36;26;3;4;4;0;0;3;12;4;9;0;0;6;7;1.0;0.0;0.0;0.75;3.0;1.75
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;Ownable;contract;36;27;4;3;3;0;0;1;9;0;0;5;0;2;2;1.0;0.0;0.0;0.3333333333333333;3.0;0.6666666666666666
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;BurnableToken;contract;19;10;6;1;1;0;0;1;5;2;2;1;0;0;4;1.0;0.0;0.0;1.0;5.0;4.0
+5fbae92b356f59857ef4afc1d0ba7989a39bb429_AcjCrowdsale.sol;5f;PausableToken;contract;15;11;0;3;3;0;0;7;3;3;6;1;0;0;3;1.0;0.0;0.0;2.3333333333333335;1.0;1.0

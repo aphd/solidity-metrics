@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+85f1752fcaf37c45aa77d677e54e94f533c49874_Ambassador.sol;85;Ownable;contract;31;16;11;2;2;0;0;1;6;0;0;1;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+85f1752fcaf37c45aa77d677e54e94f533c49874_Ambassador.sol;85;CoinCrowdICO;contract;156;120;25;15;33;4;4;21;81;1;1;0;1;12;30;2.2;0.26666666666666666;0.26666666666666666;1.4;5.4;2.0
+85f1752fcaf37c45aa77d677e54e94f533c49874_Ambassador.sol;85;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+85f1752fcaf37c45aa77d677e54e94f533c49874_Ambassador.sol;85;tokenInterface;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+85f1752fcaf37c45aa77d677e54e94f533c49874_Ambassador.sol;85;Ambassador;contract;83;68;6;5;13;5;5;10;40;0;0;0;1;8;18;2.6;1.0;1.0;2.0;8.0;3.6

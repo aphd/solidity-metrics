@@ -1,0 +1,14 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;4;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;ReentrancyGuard;contract;23;9;11;0;0;0;0;0;4;0;0;1;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;Pausable;contract;39;21;12;2;2;0;0;0;8;1;1;2;0;1;2;1.0;0.0;0.0;0.0;4.0;1.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;6;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;BurnableToken;contract;20;11;6;1;1;0;0;1;6;3;4;1;0;0;4;1.0;0.0;0.0;1.0;6.0;4.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;SingularityNetToken;contract;26;17;3;2;2;0;0;2;7;4;8;0;0;7;4;1.0;0.0;0.0;1.0;3.5;2.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;RefundVault;contract;45;37;0;5;5;0;0;3;17;1;1;0;0;3;11;1.0;0.0;0.0;0.6;3.4;2.2
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;AgiCrowdsale;contract;195;140;25;15;21;4;4;14;67;1;2;0;2;15;34;1.4;0.26666666666666666;0.26666666666666666;0.9333333333333333;4.466666666666667;2.2666666666666666
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;StandardToken;contract;73;36;28;5;6;1;1;11;21;2;3;3;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;PausableToken;contract;22;17;0;5;5;0;0;11;5;3;6;1;0;0;5;1.0;0.0;0.0;2.2;1.0;1.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;5;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+c4aad17558fa95c8937d0856b2dad74c1a7a095f_AgiCrowdsale.sol;c4;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;4;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0

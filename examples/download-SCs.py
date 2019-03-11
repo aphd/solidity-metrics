@@ -68,11 +68,17 @@ class EtherScanIoApi(object):
         self.soup = BeautifulSoup(requests.get(url).text, 'html.parser')        
 
     def _get_compiler_version(self):
-        str = self.soup.findAll('td', text = re.compile('v0.'))[0].contents[0]
-        return re.search('v(\d{1,2}.\d{1,2}.\d{1,2})', str)[1]
+        try:
+            str = self.soup.findAll('td', text = re.compile('v0.'))[0].contents[0]
+            return re.search('v(\d{1,2}.\d{1,2}.\d{1,2})', str)[1]
+        except IndexError:
+            return None
 
     def _get_contract_name(self):
-        return self.soup.find(lambda tag:tag.name=="span" and "Name" in tag.text).parent.find_next('td').contents[0].strip()
+        try:
+            return self.soup.find(lambda tag:tag.name=="span" and "Name" in tag.text).parent.find_next('td').contents[0].strip()
+        except AttributeError:
+            return None
 
     def _get_sc_addresses_from_file(self, fn = '/tmp/add.out'):
         try:  
@@ -131,7 +137,7 @@ if __name__ == "__main__":
 
     output_directory = "./output"
     overwrite = False
-    amount = 100
+    amount = 1000
 
     e = EtherScanIoApi()
     for nr, c in enumerate(e.get_contracts()):

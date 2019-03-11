@@ -1,0 +1,16 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;ReleasableToken;contract;70;32;25;5;5;0;0;8;11;2;3;2;0;3;2;1.0;0.0;0.0;1.6;2.2;0.4
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;8;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;4;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;10;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;SafeMathLib;library;20;16;0;3;3;0;0;6;8;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;CrowdsaleToken;contract;85;34;33;4;6;1;1;7;17;5;9;1;0;3;5;1.5;0.25;0.25;1.75;4.25;1.25
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;7;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;AnyCoin;contract;7;5;0;1;1;0;0;5;0;6;11;0;0;0;0;1.0;0.0;0.0;5.0;0.0;0.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;StandardTokenExt;contract;7;5;1;1;1;0;0;0;1;3;4;5;0;0;0;1.0;0.0;0.0;0.0;1.0;0.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;UpgradeableToken;contract;114;45;47;6;9;3;1;4;28;4;5;2;1;3;13;1.5;0.5;0.16666666666666666;0.6666666666666666;4.666666666666667;2.1666666666666665
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;UpgradeAgent;contract;12;7;1;2;2;0;0;2;1;0;0;0;0;1;0;1.0;0.0;0.0;1.0;0.5;0.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;StandardToken;contract;73;36;28;5;6;1;1;11;21;2;3;6;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;BurnableToken;contract;24;11;9;1;1;0;0;1;5;4;5;1;0;1;4;1.0;0.0;0.0;1.0;5.0;4.0
+c964e81349f3030c0f4bcf3c66d90bdc69d05122_AnyCoin.sol;c9;MintableToken;contract;46;24;13;2;2;0;0;4;9;4;6;2;0;2;4;1.0;0.0;0.0;2.0;4.5;2.0

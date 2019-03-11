@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+a4cbc38dfc34acf188deadea6eeadbb44ff2e530_MobileGoToken.sol;a4;WavesEthereumSwap;contract;8;7;0;1;2;1;1;2;3;2;3;0;0;0;2;2.0;1.0;1.0;2.0;3.0;2.0
+a4cbc38dfc34acf188deadea6eeadbb44ff2e530_MobileGoToken.sol;a4;ERC20Interface;contract;27;10;10;6;6;0;0;10;0;0;0;2;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+a4cbc38dfc34acf188deadea6eeadbb44ff2e530_MobileGoToken.sol;a4;MobileGoToken;contract;84;59;15;7;9;2;2;10;24;1;2;1;0;3;3;1.2857142857142858;0.2857142857142857;0.2857142857142857;1.4285714285714286;3.4285714285714284;0.42857142857142855
+a4cbc38dfc34acf188deadea6eeadbb44ff2e530_MobileGoToken.sol;a4;TokenConfig;contract;7;6;3;0;0;0;0;0;0;0;0;2;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0

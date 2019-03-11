@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+7bd52bdff0acf4e18dd80c6ee86db205d83f88ce_HodlerInvestmentClub.sol;7b;HodlerInvestmentClub;contract;60;43;9;4;8;3;3;1;22;0;0;0;0;3;3;2.0;0.75;0.75;0.25;5.5;0.75

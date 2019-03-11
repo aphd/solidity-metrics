@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f486f1c63c4d32b1109bbedd1c1896b69ed93be3_RecoverC20.sol;f4;Token;contract;10;9;1;5;5;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+f486f1c63c4d32b1109bbedd1c1896b69ed93be3_RecoverC20.sol;f4;RecoverC20;contract;52;41;4;5;8;3;3;3;17;0;0;0;1;7;5;1.6;0.6;0.6;0.6;3.4;1.0

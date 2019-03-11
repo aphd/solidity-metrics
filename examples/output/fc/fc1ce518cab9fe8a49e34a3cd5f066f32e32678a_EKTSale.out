@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+fc1ce518cab9fe8a49e34a3cd5f066f32e32678a_EKTSale.sol;fc;Token;contract;21;13;0;6;6;0;0;10;0;0;0;0;0;3;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+fc1ce518cab9fe8a49e34a3cd5f066f32e32678a_EKTSale.sol;fc;EKTSale;contract;176;126;18;8;13;2;2;4;45;1;1;0;1;15;14;1.625;0.25;0.25;0.5;5.625;1.75
+fc1ce518cab9fe8a49e34a3cd5f066f32e32678a_EKTSale.sol;fc;SafeMath;contract;18;16;0;3;3;0;0;6;8;0;0;1;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0

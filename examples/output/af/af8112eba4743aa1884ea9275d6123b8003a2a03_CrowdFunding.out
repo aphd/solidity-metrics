@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+af8112eba4743aa1884ea9275d6123b8003a2a03_CrowdFunding.sol;af;Claimable;contract;28;15;10;2;2;0;0;1;6;1;1;1;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+af8112eba4743aa1884ea9275d6123b8003a2a03_CrowdFunding.sol;af;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+af8112eba4743aa1884ea9275d6123b8003a2a03_CrowdFunding.sol;af;CrowdFunding;contract;98;50;22;6;7;1;1;3;25;2;2;0;0;3;12;1.1666666666666667;0.16666666666666666;0.16666666666666666;0.5;4.166666666666667;2.0
+af8112eba4743aa1884ea9275d6123b8003a2a03_CrowdFunding.sol;af;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75

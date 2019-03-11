@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+16d635651d502dC59148d8E920eD793454E6bB46_Weihnachtsgeschenk.sol;16;Weihnachtsgeschenk;contract;31;26;0;5;5;0;0;5;9;0;0;0;0;5;0;1.0;0.0;0.0;1.0;1.8;0.0

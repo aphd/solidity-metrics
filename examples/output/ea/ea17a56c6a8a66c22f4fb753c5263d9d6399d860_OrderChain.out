@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+ea17a56c6a8a66c22f4fb753c5263d9d6399d860_OrderChain.sol;ea;Owned;contract;25;21;0;3;3;0;0;1;8;0;0;1;0;2;3;1.0;0.0;0.0;0.3333333333333333;2.6666666666666665;1.0
+ea17a56c6a8a66c22f4fb753c5263d9d6399d860_OrderChain.sol;ea;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+ea17a56c6a8a66c22f4fb753c5263d9d6399d860_OrderChain.sol;ea;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
+ea17a56c6a8a66c22f4fb753c5263d9d6399d860_OrderChain.sol;ea;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+ea17a56c6a8a66c22f4fb753c5263d9d6399d860_OrderChain.sol;ea;OrderChain;contract;124;56;46;10;10;0;0;15;29;1;2;0;0;6;17;1.0;0.0;0.0;1.5;2.9;1.7

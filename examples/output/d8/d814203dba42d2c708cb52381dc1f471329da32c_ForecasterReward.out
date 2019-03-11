@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d814203dba42d2c708cb52381dc1f471329da32c_ForecasterReward.sol;d8;SafeMath;library;40;32;0;8;8;0;0;16;14;0;0;0;0;0;3;1.0;0.0;0.0;2.0;1.75;0.375
+d814203dba42d2c708cb52381dc1f471329da32c_ForecasterReward.sol;d8;ForecasterReward;contract;205;82;77;13;19;5;3;2;39;2;2;0;0;7;11;1.4615384615384615;0.38461538461538464;0.23076923076923078;0.15384615384615385;3.0;0.8461538461538461
+d814203dba42d2c708cb52381dc1f471329da32c_ForecasterReward.sol;d8;Haltable;contract;24;17;2;2;2;0;0;0;6;1;1;1;0;1;0;1.0;0.0;0.0;0.0;3.0;0.0
+d814203dba42d2c708cb52381dc1f471329da32c_ForecasterReward.sol;d8;Ownable;contract;32;14;11;2;2;0;0;1;5;0;0;2;0;1;1;1.0;0.0;0.0;0.5;2.5;0.5

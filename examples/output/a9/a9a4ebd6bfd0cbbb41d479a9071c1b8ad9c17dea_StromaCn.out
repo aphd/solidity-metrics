@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+a9a4ebd6bfd0cbbb41d479a9071c1b8ad9c17dea_StromaCn.sol;a9;ERC20Interface;contract;27;10;10;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+a9a4ebd6bfd0cbbb41d479a9071c1b8ad9c17dea_StromaCn.sol;a9;StromaCn;contract;118;76;23;8;11;3;3;10;32;1;1;0;1;11;5;1.375;0.375;0.375;1.25;4.0;0.625

@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f554e9ba1ef7d16fd5b9ca87c1ede40253849f91_LedgerLegendsToken.sol;f5;LedgerLegendsToken;contract;147;113;4;20;22;2;2;26;56;0;0;0;0;8;12;1.1;0.1;0.1;1.3;2.8;0.6

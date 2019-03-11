@@ -1,0 +1,11 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;2;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;FractionalERC20Ext;contract;6;4;0;0;0;0;0;0;0;2;2;0;0;2;0;0.0;0.0;0.0;0.0;0.0;0.0
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;FinalizeAgent;contract;17;7;6;3;3;0;0;0;1;0;0;0;0;0;0;1.0;0.0;0.0;0.0;0.3333333333333333;0.0
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;1;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;3;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;CrowdsaleExt;contract;688;337;226;38;108;31;23;58;212;2;2;0;4;29;66;2.8421052631578947;0.8157894736842105;0.6052631578947368;1.5263157894736843;5.578947368421052;1.736842105263158
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;FlatPricingExt;contract;45;26;6;4;6;1;1;9;13;1;2;0;1;3;5;1.5;0.25;0.25;2.25;3.25;1.25
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;Haltable;contract;29;21;2;2;2;0;0;0;11;1;1;1;0;1;0;1.0;0.0;0.0;0.0;5.5;0.0
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;PricingStrategy;contract;37;14;19;4;4;0;0;7;3;0;0;1;0;0;0;1.0;0.0;0.0;1.75;0.75;0.0
+3cd00e563093f08e695bf6db03f2e44b04b6ae3f_FlatPricingExt.sol;3c;SafeMathLibExt;library;27;22;0;4;4;0;0;8;12;0;0;0;0;0;4;1.0;0.0;0.0;2.0;3.0;1.0

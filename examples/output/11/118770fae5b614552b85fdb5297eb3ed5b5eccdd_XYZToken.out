@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+118770fae5b614552b85fdb5297eb3ed5b5eccdd_XYZToken.sol;11;owned;contract;16;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+118770fae5b614552b85fdb5297eb3ed5b5eccdd_XYZToken.sol;11;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+118770fae5b614552b85fdb5297eb3ed5b5eccdd_XYZToken.sol;11;XYZToken;contract;66;41;27;7;7;0;0;10;21;1;2;0;0;3;8;1.0;0.0;0.0;1.4285714285714286;3.0;1.1428571428571428
+118770fae5b614552b85fdb5297eb3ed5b5eccdd_XYZToken.sol;11;TokenERC20;contract;143;63;79;8;9;1;1;16;32;0;0;1;1;9;13;1.125;0.125;0.125;2.0;4.0;1.625

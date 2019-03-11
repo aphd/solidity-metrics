@@ -1,0 +1,12 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;UpgradeableToken;contract;112;45;45;6;9;3;1;4;28;4;9;0;1;3;12;1.5;0.5;0.16666666666666666;0.6666666666666666;4.666666666666667;2.0
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;ITokenHolder;contract;3;3;0;1;1;0;0;3;0;1;1;4;1;0;0;1.0;0.0;0.0;3.0;0.0;0.0
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;IERC20Token;contract;12;11;1;9;9;0;0;10;9;0;0;4;0;0;0;1.0;0.0;0.0;1.1111111111111112;1.0;0.0
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;Z1Coin;contract;158;106;28;8;10;2;2;14;32;3;8;1;0;4;18;1.25;0.25;0.25;1.75;4.0;2.25
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;IZ1Coin;contract;5;5;0;3;3;0;0;5;0;2;3;2;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;UpgradeAgent;contract;12;7;1;2;2;0;0;2;1;0;0;0;0;1;0;1.0;0.0;0.0;1.0;0.5;0.0
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;SafeMath;contract;48;31;8;4;4;0;0;6;8;0;0;3;0;0;3;1.0;0.0;0.0;1.5;2.0;0.75
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;TokenHolder;contract;42;31;7;2;2;0;0;3;7;2;3;2;1;0;1;1.0;0.0;0.0;1.5;3.5;0.5
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;Owned;contract;41;28;7;3;3;0;0;1;9;1;1;3;0;2;3;1.0;0.0;0.0;0.3333333333333333;3.0;1.0
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;IOwned;contract;7;5;1;3;3;0;0;1;1;0;0;6;0;0;0;1.0;0.0;0.0;0.3333333333333333;0.3333333333333333;0.0
+c1d813fa26f04035b73e3770ed18ba5ecef3e17f_Z1Coin.sol;c1;ERC20Token;contract;108;80;13;4;4;0;0;10;21;1;2;2;1;10;9;1.0;0.0;0.0;2.5;5.25;2.25

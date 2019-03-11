@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+e0d95530820aafc51b1d98023aa1ff000b78d8b2_PressOneToken.sol;e0;StandardToken;contract;73;34;32;5;5;0;0;10;19;1;1;1;0;2;11;1.0;0.0;0.0;2.0;3.8;2.2
+e0d95530820aafc51b1d98023aa1ff000b78d8b2_PressOneToken.sol;e0;PressOneToken;contract;10;9;0;1;1;0;0;0;2;2;2;0;0;6;0;1.0;0.0;0.0;0.0;2.0;0.0
+e0d95530820aafc51b1d98023aa1ff000b78d8b2_PressOneToken.sol;e0;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+e0d95530820aafc51b1d98023aa1ff000b78d8b2_PressOneToken.sol;e0;ERC20;contract;10;10;0;5;5;0;0;10;0;0;0;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0

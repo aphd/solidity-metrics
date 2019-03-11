@@ -1,0 +1,9 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;OraclizeI;contract;14;14;0;11;11;0;0;28;0;0;0;0;0;1;0;1.0;0.0;0.0;2.5454545454545454;0.0;0.0
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;Base;contract;10;10;0;1;2;1;1;1;5;0;0;1;0;0;0;2.0;1.0;1.0;1.0;5.0;0.0
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;1;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;CryptoLuckRng;contract;5;4;0;2;2;0;0;1;0;0;0;1;0;0;0;1.0;0.0;0.0;0.5;0.0;0.0
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;OraclizeRng;contract;96;66;4;10;12;2;2;10;33;1;4;0;1;3;11;1.2;0.2;0.2;1.0;3.3;1.1
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;RngRequester;contract;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;OraclizeAddrResolverI;contract;3;3;0;1;1;0;0;0;0;0;0;0;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0
+814a3bd43973ef7740934cef3aaf16b81bf43995_OraclizeRng.sol;81;usingOraclize;contract;974;831;75;91;174;51;47;240;656;0;0;1;2;19;194;1.9120879120879122;0.5604395604395604;0.5164835164835165;2.6373626373626373;7.208791208791209;2.131868131868132

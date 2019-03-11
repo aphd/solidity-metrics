@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f5bf697dd45e1af3dc8909987de56c7111ea34b3_Arton.sol;f5;Arton;contract;49;40;0;4;4;0;0;7;21;0;0;0;1;9;7;1.0;0.0;0.0;1.75;5.25;1.75

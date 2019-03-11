@@ -1,0 +1,8 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+936647C1291Abb1c179cCFb7e5ABe9C10b9c3ee3_Paygine.sol;93;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+936647C1291Abb1c179cCFb7e5ABe9C10b9c3ee3_Paygine.sol;93;StandardToken;contract;73;36;28;5;6;1;1;11;21;2;3;2;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
+936647C1291Abb1c179cCFb7e5ABe9C10b9c3ee3_Paygine.sol;93;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;3;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+936647C1291Abb1c179cCFb7e5ABe9C10b9c3ee3_Paygine.sol;93;BurnableToken;contract;20;11;6;1;1;0;0;1;6;3;4;1;0;0;4;1.0;0.0;0.0;1.0;6.0;4.0
+936647C1291Abb1c179cCFb7e5ABe9C10b9c3ee3_Paygine.sol;93;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+936647C1291Abb1c179cCFb7e5ABe9C10b9c3ee3_Paygine.sol;93;Paygine;contract;18;12;3;1;1;0;0;0;3;4;5;0;1;6;1;1.0;0.0;0.0;0.0;3.0;1.0
+936647C1291Abb1c179cCFb7e5ABe9C10b9c3ee3_Paygine.sol;93;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0

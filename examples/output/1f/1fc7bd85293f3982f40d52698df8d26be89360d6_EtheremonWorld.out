@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+1fc7bd85293f3982f40d52698df8d26be89360d6_EtheremonWorld.sol;1f;BasicAccessControl;contract;50;41;1;5;8;3;3;4;16;0;0;3;0;4;1;1.6;0.6;0.6;0.8;3.2;0.2
+1fc7bd85293f3982f40d52698df8d26be89360d6_EtheremonWorld.sol;1f;EtheremonGateway;contract;12;9;2;6;6;0;0;11;0;1;2;1;0;0;0;1.0;0.0;0.0;1.8333333333333333;0.0;0.0
+1fc7bd85293f3982f40d52698df8d26be89360d6_EtheremonWorld.sol;1f;EtheremonWorld;contract;459;356;36;29;66;22;22;56;232;2;4;0;1;12;74;2.2758620689655173;0.7586206896551724;0.7586206896551724;1.9310344827586208;8.0;2.5517241379310347
+1fc7bd85293f3982f40d52698df8d26be89360d6_EtheremonWorld.sol;1f;SafeMath;contract;27;17;5;3;3;0;0;6;9;0;0;2;0;0;3;1.0;0.0;0.0;2.0;3.0;1.0
+1fc7bd85293f3982f40d52698df8d26be89360d6_EtheremonWorld.sol;1f;EtheremonDataBase;contract;35;30;2;26;26;0;0;54;0;1;3;0;0;2;0;1.0;0.0;0.0;2.076923076923077;0.0;0.0
+1fc7bd85293f3982f40d52698df8d26be89360d6_EtheremonWorld.sol;1f;EtheremonEnum;contract;25;22;0;0;0;0;0;0;0;0;0;3;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0

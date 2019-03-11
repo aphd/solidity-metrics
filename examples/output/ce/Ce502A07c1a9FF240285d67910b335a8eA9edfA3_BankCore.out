@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+Ce502A07c1a9FF240285d67910b335a8eA9edfA3_BankCore.sol;ce;BankCore;contract;98;36;50;8;9;1;1;5;16;3;3;0;0;1;10;1.125;0.125;0.125;0.625;2.0;1.25
+Ce502A07c1a9FF240285d67910b335a8eA9edfA3_BankCore.sol;ce;LovePromo;contract;62;36;16;5;5;0;0;7;16;2;2;1;0;0;6;1.0;0.0;0.0;1.4;3.2;1.2
+Ce502A07c1a9FF240285d67910b335a8eA9edfA3_BankCore.sol;ce;Bank;contract;180;106;56;8;13;4;4;16;51;1;1;2;1;10;35;1.625;0.5;0.5;2.0;6.375;4.375
+Ce502A07c1a9FF240285d67910b335a8eA9edfA3_BankCore.sol;ce;LoveAccountBase;contract;187;102;56;8;12;2;2;18;43;0;0;0;0;15;17;1.5;0.25;0.25;2.25;5.375;2.125
+Ce502A07c1a9FF240285d67910b335a8eA9edfA3_BankCore.sol;ce;LoveBankAccessControl;contract;108;53;39;5;5;0;0;3;20;0;0;3;0;4;3;1.0;0.0;0.0;0.6;4.0;0.6

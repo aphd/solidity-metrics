@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+210800c51e803a0df349c6761a71776c314d13a5_AkzeptBondClevestPartnersSwitzerland.sol;21;Ownable;contract;18;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+210800c51e803a0df349c6761a71776c314d13a5_AkzeptBondClevestPartnersSwitzerland.sol;21;AkzeptBondClevestPartnersSwitzerland;contract;62;47;0;6;8;2;2;12;21;1;1;0;0;9;4;1.3333333333333333;0.3333333333333333;0.3333333333333333;2.0;3.5;0.6666666666666666

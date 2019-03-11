@@ -1,0 +1,13 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;StandardToken;contract;73;36;28;5;6;1;1;11;21;2;3;1;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;CanReclaimToken;contract;13;7;4;1;1;0;0;1;2;1;1;2;1;0;2;1.0;0.0;0.0;1.0;2.0;2.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;HasNoTokens;contract;16;8;6;1;1;0;0;3;4;2;2;1;0;0;1;1.0;0.0;0.0;3.0;4.0;1.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;2;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;2;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;SafeERC20;library;13;11;0;3;3;0;0;10;3;0;0;0;2;0;3;1.0;0.0;0.0;3.3333333333333335;1.0;1.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;HasNoEther;contract;26;10;13;3;3;0;0;0;2;1;1;1;0;0;2;1.0;0.0;0.0;0.0;0.6666666666666666;0.6666666666666666
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;WIZE;contract;13;11;0;1;1;0;0;0;3;3;9;0;1;5;1;1.0;0.0;0.0;0.0;3.0;1.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;Destructible;contract;15;9;3;3;3;0;0;1;2;1;1;1;0;0;2;1.0;0.0;0.0;0.3333333333333333;0.6666666666666666;0.6666666666666666
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;5;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+a010cfd6e52336eb25adacafb005c516645193dd_WIZE.sol;a0;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;4;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0

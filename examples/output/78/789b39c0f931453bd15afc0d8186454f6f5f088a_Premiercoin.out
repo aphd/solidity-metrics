@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+789b39c0f931453bd15afc0d8186454f6f5f088a_Premiercoin.sol;78;tokenRecipientPRC;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+789b39c0f931453bd15afc0d8186454f6f5f088a_Premiercoin.sol;78;Premiercoin;contract;78;68;0;8;9;1;1;16;38;0;0;0;1;6;13;1.125;0.125;0.125;2.0;4.75;1.625

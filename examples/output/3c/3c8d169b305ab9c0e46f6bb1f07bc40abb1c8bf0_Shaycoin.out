@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+3c8d169b305ab9c0e46f6bb1f07bc40abb1c8bf0_Shaycoin.sol;3c;owned;contract;16;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+3c8d169b305ab9c0e46f6bb1f07bc40abb1c8bf0_Shaycoin.sol;3c;Shaycoin;contract;98;65;36;8;11;3;3;9;29;1;1;0;0;10;11;1.375;0.375;0.375;1.125;3.625;1.375

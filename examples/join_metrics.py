@@ -24,8 +24,11 @@ class MergeMetrics(object):
     def join_etherscan_solmet(self):
         self._write_file_header()
         for obj in self.etherscan_json:
-            fn = ".".join([self.get_sol_file_name(obj), 'out'])
-            lines = open(fn, 'r').readlines()
+            try:
+                fn = ".".join([self.get_sol_file_name(obj), 'out'])
+                lines = open(fn, 'r').readlines()
+            except TypeError:
+                continue
             try:
                 self.outf.write(';'.join([
                     lines[1].rstrip(),

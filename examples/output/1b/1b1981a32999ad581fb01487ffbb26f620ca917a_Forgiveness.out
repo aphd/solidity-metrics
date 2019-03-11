@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+1b1981a32999ad581fb01487ffbb26f620ca917a_Forgiveness.sol;1b;Forgiveness;contract;39;31;0;6;6;0;0;2;12;0;0;0;0;4;6;1.0;0.0;0.0;0.3333333333333333;2.0;1.0
+1b1981a32999ad581fb01487ffbb26f620ca917a_Forgiveness.sol;1b;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75

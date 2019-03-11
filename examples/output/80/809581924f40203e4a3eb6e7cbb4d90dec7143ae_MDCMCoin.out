@@ -1,0 +1,9 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;InvestorsFeature;contract;26;19;1;2;3;1;1;4;9;3;5;1;0;2;6;1.5;0.5;0.5;2.0;4.5;3.0
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;StandardToken;contract;73;36;28;5;6;1;1;11;21;2;3;2;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;MDCMCoin;contract;26;14;0;2;2;0;0;2;4;4;6;0;1;6;2;1.0;0.0;0.0;1.0;2.0;1.0
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;3;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+809581924f40203e4a3eb6e7cbb4d90dec7143ae_MDCMCoin.sol;80;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0

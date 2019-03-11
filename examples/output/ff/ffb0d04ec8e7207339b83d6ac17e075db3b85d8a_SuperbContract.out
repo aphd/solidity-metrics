@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+ffb0d04ec8e7207339b83d6ac17e075db3b85d8a_SuperbContract.sol;ff;ERC20;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+ffb0d04ec8e7207339b83d6ac17e075db3b85d8a_SuperbContract.sol;ff;SuperbContract;contract;145;89;43;10;10;0;0;2;45;0;0;0;1;16;14;1.0;0.0;0.0;0.2;4.5;1.4

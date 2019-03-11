@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+c4f4b8c0259c8264376fc32984e2a8cf4a3c70ca_CentralizedOracleFactory.sol;c4;Oracle;contract;5;4;0;2;2;0;0;0;0;0;0;1;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0
+c4f4b8c0259c8264376fc32984e2a8cf4a3c70ca_CentralizedOracleFactory.sol;c4;CentralizedOracleFactory;contract;21;10;9;1;1;0;0;1;2;0;0;0;1;0;2;1.0;0.0;0.0;1.0;2.0;2.0
+c4f4b8c0259c8264376fc32984e2a8cf4a3c70ca_CentralizedOracleFactory.sol;c4;CentralizedOracle;contract;84;50;26;5;5;0;0;4;14;1;1;0;0;4;5;1.0;0.0;0.0;0.8;2.8;1.0

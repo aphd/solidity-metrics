@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+177b63c7caf85a360074bcb095952aa8e929ae03_MultiSig.sol;17;SafeMath;library;40;32;0;8;8;0;0;16;14;0;0;0;0;0;3;1.0;0.0;0.0;2.0;1.75;0.375
+177b63c7caf85a360074bcb095952aa8e929ae03_MultiSig.sol;17;MultiSig;contract;260;154;53;10;27;5;5;6;153;1;1;0;0;4;20;2.7;0.5;0.5;0.6;15.3;2.0
+177b63c7caf85a360074bcb095952aa8e929ae03_MultiSig.sol;17;ReentrancyGuard;contract;23;9;11;0;0;0;0;0;4;0;0;1;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0

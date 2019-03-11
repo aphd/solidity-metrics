@@ -1,0 +1,9 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;3;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;StandardToken;contract;73;36;28;5;6;1;1;11;21;2;3;2;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;MintableToken;contract;36;21;10;2;2;0;0;2;10;3;5;1;0;1;5;1.0;0.0;0.0;1.0;5.0;2.5
+b1c433762800f3331e5ff69e1e38a1dac998f46e_SuperMegaTestToken.sol;b1;SuperMegaTestToken;contract;59;35;6;6;6;0;0;10;15;4;6;0;0;7;7;1.0;0.0;0.0;1.6666666666666667;2.5;1.1666666666666667

@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+0f4546bb7fdb5929eee6736ed5794d3e6f5a9fa1_HouseCouponToken.sol;0f;IMigrationContract;contract;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+0f4546bb7fdb5929eee6736ed5794d3e6f5a9fa1_HouseCouponToken.sol;0f;StandardToken;contract;42;36;0;5;7;2;2;10;18;1;1;1;0;2;3;1.4;0.4;0.4;2.0;3.6;0.6
+0f4546bb7fdb5929eee6736ed5794d3e6f5a9fa1_HouseCouponToken.sol;0f;HouseCouponToken;contract;153;109;27;13;13;0;0;9;63;2;3;0;2;17;27;1.0;0.0;0.0;0.6923076923076923;4.846153846153846;2.076923076923077
+0f4546bb7fdb5929eee6736ed5794d3e6f5a9fa1_HouseCouponToken.sol;0f;Token;contract;34;10;18;5;5;0;0;10;0;0;0;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0
+0f4546bb7fdb5929eee6736ed5794d3e6f5a9fa1_HouseCouponToken.sol;0f;SafeMath;contract;21;17;0;3;3;0;0;6;9;0;0;1;0;0;3;1.0;0.0;0.0;2.0;3.0;1.0

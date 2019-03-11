@@ -1,0 +1,10 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;PullPayment;contract;32;18;8;2;2;0;0;2;9;0;0;2;0;2;5;1.0;0.0;0.0;1.0;4.5;2.5
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;Ownable;contract;35;16;11;2;2;0;0;1;6;0;0;5;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;PricingStrategy;contract;28;8;17;4;4;0;0;3;0;1;1;1;0;2;0;1.0;0.0;0.0;0.75;0.0;0.0
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;TranchePricingStrategy;contract;151;90;39;8;13;5;5;8;48;2;3;0;0;5;17;1.625;0.625;0.625;1.0;6.0;2.125
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;Target;contract;9;3;6;1;1;0;0;0;0;0;0;1;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;MowjowBounty;contract;23;18;0;2;2;0;0;5;6;3;4;0;1;5;1;1.0;0.0;0.0;2.5;3.0;0.5
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;Destructible;contract;15;9;3;3;3;0;0;1;2;1;1;2;0;0;2;1.0;0.0;0.0;0.3333333333333333;0.6666666666666666;0.6666666666666666
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+8a98cf91fd2ea825a187e4ceaf3490c8a71d8d73_MowjowBounty.sol;8a;Bounty;contract;44;22;17;4;4;0;0;1;10;2;3;1;1;2;5;1.0;0.0;0.0;0.25;2.5;1.25

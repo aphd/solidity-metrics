@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+ce2095197142a6972256d70fe4ba024f2c7a7d96_Likium.sol;ce;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+ce2095197142a6972256d70fe4ba024f2c7a7d96_Likium.sol;ce;Likium;contract;145;65;82;8;9;1;1;16;37;0;0;0;1;6;14;1.125;0.125;0.125;2.0;4.625;1.75

@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+f4ea304ca547d7bfec95c999a43863768953b4b4_ATFSCrowdsale.sol;f4;Owned;contract;19;15;0;3;3;0;0;1;4;1;1;1;0;2;1;1.0;0.0;0.0;0.3333333333333333;1.3333333333333333;0.3333333333333333
+f4ea304ca547d7bfec95c999a43863768953b4b4_ATFSCrowdsale.sol;f4;TokenTimeLock;contract;24;21;0;2;2;0;0;4;9;0;0;0;1;4;4;1.0;0.0;0.0;2.0;4.5;2.0
+f4ea304ca547d7bfec95c999a43863768953b4b4_ATFSCrowdsale.sol;f4;SafeMath;library;22;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+f4ea304ca547d7bfec95c999a43863768953b4b4_ATFSCrowdsale.sol;f4;Base;contract;20;14;3;0;0;0;0;0;7;0;0;2;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+f4ea304ca547d7bfec95c999a43863768953b4b4_ATFSCrowdsale.sol;f4;ATFSCrowdsale;contract;128;78;30;10;11;1;1;13;28;2;2;0;2;7;20;1.1;0.1;0.1;1.3;2.8;2.0
+f4ea304ca547d7bfec95c999a43863768953b4b4_ATFSCrowdsale.sol;f4;IToken;contract;8;8;0;6;6;0;0;8;0;0;0;0;0;0;0;1.0;0.0;0.0;1.3333333333333333;0.0;0.0

@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+3adf2a89a38048bd4518e5a05c53fbd35122a605_POWTokenOpenDistribution.sol;3a;owned;contract;14;13;0;2;2;0;0;1;4;0;0;2;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+3adf2a89a38048bd4518e5a05c53fbd35122a605_POWTokenOpenDistribution.sol;3a;StandardToken;contract;5;5;0;2;2;0;0;3;0;1;2;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+3adf2a89a38048bd4518e5a05c53fbd35122a605_POWTokenOpenDistribution.sol;3a;safeMath;contract;29;25;0;5;6;1;1;9;14;0;0;2;0;0;5;1.2;0.2;0.2;1.8;2.8;1.0
+3adf2a89a38048bd4518e5a05c53fbd35122a605_POWTokenOpenDistribution.sol;3a;POWTokenOpenDistribution;contract;171;125;51;9;21;12;3;5;133;1;2;0;1;17;18;2.3333333333333335;1.3333333333333333;0.3333333333333333;0.5555555555555556;14.777777777777779;2.0

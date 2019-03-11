@@ -1,0 +1,12 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;3;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;5;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;MintableTokenExt;contract;86;52;18;7;8;1;1;15;19;3;5;1;0;5;7;1.1428571428571428;0.14285714285714285;0.14285714285714285;2.142857142857143;2.7142857142857144;1.0
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;UpgradeAgent;contract;12;7;1;2;2;0;0;2;1;0;0;0;0;1;0;1.0;0.0;0.0;1.0;0.5;0.0
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;UpgradeableToken;contract;119;49;47;6;19;6;4;4;38;3;4;1;1;3;13;3.1666666666666665;1.0;0.6666666666666666;0.6666666666666666;6.333333333333333;2.1666666666666665
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;SafeMath;contract;42;34;0;8;8;0;0;16;16;0;0;4;0;0;4;1.0;0.0;0.0;2.0;2.0;0.5
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;SafeMathLibExt;library;27;22;0;4;4;0;0;8;12;0;0;0;0;0;4;1.0;0.0;0.0;2.0;3.0;1.0
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;CrowdsaleTokenExt;contract;107;46;39;5;8;2;2;9;24;4;8;0;1;4;9;1.6;0.4;0.4;1.8;4.8;1.8
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;ReleasableToken;contract;80;40;25;5;5;0;0;8;15;2;3;1;0;3;2;1.0;0.0;0.0;1.6;3.0;0.4
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;6;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+df1b8fd37a0243924ab3d495ccc11a3b431bcc33_CrowdsaleTokenExt.sol;df;StandardToken;contract;55;34;8;6;7;1;1;10;18;2;3;3;0;2;7;1.1666666666666667;0.16666666666666666;0.16666666666666666;1.6666666666666667;3.0;1.1666666666666667

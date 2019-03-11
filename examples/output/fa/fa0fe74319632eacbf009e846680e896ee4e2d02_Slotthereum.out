@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+fa0fe74319632eacbf009e846680e896ee4e2d02_Slotthereum.sol;fa;Mortal;contract;5;5;0;1;1;0;0;0;1;1;1;1;0;0;1;1.0;0.0;0.0;0.0;1.0;1.0
+fa0fe74319632eacbf009e846680e896ee4e2d02_Slotthereum.sol;fa;Owned;contract;13;11;0;1;1;0;0;0;3;0;0;2;0;1;0;1.0;0.0;0.0;0.0;3.0;0.0
+fa0fe74319632eacbf009e846680e896ee4e2d02_Slotthereum.sol;fa;Slotthereum;contract;263;203;23;20;31;7;7;23;72;2;2;0;0;7;13;1.55;0.35;0.35;1.15;3.6;0.65

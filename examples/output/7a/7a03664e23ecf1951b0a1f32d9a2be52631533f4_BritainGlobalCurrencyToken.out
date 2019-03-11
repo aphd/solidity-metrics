@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+7a03664e23ecf1951b0a1f32d9a2be52631533f4_BritainGlobalCurrencyToken.sol;7a;BritainGlobalCurrencyToken;contract;48;40;0;6;6;0;0;14;21;1;1;0;0;5;5;1.0;0.0;0.0;2.3333333333333335;3.5;0.8333333333333334
+7a03664e23ecf1951b0a1f32d9a2be52631533f4_BritainGlobalCurrencyToken.sol;7a;Token;contract;19;12;0;5;5;0;0;10;0;0;0;1;0;3;0;1.0;0.0;0.0;2.0;0.0;0.0

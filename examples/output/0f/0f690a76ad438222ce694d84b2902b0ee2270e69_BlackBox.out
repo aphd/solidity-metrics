@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+0f690a76ad438222ce694d84b2902b0ee2270e69_BlackBox.sol;0f;BlackBox;contract;96;63;25;4;9;3;3;5;31;1;1;0;0;4;9;2.25;0.75;0.75;1.25;7.75;2.25
+0f690a76ad438222ce694d84b2902b0ee2270e69_BlackBox.sol;0f;Secure;contract;74;62;6;5;10;5;5;14;23;0;0;1;0;0;13;2.0;1.0;1.0;2.8;4.6;2.6
