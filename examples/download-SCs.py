@@ -68,8 +68,11 @@ class EtherScanIoApi(object):
         self.soup = BeautifulSoup(requests.get(url).text, 'html.parser')        
 
     def _get_compiler_version(self):
-        str = self.soup.findAll('td', text = re.compile('v0.'))[0].contents[0]
-        return re.search('v(\d{1,2}.\d{1,2}.\d{1,2})', str)[1]
+        try:
+            str = self.soup.findAll('td', text = re.compile('v0.'))[0].contents[0]
+            return re.search('v(\d{1,2}.\d{1,2}.\d{1,2})', str)[1]
+        except IndexError:
+            return None
 
     def _get_contract_name(self):
         try:
