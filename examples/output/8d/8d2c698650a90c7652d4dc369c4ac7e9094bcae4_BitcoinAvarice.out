@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+8d2c698650a90c7652d4dc369c4ac7e9094bcae4_BitcoinAvarice.sol;8d;BitcoinAvarice;contract;16;6;3;0;0;0;0;0;0;0;0;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0

@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d275b50f71badf4fa2f911e80e1e420730ab403e_DragonCrowdsaleCore.sol;d2;Dragon;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+d275b50f71badf4fa2f911e80e1e420730ab403e_DragonCrowdsaleCore.sol;d2;DragonCrowdsaleCore;contract;212;112;35;10;18;4;4;8;82;2;2;0;2;14;32;1.8;0.4;0.4;0.8;8.2;3.2
+d275b50f71badf4fa2f911e80e1e420730ab403e_DragonCrowdsaleCore.sol;d2;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+d275b50f71badf4fa2f911e80e1e420730ab403e_DragonCrowdsaleCore.sol;d2;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+d275b50f71badf4fa2f911e80e1e420730ab403e_DragonCrowdsaleCore.sol;d2;DragonPricing;contract;96;45;1;9;15;3;3;12;26;1;1;1;1;5;3;1.6666666666666667;0.3333333333333333;0.3333333333333333;1.3333333333333333;2.888888888888889;0.3333333333333333

@@ -1,0 +1,8 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+16101f0f7b85f6a1f2280583f0c1ff709c0efbb8_RxEALBountyTransferContract.sol;16;RxEALTokenContract;contract;90;53;20;7;7;0;0;7;23;3;4;0;0;9;15;1.0;0.0;0.0;1.0;3.2857142857142856;2.142857142857143
+16101f0f7b85f6a1f2280583f0c1ff709c0efbb8_RxEALBountyTransferContract.sol;16;BasicToken;contract;30;14;11;2;2;0;0;3;6;1;1;2;0;1;4;1.0;0.0;0.0;1.5;3.0;2.0
+16101f0f7b85f6a1f2280583f0c1ff709c0efbb8_RxEALBountyTransferContract.sol;16;StandardToken;contract;78;37;30;5;6;1;1;11;20;2;3;1;0;1;10;1.2;0.2;0.2;2.2;4.0;2.0
+16101f0f7b85f6a1f2280583f0c1ff709c0efbb8_RxEALBountyTransferContract.sol;16;RxEALBountyTransferContract;contract;46;20;14;2;2;0;0;1;8;0;0;0;1;2;7;1.0;0.0;0.0;0.5;4.0;3.5
+16101f0f7b85f6a1f2280583f0c1ff709c0efbb8_RxEALBountyTransferContract.sol;16;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;2;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+16101f0f7b85f6a1f2280583f0c1ff709c0efbb8_RxEALBountyTransferContract.sol;16;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;4;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+16101f0f7b85f6a1f2280583f0c1ff709c0efbb8_RxEALBountyTransferContract.sol;16;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75

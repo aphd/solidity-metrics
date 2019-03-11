@@ -1,0 +1,11 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;SafeMath;library;41;32;2;8;8;0;0;16;14;0;0;0;0;0;3;1.0;0.0;0.0;2.0;1.75;0.375
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;DSAuthority;contract;5;5;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;DSAuth;contract;42;37;0;4;7;3;1;4;15;1;1;3;1;2;6;1.75;0.75;0.25;1.0;3.75;1.5
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;TokenTransferGuard;contract;3;3;0;1;1;0;0;3;0;0;0;1;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;DSStop;contract;16;13;0;2;2;0;0;0;4;2;3;2;0;1;0;1.0;0.0;0.0;0.0;2.0;0.0
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;RewardSharedPool;contract;57;41;0;6;6;0;0;5;12;3;4;0;0;3;6;1.0;0.0;0.0;0.8333333333333334;2.0;1.0
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;DSAuthEvents;contract;4;4;0;0;0;0;0;0;0;0;0;4;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;ERC20;contract;12;10;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;DSNote;contract;24;20;0;0;0;0;0;0;5;0;0;3;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+2e7dd1c675b6918c51eee53d95435239eb01ce7d_ATNLongTermHolding.sol;2e;ATNLongTermHolding;contract;199;126;16;12;23;7;7;19;63;3;5;0;2;14;27;1.9166666666666667;0.5833333333333334;0.5833333333333334;1.5833333333333333;5.25;2.25

@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+cb156d1458aaeb64a8bcb7f843c701d03c68baf3_Terrus.sol;cb;Terrus;contract;196;167;5;16;18;2;2;25;81;0;0;0;0;4;24;1.125;0.125;0.125;1.5625;5.0625;1.5

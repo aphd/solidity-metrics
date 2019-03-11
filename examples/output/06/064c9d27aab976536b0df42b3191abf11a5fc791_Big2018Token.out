@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+064c9d27aab976536b0df42b3191abf11a5fc791_Big2018Token.sol;06;Big2018Token;contract;270;200;162;16;27;7;7;28;129;0;0;0;1;26;34;1.6875;0.4375;0.4375;1.75;8.0625;2.125
+064c9d27aab976536b0df42b3191abf11a5fc791_Big2018Token.sol;06;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

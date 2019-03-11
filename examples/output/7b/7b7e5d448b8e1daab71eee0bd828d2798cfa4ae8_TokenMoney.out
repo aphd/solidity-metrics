@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+7b7e5d448b8e1daab71eee0bd828d2798cfa4ae8_TokenMoney.sol;7b;owned;contract;16;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+7b7e5d448b8e1daab71eee0bd828d2798cfa4ae8_TokenMoney.sol;7b;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+7b7e5d448b8e1daab71eee0bd828d2798cfa4ae8_TokenMoney.sol;7b;ERC20;contract;10;9;0;5;5;0;0;10;0;0;0;2;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+7b7e5d448b8e1daab71eee0bd828d2798cfa4ae8_TokenMoney.sol;7b;StandardToken;contract;64;35;23;5;5;0;0;10;14;1;1;1;0;2;11;1.0;0.0;0.0;2.0;2.8;2.2
+7b7e5d448b8e1daab71eee0bd828d2798cfa4ae8_TokenMoney.sol;7b;TokenMoney;contract;69;29;26;3;3;0;0;5;12;2;3;0;1;12;5;1.0;0.0;0.0;1.6666666666666667;4.0;1.6666666666666667
+7b7e5d448b8e1daab71eee0bd828d2798cfa4ae8_TokenMoney.sol;7b;tokenRecipient;interface;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

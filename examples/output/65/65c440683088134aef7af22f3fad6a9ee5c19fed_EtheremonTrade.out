@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+65c440683088134aef7af22f3fad6a9ee5c19fed_EtheremonTrade.sol;65;EtheremonTradeInterface;interface;3;3;0;1;1;0;0;1;0;0;0;1;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
+65c440683088134aef7af22f3fad6a9ee5c19fed_EtheremonTrade.sol;65;EtheremonTrade;contract;5;5;0;1;1;0;0;1;1;1;1;0;0;0;0;1.0;0.0;0.0;1.0;1.0;0.0

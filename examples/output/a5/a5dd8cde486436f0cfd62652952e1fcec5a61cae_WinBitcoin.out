@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+a5dd8cde486436f0cfd62652952e1fcec5a61cae_WinBitcoin.sol;a5;BasicToken;contract;27;14;10;2;2;0;0;3;6;1;1;1;0;1;4;1.0;0.0;0.0;1.5;3.0;2.0
+a5dd8cde486436f0cfd62652952e1fcec5a61cae_WinBitcoin.sol;a5;SafeMath;library;25;22;2;4;4;0;0;8;12;0;0;0;0;0;4;1.0;0.0;0.0;2.0;3.0;1.0
+a5dd8cde486436f0cfd62652952e1fcec5a61cae_WinBitcoin.sol;a5;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;2;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+a5dd8cde486436f0cfd62652952e1fcec5a61cae_WinBitcoin.sol;a5;WinBitcoin;contract;50;38;12;5;5;0;0;2;16;2;3;0;1;9;10;1.0;0.0;0.0;0.4;3.2;2.0
+a5dd8cde486436f0cfd62652952e1fcec5a61cae_WinBitcoin.sol;a5;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;1;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0

@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+cb504e6590f78acd9aa1fbff6c749124facb56a6_KryptoArmy.sol;cb;KryptoArmy;contract;331;206;77;20;35;14;5;29;226;0;0;0;0;15;14;1.75;0.7;0.25;1.45;11.3;0.7

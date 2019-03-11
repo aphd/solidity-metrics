@@ -1,0 +1,19 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;FinalizeAgent;contract;17;7;6;3;3;0;0;0;1;0;0;1;0;0;0;1.0;0.0;0.0;0.0;0.3333333333333333;0.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;Crowdsale;contract;526;170;261;26;38;11;3;29;94;2;3;1;3;21;42;1.4615384615384615;0.4230769230769231;0.11538461538461539;1.1153846153846154;3.6153846153846154;1.6153846153846154
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;MintableToken;contract;47;22;17;2;2;0;0;4;9;3;5;1;0;2;3;1.0;0.0;0.0;2.0;4.5;1.5
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;StandardToken;contract;68;48;12;5;7;2;2;10;20;2;3;3;0;2;8;1.4;0.4;0.4;2.0;4.0;1.6
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;EthTranchePricing;contract;146;69;52;12;16;4;4;12;28;1;3;0;0;4;7;1.3333333333333333;0.3333333333333333;0.3333333333333333;1.0;2.3333333333333335;0.5833333333333334
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;ReleasableToken;contract;83;34;34;5;5;0;0;8;12;2;3;1;0;3;2;1.0;0.0;0.0;1.6;2.4;0.4
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;MintedEthCappedCrowdsale;contract;28;16;7;4;4;0;0;13;5;3;4;0;2;1;2;1.0;0.0;0.0;3.25;1.25;0.5
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;7;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;FractionalERC20;contract;3;3;0;0;0;0;0;0;0;2;2;0;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;CrowdsaleToken;contract;142;74;43;7;10;2;2;7;43;4;8;0;0;8;14;1.4285714285714286;0.2857142857142857;0.2857142857142857;1.0;6.142857142857143;2.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;Haltable;contract;26;17;4;2;2;0;0;0;6;1;1;2;0;1;0;1.0;0.0;0.0;0.0;3.0;0.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;Ownable;contract;22;20;0;3;3;0;0;1;7;0;0;7;0;2;2;1.0;0.0;0.0;0.3333333333333333;2.3333333333333335;0.6666666666666666
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;BonusFinalizeAgent;contract;82;38;25;3;7;3;3;4;21;1;2;0;2;6;9;2.3333333333333335;1.0;1.0;1.3333333333333333;7.0;3.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;UpgradeAgent;contract;8;7;1;2;2;0;0;2;1;0;0;0;0;1;0;1.0;0.0;0.0;1.0;0.5;0.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;UpgradeableToken;contract;126;45;60;6;9;3;1;4;28;3;4;1;1;3;12;1.5;0.5;0.16666666666666666;0.6666666666666666;4.666666666666667;2.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;SafeMathLib;contract;18;16;0;3;3;0;0;6;8;0;0;8;0;0;3;1.0;0.0;0.0;2.0;2.6666666666666665;1.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;PricingStrategy;contract;28;9;16;3;3;0;0;6;2;0;0;1;0;0;0;1.0;0.0;0.0;2.0;0.6666666666666666;0.0
+9f195617fa8fbad9540c5d113a99a0a0172aaedc_CrowdsaleToken.sol;9f;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;6;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0

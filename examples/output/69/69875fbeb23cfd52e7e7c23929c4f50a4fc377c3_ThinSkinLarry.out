@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+69875fbeb23cfd52e7e7c23929c4f50a4fc377c3_ThinSkinLarry.sol;69;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+69875fbeb23cfd52e7e7c23929c4f50a4fc377c3_ThinSkinLarry.sol;69;ThinSkinLarry;contract;149;69;82;8;9;1;1;19;35;0;0;0;1;6;14;1.125;0.125;0.125;2.375;4.375;1.75

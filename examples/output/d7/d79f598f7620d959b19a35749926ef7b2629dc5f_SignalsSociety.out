@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d79f598f7620d959b19a35749926ef7b2629dc5f_SignalsSociety.sol;d7;SignalsSociety;contract;42;24;16;4;4;0;0;5;11;2;2;0;0;1;6;1.0;0.0;0.0;1.25;2.75;1.5
+d79f598f7620d959b19a35749926ef7b2629dc5f_SignalsSociety.sol;d7;Ownable;contract;31;25;6;4;4;0;0;2;9;0;0;2;0;2;2;1.0;0.0;0.0;0.5;2.25;0.5
+d79f598f7620d959b19a35749926ef7b2629dc5f_SignalsSociety.sol;d7;Memberships;contract;15;11;4;2;2;0;0;3;3;1;1;1;0;1;3;1.0;0.0;0.0;1.5;1.5;1.5

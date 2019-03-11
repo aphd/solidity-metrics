@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+b45893bd77830bec7c305aded041bd74f0343bd1_MiniMeToken.sol;b4;MiniMeToken;contract;484;234;187;21;38;13;13;44;112;1;1;0;2;13;46;1.8095238095238095;0.6190476190476191;0.6190476190476191;2.0952380952380953;5.333333333333333;2.1904761904761907
+b45893bd77830bec7c305aded041bd74f0343bd1_MiniMeToken.sol;b4;Controlled;contract;15;8;4;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+b45893bd77830bec7c305aded041bd74f0343bd1_MiniMeToken.sol;b4;TokenController;contract;23;6;15;3;3;0;0;7;0;0;0;0;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+b45893bd77830bec7c305aded041bd74f0343bd1_MiniMeToken.sol;b4;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+b45893bd77830bec7c305aded041bd74f0343bd1_MiniMeToken.sol;b4;MiniMeTokenFactory;contract;34;22;10;1;1;0;0;6;3;0;0;0;1;0;2;1.0;0.0;0.0;6.0;3.0;2.0

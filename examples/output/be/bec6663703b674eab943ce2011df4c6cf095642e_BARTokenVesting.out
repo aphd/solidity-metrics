@@ -1,0 +1,7 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+bec6663703b674eab943ce2011df4c6cf095642e_BARTokenVesting.sol;be;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;0;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+bec6663703b674eab943ce2011df4c6cf095642e_BARTokenVesting.sol;be;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;1;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+bec6663703b674eab943ce2011df4c6cf095642e_BARTokenVesting.sol;be;BARTokenVesting;contract;101;53;27;5;7;2;1;9;28;1;1;0;1;7;20;1.4;0.4;0.2;1.8;5.6;4.0
+bec6663703b674eab943ce2011df4c6cf095642e_BARTokenVesting.sol;be;SafeERC20;library;13;11;0;3;3;0;0;10;3;0;0;0;2;0;3;1.0;0.0;0.0;3.3333333333333335;1.0;1.0
+bec6663703b674eab943ce2011df4c6cf095642e_BARTokenVesting.sol;be;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;1;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+bec6663703b674eab943ce2011df4c6cf095642e_BARTokenVesting.sol;be;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75

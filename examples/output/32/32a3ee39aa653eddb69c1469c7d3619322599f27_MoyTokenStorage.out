@@ -1,0 +1,6 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+32a3ee39aa653eddb69c1469c7d3619322599f27_MoyTokenStorage.sol;32;safeMath;contract;29;25;0;5;6;1;1;9;14;0;0;2;0;0;5;1.2;0.2;0.2;1.8;2.8;1.0
+32a3ee39aa653eddb69c1469c7d3619322599f27_MoyTokenStorage.sol;32;owned;contract;14;13;0;2;2;0;0;1;4;0;0;2;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
+32a3ee39aa653eddb69c1469c7d3619322599f27_MoyTokenStorage.sol;32;StandardToken;contract;5;5;0;2;2;0;0;3;0;1;2;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+32a3ee39aa653eddb69c1469c7d3619322599f27_MoyTokenStorage.sol;32;ERC20I;interface;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+32a3ee39aa653eddb69c1469c7d3619322599f27_MoyTokenStorage.sol;32;MoyTokenStorage;contract;86;59;22;5;9;4;2;7;61;1;2;0;2;12;5;1.8;0.8;0.4;1.4;12.2;1.0

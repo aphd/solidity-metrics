@@ -1,0 +1,2 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+e4cfd9874110c6a6c1b2f4aaedbc6084e84db376_BlockchainSIGIndia2.sol;e4;BlockchainSIGIndia2;contract;17;9;1;0;0;0;0;0;0;0;0;0;0;67;0;0.0;0.0;0.0;0.0;0.0;0.0

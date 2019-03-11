@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+d747726c19c131b4e2c8a13f9e673d9f245bd2e5_Vemus.sol;d7;Vemus;contract;100;60;25;5;13;3;3;14;37;0;0;0;1;9;5;2.6;0.6;0.6;2.8;7.4;1.0
+d747726c19c131b4e2c8a13f9e673d9f245bd2e5_Vemus.sol;d7;tokenRecipient;contract;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

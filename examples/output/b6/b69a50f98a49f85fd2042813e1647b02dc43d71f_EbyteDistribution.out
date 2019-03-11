@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+b69a50f98a49f85fd2042813e1647b02dc43d71f_EbyteDistribution.sol;b6;EbyteDistribution;contract;154;129;0;18;27;9;9;18;63;0;0;0;2;9;24;1.5;0.5;0.5;1.0;3.5;1.3333333333333333
+b69a50f98a49f85fd2042813e1647b02dc43d71f_EbyteDistribution.sol;b6;ForeignToken;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
+b69a50f98a49f85fd2042813e1647b02dc43d71f_EbyteDistribution.sol;b6;Token;interface;5;5;0;3;3;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0

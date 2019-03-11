@@ -1,0 +1,10 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;StandardToken;contract;52;20;23;3;3;0;0;7;11;2;3;2;0;1;6;1.0;0.0;0.0;2.3333333333333335;3.6666666666666665;2.0
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;BurnableToken;contract;17;10;4;1;1;0;0;1;5;3;4;1;0;0;4;1.0;0.0;0.0;1.0;5.0;4.0
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;Crowdsale;contract;70;48;3;9;9;0;0;3;18;1;1;0;1;5;5;1.0;0.0;0.0;0.3333333333333333;2.0;0.5555555555555556
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;Ownable;contract;30;14;11;2;2;0;0;1;5;0;0;1;0;1;1;1.0;0.0;0.0;0.5;2.5;0.5
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;BasicToken;contract;28;13;10;2;2;0;0;3;5;1;1;3;0;1;3;1.0;0.0;0.0;1.5;2.5;1.5
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;SafeMath;library;27;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
+aa669c292d94c591514c2eaa7e8f28061a28b47c_Tincoin.sol;aa;Tincoin;contract;16;10;0;1;1;0;0;0;2;4;5;0;1;6;0;1.0;0.0;0.0;0.0;2.0;0.0

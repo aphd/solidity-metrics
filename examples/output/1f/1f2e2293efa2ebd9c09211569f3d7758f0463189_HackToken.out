@@ -1,0 +1,4 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+1f2e2293efa2ebd9c09211569f3d7758f0463189_HackToken.sol;1f;SafeMath;contract;48;31;8;4;4;0;0;6;8;0;0;1;0;0;3;1.0;0.0;0.0;1.5;2.0;0.75
+1f2e2293efa2ebd9c09211569f3d7758f0463189_HackToken.sol;1f;HackToken;contract;117;87;11;5;5;0;0;9;19;1;2;0;0;11;8;1.0;0.0;0.0;1.8;3.8;1.6
+1f2e2293efa2ebd9c09211569f3d7758f0463189_HackToken.sol;1f;IERC20Token;contract;13;11;1;9;9;0;0;10;9;0;0;1;0;0;0;1.0;0.0;0.0;1.1111111111111112;1.0;0.0

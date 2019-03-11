@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+8074fed6b5dfbd8b8d18a52dbe3bc2bc8be856ed_Faisaa.sol;80;Faisaa;contract;42;26;12;3;5;1;1;2;15;0;0;0;0;7;0;1.6666666666666667;0.3333333333333333;0.3333333333333333;0.6666666666666666;5.0;0.0
+8074fed6b5dfbd8b8d18a52dbe3bc2bc8be856ed_Faisaa.sol;80;tokenRecipient;contract;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

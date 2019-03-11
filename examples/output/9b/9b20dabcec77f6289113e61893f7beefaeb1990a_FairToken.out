@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+9b20dabcec77f6289113e61893f7beefaeb1990a_FairToken.sol;9b;TokenERC20;contract;180;85;87;12;14;2;2;27;50;1;1;1;1;5;18;1.1666666666666667;0.16666666666666666;0.16666666666666666;2.25;4.166666666666667;1.5
+9b20dabcec77f6289113e61893f7beefaeb1990a_FairToken.sol;9b;TokenRecipient;interface;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
+9b20dabcec77f6289113e61893f7beefaeb1990a_FairToken.sol;9b;FairToken;contract;5;3;0;1;1;0;0;0;0;2;2;0;0;4;0;1.0;0.0;0.0;0.0;0.0;0.0
+9b20dabcec77f6289113e61893f7beefaeb1990a_FairToken.sol;9b;ERC20;contract;15;10;0;5;5;0;0;10;0;0;0;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0

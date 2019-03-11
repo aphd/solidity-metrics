@@ -1,0 +1,5 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+9d5addd65ecc8f70ed4b531b6a75d36fefed8516_Asset.sol;9d;ERC20Token;contract;75;36;38;5;5;0;0;10;18;1;1;1;0;3;10;1.0;0.0;0.0;2.0;3.6;2.0
+9d5addd65ecc8f70ed4b531b6a75d36fefed8516_Asset.sol;9d;SafeMath;library;14;11;0;2;2;0;0;4;5;0;0;0;0;0;2;1.0;0.0;0.0;2.0;2.5;1.0
+9d5addd65ecc8f70ed4b531b6a75d36fefed8516_Asset.sol;9d;ERC20TokenInterface;contract;9;7;0;5;5;0;0;10;0;0;0;2;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+9d5addd65ecc8f70ed4b531b6a75d36fefed8516_Asset.sol;9d;Asset;contract;26;15;8;2;2;0;0;0;5;2;2;0;0;7;3;1.0;0.0;0.0;0.0;2.5;1.5

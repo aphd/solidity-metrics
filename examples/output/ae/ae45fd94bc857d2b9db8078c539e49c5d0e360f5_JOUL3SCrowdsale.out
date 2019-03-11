@@ -1,0 +1,3 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+ae45fd94bc857d2b9db8078c539e49c5d0e360f5_JOUL3SCrowdsale.sol;ae;Token;interface;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
+ae45fd94bc857d2b9db8078c539e49c5d0e360f5_JOUL3SCrowdsale.sol;ae;JOUL3SCrowdsale;contract;77;59;5;8;11;1;1;7;31;0;0;0;1;6;13;1.375;0.125;0.125;0.875;3.875;1.625

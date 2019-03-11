@@ -1,0 +1,12 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;5;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;CappedToken;contract;22;11;6;2;2;0;0;3;4;4;6;1;0;1;3;1.0;0.0;0.0;1.5;2.0;1.5
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;PausableToken;contract;22;17;0;5;5;0;0;11;5;3;6;1;0;0;5;1.0;0.0;0.0;2.2;1.0;1.0
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;5;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;Pausable;contract;39;21;12;2;2;0;0;0;8;1;1;2;0;1;2;1.0;0.0;0.0;0.0;4.0;1.0
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;BlockportToken;contract;11;9;0;1;1;0;0;1;1;5;9;0;0;6;0;1.0;0.0;0.0;1.0;1.0;0.0
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;7;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;5;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;MintableToken;contract;36;21;10;2;2;0;0;2;10;3;5;2;0;1;5;1.0;0.0;0.0;1.0;5.0;2.5
+327682779bab2bf4d1337e8974ab9de8275a7ca8_BlockportToken.sol;32;StandardToken;contract;82;39;33;6;7;1;1;13;22;2;3;4;0;1;11;1.1666666666666667;0.16666666666666666;0.16666666666666666;2.1666666666666665;3.6666666666666665;1.8333333333333333
