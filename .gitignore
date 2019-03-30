@@ -1,3 +1,13 @@
 dependency-reduced-pom.xml
 target/
 
+# Output files
+# contracts.json
+examples/output/
+
+# Jupyter Notebook
+examples/.ipynb_checkpoints
+examples/*.ipynb
+
+#Editor 
+*.vscode
