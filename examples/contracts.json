@@ -3015,3 +3015,4 @@
 {'address': '6291089eef5395434a12016bab9796d69f5ae9d9', 'name': 'Mythumos', 'compiler': None, 'compiler_version': '0.4.19', 'balance': '0', 'txcount': 6, 'firstseen': '2017-12-20T16:10:45.000Z', 'lastseen': '2018-01-16T04:06:10.000Z'}
 {'address': '91a973bee89225c6c186419b5bab1944fc5736c7', 'name': 'LPVault', 'compiler': None, 'compiler_version': '0.4.19', 'balance': '0', 'txcount': 16, 'firstseen': '2017-12-20T16:04:33.000Z', 'lastseen': '2018-01-03T23:28:56.000Z'}
 {'address': '579afc9d2aab2fd0cbf55eddc35ce4667725f88e', 'name': 'FrikandelToken', 'compiler': None, 'compiler_version': '0.4.19', 'balance': '0', 'txcount': 4, 'firstseen': '2017-12-20T15:53:48.000Z', 'lastseen': '2017-12-25T02:26:50.000Z'}
+{'address': '233007FDeeB9a1BFB705666f87a6B3e8b5B301B1', 'name': 'CrowdsaleToken', 'compiler': None, 'compiler_version': '0.4.16', 'balance': '0', 'txcount': 6, 'firstseen': '2018-01-04T06:56:12.000Z', 'lastseen': '2018-01-04T07:25:23.000Z'}
