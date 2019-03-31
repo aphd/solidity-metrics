@@ -21,8 +21,6 @@ class EtherScanIoApi(object):
     """
     Base EtherScan.io Api implementation
     TODO: 
-    - fix duplicated entries in contracts_overview.json
-    it happens when i delete the output directory because i do not want to store teh sc code
     - fix _get_contract_name
     """
 
@@ -37,6 +35,8 @@ class EtherScanIoApi(object):
     def get_contracts_from_file(self):
         for address in self._get_sc_addresses_from_file():
             address = '0x' + address
+            if not self._is_new_address(address):
+                continue
             describe_contract = self.ec.account(address).describe_contract
             self._set_soup(address)
             contract = {'address': address,
@@ -63,6 +63,8 @@ class EtherScanIoApi(object):
             rows = self._parse_tbodies(resp)[0]  # only use first tbody
             for col in rows:
                 address = self._extract_text_from_html(col[0]).split(" ", 1)[0]
+                if not self._is_new_address(address):
+                    continue
                 describe_contract = self.ec.account(address).describe_contract
                 firstseen = describe_contract.__self__['firstseen']
                 lastseen = describe_contract.__self__['lastseen']
@@ -78,7 +80,33 @@ class EtherScanIoApi(object):
                 yield contract
             page += 1
 
-    def get_contract_source(self, address):
+    def write_contracts_overview_file(self, contracts=[]):
+        amount = 2
+        for nr, c in enumerate(contracts):
+            with open(self.config['DEFAULT']['contracts_overview_file'], 'a') as f:
+                print("got contract: %s" % c)
+
+                f_path = os.path.join(
+                    self.config['DEFAULT']['output_path'], '%s.sol' % (c["address"]))
+                try:
+                    source = self._get_contract_source(c["address"]).strip()
+                    if not len(source):
+                        raise Exception(c)
+                except Exception as e:
+                    continue
+
+                f.write("%s\n" % c)
+                with open(f_path, "wb") as f:
+                    f.write(bytes(source, "utf8"))
+
+                print("[%d/%d] dumped --> %s (%-20s) -> %s" %
+                      (nr, amount, c["address"], c["name"], f_path))
+
+                nr += 1
+                if nr >= amount:
+                    break
+
+    def _get_contract_source(self, address):
         import time
         e = None
         for _ in range(20):
@@ -100,38 +128,10 @@ class EtherScanIoApi(object):
                 continue
         raise e
 
-    def write_contracts_overview_file(self, contracts=[]):
-        amount = 2
-        for nr, c in enumerate(contracts):
-            with open(self.config['DEFAULT']['contracts_overview_file'], 'a') as f:
-                print("got contract: %s" % c)
-
-                f_path = os.path.join(
-                    self.config['DEFAULT']['output_path'], '%s.sol' % (c["address"]))
-                if os.path.exists(f_path):
-                    print('os.path.exists: ', f_path)
-                    continue
-                try:
-                    source = self.get_contract_source(c["address"]).strip()
-                    if not len(source):
-                        raise Exception(c)
-                except Exception as e:
-                    continue
-
-                f.write("%s\n" % c)
-                with open(f_path, "wb") as f:
-                    f.write(bytes(source, "utf8"))
-
-                print("[%d/%d] dumped --> %s (%-20s) -> %s" %
-                      (nr, amount, c["address"], c["name"], f_path))
-
-                nr += 1
-                if nr >= amount:
-                    break
-
-    def _is_address_present(self, address):
-        if address in open('').read():
-            return True
+    def _is_new_address(self, address):
+        if address in open(self.config['DEFAULT']['contracts_overview_file']).read():
+            return False
+        return True
 
     def _set_soup(self, address):
         url = address.join(['https://etherscan.io/address/', '#code'])
@@ -201,5 +201,5 @@ class EtherScanIoApi(object):
 
 if __name__ == "__main__":
     e = EtherScanIoApi()
-    e.write_contracts_overview_file(e.get_contracts_from_file())
-    # e.write_contracts_overview_file(e.get_contracts_from_etherscan())
+    # e.write_contracts_overview_file(e.get_contracts_from_file())
+    e.write_contracts_overview_file(e.get_contracts_from_etherscan())
