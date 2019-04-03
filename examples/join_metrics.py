@@ -15,6 +15,7 @@ class MergeMetrics(object):
         self.config = configparser.ConfigParser()
         self.config.read('config.ini')
         self.smec_fn = self.config['DEFAULT']['smec_fn']
+        self.smec_h = open(self.smec_fn, 'a')
 
         self.metrics_from_etherChain = self._get_metrics_from_etherChain()
 
@@ -50,22 +51,19 @@ class MergeMetrics(object):
                 print(e)
                 continue
             try:
-                print('solmet: ', lines[1].rstrip())
-                print('etherChain:', self.metrics_from_etherChain[address])
                 obj = self.metrics_from_etherChain[address]
-                self.smec_fn.write(';'.join([
+                self.smec_h.write(';'.join([
                     lines[1].rstrip(),
                     obj['firstseen'],
                     obj['lastseen'],
-                    obj['compiler_version'], '\n'
+                    # TODO fix the compiler version None
+                    str(obj['compiler_version']), '\n'
                 ]))
             except IndexError as e:
                 print("IndexError: ", e)
-        self.smec_fn.close()
+        self.smec_h.close()
 
 
 if __name__ == "__main__":
     m = MergeMetrics()
-    print(m.join_etherscan_solmet())
-    # m.join_etherscan_solmet()
-    # print(m._get_sol_file_name({'address': '0x79a64dbe0a25390fa40a2eb819b934ccc7a06f45', 'name': 'ALLDigitalToken', 'compiler': 'Solidity', 'compiler_version': '0.4.25', 'balance': 0, 'txcount': '1', 'firstse    en': '2019-02-26T05:04:06.000Z', 'lastseen': '2019-02-26T05:04:06.000Z'}))
+    m.join_etherscan_solmet()

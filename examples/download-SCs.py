@@ -141,6 +141,7 @@ class EtherScanIoApi(object):
         self.soup = BeautifulSoup(requests.get(url).text, 'html.parser')
 
     def _get_compiler_version(self):
+        # TODO: fix the compiler_version None
         try:
             str = self.soup.findAll('td', text=re.compile('v0.'))[
                 0].contents[0]
