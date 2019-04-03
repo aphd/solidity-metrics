@@ -14,6 +14,7 @@ from pyetherchain.pyetherchain import EtherChain
 import configparser
 import re
 import requests
+import sys
 from bs4 import BeautifulSoup
 
 
@@ -32,8 +33,9 @@ class EtherScanIoApi(object):
         self.ec = EtherChain()
         self.soup = None
 
-    def get_contracts_from_file(self):
-        for address in self._get_sc_addresses_from_file():
+    def get_contracts_from_hardcode_fn(self):
+        # It gets ethereum contract addresses from a hard coding file
+        for address in self._get_hardcode_addresses_from_fn():
             address = '0x' + address
             if not self._is_new_address(address):
                 continue
@@ -80,10 +82,10 @@ class EtherScanIoApi(object):
                 yield contract
             page += 1
 
-    def write_contracts_overview_file(self, contracts=[]):
+    def write_etherChain_fn(self, contracts=[]):
         amount = 2
         for nr, c in enumerate(contracts):
-            with open(self.config['DEFAULT']['contracts_overview_file'], 'a') as f:
+            with open(self.config['DEFAULT']['etherChain_fn'], 'a') as f:
                 print("got contract: %s" % c)
 
                 f_path = os.path.join(
@@ -109,8 +111,9 @@ class EtherScanIoApi(object):
     def _get_contract_source(self, address):
         import time
         e = None
-        for _ in range(20):
+        for _ in range(5):
             resp = self.session.get("/address/%s" % address).text
+            print("/address/%s" % address)
             if "You have reached your maximum request limit for this resource. Please try again later" in resp:
                 print("[[THROTTELING]]")
                 time.sleep(1+2.5*_)
@@ -119,17 +122,17 @@ class EtherScanIoApi(object):
                 print("=======================================================")
                 print(address)
                 resp = resp.split(
-                    "</div><pre class='js-sourcecopyarea' id='editor' style='margin-top: 5px;'>", 1)[1]
+                    "<pre class='js-sourcecopyarea editor' id='editor' style='margin-top: 5px;'>", 1)[1]
                 resp = resp.split("</pre><br>", 1)[0]
                 return resp.replace("&lt;", "<").replace("&gt;", ">").replace("&le;", "<=").replace("&ge;", ">=").replace("&amp;", "&").replace("&vert;", "|")
             except Exception as e:
-                print(e)
+                print('Exception: ', e)
                 time.sleep(1 + 2.5 * _)
                 continue
         raise e
 
     def _is_new_address(self, address):
-        if address in open(self.config['DEFAULT']['contracts_overview_file']).read():
+        if address in open(self.config['DEFAULT']['etherChain_fn']).read():
             return False
         return True
 
@@ -151,9 +154,9 @@ class EtherScanIoApi(object):
         except AttributeError:
             return None
 
-    def _get_sc_addresses_from_file(self):
+    def _get_hardcode_addresses_from_fn(self):
         try:
-            fp = open(self.config['DEFAULT']['contracts_list_file'])
+            fp = open(self.config['DEFAULT']['hardcode_addresses_fn'])
             return list(filter(None,
                                map(lambda x: x.strip(),
                                    fp.readlines())
@@ -201,5 +204,6 @@ class EtherScanIoApi(object):
 
 if __name__ == "__main__":
     e = EtherScanIoApi()
-    # e.write_contracts_overview_file(e.get_contracts_from_file())
-    e.write_contracts_overview_file(e.get_contracts_from_etherscan())
+    e.write_etherChain_fn(e.get_contracts_from_hardcode_fn())
+    # print(e.get_contracts_from_hardcode_fn())
+    # e.write_etherChain_fn(e.get_contracts_from_etherscan())
