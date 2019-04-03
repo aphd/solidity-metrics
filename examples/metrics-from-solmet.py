@@ -11,6 +11,7 @@ class MetricsFromSolMet(object):
     This class reads solidity code and produce the output using solmet tool.
     Input: ./output/a6e0b24c65758154cac6f33b0c455727ab6193cb_BasicTokenSC.sol
     Output: ./output/a6e0b24c65758154cac6f33b0c455727ab6193cb_BasicTokenSC.out
+    TODO: performance issue -> the script compute the output for all smartcontract inside the output directory without checking the smec_fn.
     '''
 
     def __init__(self):

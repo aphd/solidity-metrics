@@ -87,3 +87,8 @@ The output is a comma separated file containing the values of the calculated met
 ## Credits
 
 The parser is based on the excellent antlr4 grammar available at https://github.com/solidityj/solidity-antlr4.
+
+## References
+
+1. A python interface to the ethereum blockchain explorer at www.etherchain.org. https://github.com/tintinweb/pyetherchain
+2. SolMet-Solidity-parser. https://github.com/chicxurug/SolMet-Solidity-parser
