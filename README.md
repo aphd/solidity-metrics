@@ -23,6 +23,9 @@ It is a **Work In Progress**, supporting the following metrics
 
 ## User instructions
 
+This tool merges two metrics datasets: solmet(SolMet) and pyetherchain (EtherChain).
+The join result is named SMEC (SolMet and EtherChain).
+
 ### Download and compute the metrics
 
 ```bash
