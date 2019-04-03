@@ -56,7 +56,6 @@ class MergeMetrics(object):
                     lines[1].rstrip(),
                     obj['firstseen'],
                     obj['lastseen'],
-                    # TODO fix the compiler version None
                     str(obj['compiler_version']), '\n'
                 ]))
             except IndexError as e:
