@@ -29,7 +29,6 @@ It is a **Work In Progress**, supporting the following metrics
 cd examples
 
 python3 download-SCs.py
-
 python3 metrics-from-solmet.py # input_file: ./output/*.sol | output_file: ./output/*.out
 python3 join_metrics.py # input_file: contracts_overview_file | output_file: solmetant.csv
 ```
