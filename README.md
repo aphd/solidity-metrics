@@ -31,9 +31,9 @@ The join result is named SMEC (SolMet and EtherChain).
 ```bash
 cd examples
 
-python3 download-SCs.py
-python3 metrics-from-solmet.py # input_file: ./output/*.sol | output_file: ./output/*.out
-python3 join_metrics.py # input_file: contracts_overview_file | output_file: solmetant.csv
+python3 01-download-SCs.py
+python3 02-metrics-from-solmet.py # input_file: ./output/*.sol | output_file: ./output/*.out
+python3 03-join_metrics.py # input_file: contracts_overview_file | output_file: solmetant.csv
 ```
 
 ### Data Analysis with Pandas and Python
@@ -48,7 +48,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('solmetant.csv', sep=';')
+df = pd.read_csv('smec.csv', sep=';')
 df.sort_values(by=['CV'], inplace=True)
 df.head()
 
@@ -57,6 +57,8 @@ sns.swarmplot(x = 'CV',y='SLOC',data=df, size=5)
 plt.show()
 
 ```
+
+For further information, please follow this [link](http://svel.to/19y3).
 
 <!--
 ## Building the tool

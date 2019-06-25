@@ -27,11 +27,12 @@ class MergeMetrics(object):
             set(self._get_addresses_from_etherChain_fn()) - set(self._get_addresses_from_smec_fn()))
 
     def _get_addresses_from_etherChain_fn(self):
-        return list(self.metrics_from_etherChain.keys())
+        return [re.sub('^0x', '', key) for key in list(self.metrics_from_etherChain.keys())]
 
     def _get_addresses_from_smec_fn(self):
         with open(self.smec_fn, 'r') as f:
             addresses = [row.split(';')[0] for row in f][1:]
+            addresses = [re.sub('^0x', '', address) for address in addresses]
             return [re.search('[a-zA-Z0-9]{40}', address).group(0) for address in addresses]
 
     def _get_metrics_from_solmet_fn(self, address):
@@ -44,10 +45,12 @@ class MergeMetrics(object):
 
     def join_etherscan_solmet(self):
         for address in self._get_addresses():
+            # TODO the addresses and the files should have all the 0x prefix!
+            address = '0x' + address
             try:
                 lines = open(self._get_metrics_from_solmet_fn(
                     address), 'r').readlines()
-            except (TypeError, FileNotFoundError) as e:
+            except IOError as e:
                 print(e)
                 continue
             try:

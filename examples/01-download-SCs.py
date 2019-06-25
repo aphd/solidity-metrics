@@ -33,9 +33,10 @@ class EtherScanIoApi(object):
         self.ec = EtherChain()
         self.soup = None
 
-    def get_contracts_from_hardcode_fn(self):
-        # It gets ethereum contract addresses from a hard coding file
-        for address in self._get_hardcode_addresses_from_fn():
+    def get_contracts_from_fn(self, fn):
+        # It gets ethereum contract addresses from a file
+        # The address has this format B387C7E8fbadd98BAe04200106d292661e58Ff83
+        for address in self._get_addresses_from_fn(fn):
             address = '0x' + address
             if not self._is_new_address(address):
                 continue
@@ -132,9 +133,13 @@ class EtherScanIoApi(object):
         raise e
 
     def _is_new_address(self, address):
-        if address in open(self.config['DEFAULT']['etherChain_fn']).read():
-            return False
-        return True
+        if (
+            address not in open(self.config['DEFAULT']['etherChain_fn']).read()
+            and
+            address not in open(self.config['DEFAULT']['smec_fn']).read()
+        ):
+            return True
+        return False
 
     def _set_soup(self, address):
         url = address.join(['https://etherscan.io/address/', '#code'])
@@ -154,9 +159,9 @@ class EtherScanIoApi(object):
         except AttributeError:
             return None
 
-    def _get_hardcode_addresses_from_fn(self):
+    def _get_addresses_from_fn(self, fn):
         try:
-            fp = open(self.config['DEFAULT']['hardcode_addresses_fn'])
+            fp = open(fn)
             return list(filter(None,
                                map(lambda x: x.strip(),
                                    fp.readlines())
@@ -204,6 +209,7 @@ class EtherScanIoApi(object):
 
 if __name__ == "__main__":
     e = EtherScanIoApi()
-    e.write_etherChain_fn(e.get_contracts_from_hardcode_fn())
-    # print(e.get_contracts_from_hardcode_fn())
+    e.write_etherChain_fn(
+        e.get_contracts_from_fn('/tmp/addresses.in'))
     # e.write_etherChain_fn(e.get_contracts_from_etherscan())
+    # print(e.get_contracts_from_fn())
