@@ -86,7 +86,7 @@ class EtherScanIoApi(object):
     def write_etherChain_fn(self, contracts=[]):
         amount = 2
         for nr, c in enumerate(contracts):
-            with open(self.config['DEFAULT']['etherChain_fn'], 'w') as f:
+            with open(self.config['DEFAULT']['etherChain_fn'], 'a+') as f:
                 print("got contract: %s" % c)
 
                 f_path = os.path.join(
@@ -205,7 +205,5 @@ class EtherScanIoApi(object):
 
 if __name__ == "__main__":
     e = EtherScanIoApi()
-    e.write_etherChain_fn(
-        e.get_contracts_from_fn('/tmp/addresses.in'))
-    # e.write_etherChain_fn(e.get_contracts_from_etherscan())
-    # print(e.get_contracts_from_fn())
+    # e.write_etherChain_fn(e.get_contracts_from_fn('/tmp/addresses.in'))
+    e.write_etherChain_fn(e.get_contracts_from_etherscan())

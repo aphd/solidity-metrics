@@ -62,7 +62,7 @@ class MergeMetrics(object):
                     str(obj['compiler_version']), '\n'
                 ]))
             except IndexError as e:
-                print("IndexError: ", e)
+                print("IndexError: ", e, '\naddress:', address)
         self.smec_h.close()
 
 
