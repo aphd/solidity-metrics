@@ -2,10 +2,6 @@ dependency-reduced-pom.xml
 target/
 .DS_Store
 
-# Output files
-# contracts.json
-examples/output/
-
 # Jupyter Notebook
 examples/.ipynb_checkpoints
 examples/*.ipynb

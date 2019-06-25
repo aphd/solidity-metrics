@@ -86,7 +86,7 @@ class EtherScanIoApi(object):
     def write_etherChain_fn(self, contracts=[]):
         amount = 2
         for nr, c in enumerate(contracts):
-            with open(self.config['DEFAULT']['etherChain_fn'], 'a') as f:
+            with open(self.config['DEFAULT']['etherChain_fn'], 'w') as f:
                 print("got contract: %s" % c)
 
                 f_path = os.path.join(
@@ -133,11 +133,7 @@ class EtherScanIoApi(object):
         raise e
 
     def _is_new_address(self, address):
-        if (
-            address not in open(self.config['DEFAULT']['etherChain_fn']).read()
-            and
-            address not in open(self.config['DEFAULT']['smec_fn']).read()
-        ):
+        if (address not in open(self.config['DEFAULT']['smec_fn']).read()):
             return True
         return False
 
