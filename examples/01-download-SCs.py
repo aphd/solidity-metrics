@@ -21,7 +21,10 @@ from bs4 import BeautifulSoup
 class EtherScanIoApi(object):
     """
     Base EtherScan.io Api implementation
-    TODO: 
+    TODO:
+    - implement a script (client) that runs all the python script
+    - fix the issue about SC with several classes. The issue is at 03 script
+    - Fix the issue about solmet, for some address the tool is not able to get statistic at 02 and it brokes 03
     - fix _get_contract_name
     """
 
