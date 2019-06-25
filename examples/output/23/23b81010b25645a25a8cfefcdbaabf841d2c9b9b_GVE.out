@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-23b81010b25645a25a8cfefcdbaabf841d2c9b9b_GVE.sol;23;Token;contract;44;17;21;5;5;0;0;10;0;0;0;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0
-23b81010b25645a25a8cfefcdbaabf841d2c9b9b_GVE.sol;23;StandardToken;contract;45;35;4;5;5;0;0;10;21;1;1;1;0;2;5;1.0;0.0;0.0;2.0;4.2;1.0
-23b81010b25645a25a8cfefcdbaabf841d2c9b9b_GVE.sol;23;GVE;contract;42;27;12;4;6;2;2;7;37;2;2;0;1;8;6;1.5;0.5;0.5;1.75;9.25;1.5

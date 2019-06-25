@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-48b44a7a1ebb16fec72893fd86bb66bdefd3f3ef_CrimsonShilling.sol;48;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-48b44a7a1ebb16fec72893fd86bb66bdefd3f3ef_CrimsonShilling.sol;48;owned;contract;16;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0
-48b44a7a1ebb16fec72893fd86bb66bdefd3f3ef_CrimsonShilling.sol;48;TokenERC20;contract;116;53;59;6;7;1;1;16;23;0;0;1;1;6;10;1.1666666666666667;0.16666666666666666;0.16666666666666666;2.6666666666666665;3.8333333333333335;1.6666666666666667
-48b44a7a1ebb16fec72893fd86bb66bdefd3f3ef_CrimsonShilling.sol;48;CrimsonShilling;contract;61;36;27;5;5;0;0;12;19;1;2;0;0;1;6;1.0;0.0;0.0;2.4;3.8;1.2

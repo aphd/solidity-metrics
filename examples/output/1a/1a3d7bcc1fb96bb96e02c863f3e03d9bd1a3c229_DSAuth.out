@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-1a3d7bcc1fb96bb96e02c863f3e03d9bd1a3c229_DSAuth.sol;1a;DSAuthEvents;contract;4;4;0;0;0;0;0;0;0;0;0;1;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-1a3d7bcc1fb96bb96e02c863f3e03d9bd1a3c229_DSAuth.sol;1a;DSAuthority;contract;5;5;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-1a3d7bcc1fb96bb96e02c863f3e03d9bd1a3c229_DSAuth.sol;1a;DSAuth;contract;49;42;0;5;9;4;2;5;19;1;1;0;1;2;6;1.8;0.8;0.4;1.0;3.8;1.2

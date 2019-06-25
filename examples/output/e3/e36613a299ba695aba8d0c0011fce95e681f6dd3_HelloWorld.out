@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-e36613a299ba695aba8d0c0011fce95e681f6dd3_HelloWorld.sol;e3;HelloWorld;contract;5;5;0;1;1;0;0;0;6;0;0;0;0;0;0;1.0;0.0;0.0;0.0;6.0;0.0
-e36613a299ba695aba8d0c0011fce95e681f6dd3_HelloWorld.sol;e3;ConstantinopleCheck;contract;14;11;1;1;1;0;0;0;7;0;0;0;0;2;0;1.0;0.0;0.0;0.0;7.0;0.0

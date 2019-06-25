@@ -1,7 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-eb94a29567e855a1200c702df25e62a0aafc32fb_Passport.sol;eb;IPassportLogicRegistry;interface;34;7;23;3;3;0;0;1;0;0;0;0;0;0;0;1.0;0.0;0.0;0.3333333333333333;0.0;0.0
-eb94a29567e855a1200c702df25e62a0aafc32fb_Passport.sol;eb;OwnableProxy;contract;90;43;36;6;6;0;0;3;22;0;0;3;0;1;5;1.0;0.0;0.0;0.5;3.6666666666666665;0.8333333333333334
-eb94a29567e855a1200c702df25e62a0aafc32fb_Passport.sol;eb;ClaimableProxy;contract;66;33;25;5;5;0;0;2;19;1;1;1;0;1;4;1.0;0.0;0.0;0.4;3.8;0.8
-eb94a29567e855a1200c702df25e62a0aafc32fb_Passport.sol;eb;DestructibleProxy;contract;12;8;3;2;2;0;0;1;2;1;1;1;0;0;2;1.0;0.0;0.0;0.5;1.0;1.0
-eb94a29567e855a1200c702df25e62a0aafc32fb_Passport.sol;eb;Proxy;contract;41;16;20;3;3;0;0;1;2;0;0;1;0;0;1;1.0;0.0;0.0;0.3333333333333333;0.6666666666666666;0.3333333333333333
-eb94a29567e855a1200c702df25e62a0aafc32fb_Passport.sol;eb;Passport;contract;69;34;25;5;5;0;0;2;23;2;4;0;1;1;5;1.0;0.0;0.0;0.4;4.6;1.0

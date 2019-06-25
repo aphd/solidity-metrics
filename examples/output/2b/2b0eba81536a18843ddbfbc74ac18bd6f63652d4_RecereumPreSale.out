@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;StandardToken;contract;73;36;28;5;6;1;1;11;21;2;3;1;0;1;10;1.2;0.2;0.2;2.2;4.2;2.0
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;4;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;RecereumToken;contract;10;9;0;1;1;0;0;0;2;3;5;0;0;5;0;1.0;0.0;0.0;0.0;2.0;0.0
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;BasicToken;contract;31;15;11;2;2;0;0;3;7;1;1;2;0;1;4;1.0;0.0;0.0;1.5;3.5;2.0
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;SafeMath;library;28;23;2;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;2;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;RecereumPreSale;contract;104;73;12;5;9;2;2;6;36;1;1;0;1;8;15;1.8;0.4;0.4;1.2;7.2;3.0
-2b0eba81536a18843ddbfbc74ac18bd6f63652d4_RecereumPreSale.sol;2b;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0

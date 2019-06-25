@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-ca1746f3e6e9098c9b11290fc7f2887741dbad80_DIYSToken.sol;ca;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-ca1746f3e6e9098c9b11290fc7f2887741dbad80_DIYSToken.sol;ca;Ownable;contract;14;11;0;0;0;0;0;0;3;0;0;1;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
-ca1746f3e6e9098c9b11290fc7f2887741dbad80_DIYSToken.sol;ca;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
-ca1746f3e6e9098c9b11290fc7f2887741dbad80_DIYSToken.sol;ca;DIYSToken;contract;59;47;0;8;8;0;0;12;20;1;2;0;0;9;9;1.0;0.0;0.0;1.5;2.5;1.125

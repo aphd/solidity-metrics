@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-65c484a961caedcf086b85a55cf7d7c1153221ba_CardRPS.sol;65;CryptoTycoonsVIPLib;contract;108;85;4;10;22;12;3;9;65;0;0;0;0;8;4;2.2;1.2;0.3;0.9;6.5;0.4
-65c484a961caedcf086b85a55cf7d7c1153221ba_CardRPS.sol;65;CardRPS;contract;134;55;55;1;1;0;0;1;15;0;0;0;0;26;0;1.0;0.0;0.0;1.0;15.0;0.0

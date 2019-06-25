@@ -1,7 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-a3646828ae28cefcfc175efa88ecaa72e5b48cf1_DENtoken.sol;a3;StandardToken;contract;73;37;28;5;6;1;1;11;22;2;3;1;0;1;10;1.2;0.2;0.2;2.2;4.4;2.0
-a3646828ae28cefcfc175efa88ecaa72e5b48cf1_DENtoken.sol;a3;SafeMath;library;41;32;2;8;8;0;0;16;14;0;0;0;0;0;3;1.0;0.0;0.0;2.0;1.75;0.375
-a3646828ae28cefcfc175efa88ecaa72e5b48cf1_DENtoken.sol;a3;ERC20;contract;18;11;0;5;5;0;0;10;0;0;0;2;0;2;0;1.0;0.0;0.0;2.0;0.0;0.0
-a3646828ae28cefcfc175efa88ecaa72e5b48cf1_DENtoken.sol;a3;BasicToken;contract;41;20;14;2;2;0;0;3;10;1;1;2;0;1;4;1.0;0.0;0.0;1.5;5.0;2.0
-a3646828ae28cefcfc175efa88ecaa72e5b48cf1_DENtoken.sol;a3;ERC20Basic;contract;11;7;0;2;2;0;0;3;0;0;0;3;0;2;0;1.0;0.0;0.0;1.5;0.0;0.0
-a3646828ae28cefcfc175efa88ecaa72e5b48cf1_DENtoken.sol;a3;DENtoken;contract;202;170;15;11;42;3;3;8;103;3;4;0;1;10;22;3.8181818181818183;0.2727272727272727;0.2727272727272727;0.7272727272727273;9.363636363636363;2.0

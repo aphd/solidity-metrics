@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-7f4e71b344d09eaa5fd8defbceb818415ad1cc9d_LeadRexTokenX.sol;7f;LeadRexTokenX;contract;33;18;9;3;3;0;0;0;4;3;3;0;0;7;0;1.0;0.0;0.0;0.0;1.3333333333333333;0.0
-7f4e71b344d09eaa5fd8defbceb818415ad1cc9d_LeadRexTokenX.sol;7f;IERC20;interface;28;21;0;6;6;0;0;10;0;0;0;3;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-7f4e71b344d09eaa5fd8defbceb818415ad1cc9d_LeadRexTokenX.sol;7f;ERC20;contract;165;93;51;12;12;0;0;23;34;1;1;2;0;3;19;1.0;0.0;0.0;1.9166666666666667;2.8333333333333335;1.5833333333333333
-7f4e71b344d09eaa5fd8defbceb818415ad1cc9d_LeadRexTokenX.sol;7f;SafeMath;library;39;29;0;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-7f4e71b344d09eaa5fd8defbceb818415ad1cc9d_LeadRexTokenX.sol;7f;ERC20Burnable;contract;19;8;9;2;2;0;0;3;2;2;2;1;0;0;2;1.0;0.0;0.0;1.5;1.0;1.0

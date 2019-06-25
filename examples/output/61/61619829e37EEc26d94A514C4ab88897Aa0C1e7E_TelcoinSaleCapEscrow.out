@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-61619829e37EEc26d94A514C4ab88897Aa0C1e7E_TelcoinSaleCapEscrow.sol;61;TelcoinSaleCapEscrow;contract;122;86;9;10;12;2;2;10;43;0;0;0;0;4;22;1.2;0.2;0.2;1.0;4.3;2.2
-61619829e37EEc26d94A514C4ab88897Aa0C1e7E_TelcoinSaleCapEscrow.sol;61;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75

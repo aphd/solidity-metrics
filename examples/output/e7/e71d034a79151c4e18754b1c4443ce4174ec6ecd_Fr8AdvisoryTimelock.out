@@ -1,8 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-e71d034a79151c4e18754b1c4443ce4174ec6ecd_Fr8AdvisoryTimelock.sol;e7;ERC20Basic;contract;6;6;0;3;3;0;0;3;0;0;0;1;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
-e71d034a79151c4e18754b1c4443ce4174ec6ecd_Fr8AdvisoryTimelock.sol;e7;SafeERC20;library;32;30;0;3;3;0;0;10;3;0;0;0;2;0;3;1.0;0.0;0.0;3.3333333333333335;1.0;1.0
-e71d034a79151c4e18754b1c4443ce4174ec6ecd_Fr8AdvisoryTimelock.sol;e7;BeneficiaryChangeableTimelock;contract;15;11;0;2;2;0;0;1;4;1;2;1;0;0;2;1.0;0.0;0.0;0.5;2.0;1.0
-e71d034a79151c4e18754b1c4443ce4174ec6ecd_Fr8AdvisoryTimelock.sol;e7;Ownable;contract;53;27;18;3;3;0;0;2;9;0;0;2;0;1;3;1.0;0.0;0.0;0.6666666666666666;3.0;1.0
-e71d034a79151c4e18754b1c4443ce4174ec6ecd_Fr8AdvisoryTimelock.sol;e7;ERC20;contract;14;12;0;3;3;0;0;7;0;1;1;0;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-e71d034a79151c4e18754b1c4443ce4174ec6ecd_Fr8AdvisoryTimelock.sol;e7;TokenTimelock;contract;39;24;8;1;1;0;0;0;8;0;0;2;1;3;3;1.0;0.0;0.0;0.0;8.0;3.0
-e71d034a79151c4e18754b1c4443ce4174ec6ecd_Fr8AdvisoryTimelock.sol;e7;Fr8AdvisoryTimelock;contract;14;12;1;0;0;0;0;0;1;2;3;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0

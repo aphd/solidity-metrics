@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-5e9c58aaed30f2ece3d2baf7814be9dc4425a6d9_KWHToken.sol;5e;KWHToken;contract;213;108;4;13;21;6;6;11;56;2;4;0;1;14;24;1.6153846153846154;0.46153846153846156;0.46153846153846156;0.8461538461538461;4.3076923076923075;1.8461538461538463
-5e9c58aaed30f2ece3d2baf7814be9dc4425a6d9_KWHToken.sol;5e;Owned;contract;26;14;0;2;2;0;0;1;5;0;0;1;0;1;1;1.0;0.0;0.0;0.5;2.5;0.5
-5e9c58aaed30f2ece3d2baf7814be9dc4425a6d9_KWHToken.sol;5e;SafeMath;contract;27;21;0;5;5;0;0;9;9;0;0;1;0;0;5;1.0;0.0;0.0;1.8;1.8;1.0
-5e9c58aaed30f2ece3d2baf7814be9dc4425a6d9_KWHToken.sol;5e;StandardToken;contract;69;36;0;5;7;2;2;10;18;1;1;1;0;2;3;1.4;0.4;0.4;2.0;3.6;0.6
-5e9c58aaed30f2ece3d2baf7814be9dc4425a6d9_KWHToken.sol;5e;Token;contract;19;10;0;5;5;0;0;10;0;0;0;2;0;1;0;1.0;0.0;0.0;2.0;0.0;0.0

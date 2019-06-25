@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-4523f19c7618cdbfc564f445ec92f8b8d1723c62_UltimateCoin.sol;45;UltimateCoin;contract;74;48;28;8;8;0;0;14;22;1;2;0;0;4;8;1.0;0.0;0.0;1.75;2.75;1.0
-4523f19c7618cdbfc564f445ec92f8b8d1723c62_UltimateCoin.sol;45;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-4523f19c7618cdbfc564f445ec92f8b8d1723c62_UltimateCoin.sol;45;TokenERC20;contract;149;69;82;8;9;1;1;19;35;0;0;1;1;6;14;1.125;0.125;0.125;2.375;4.375;1.75
-4523f19c7618cdbfc564f445ec92f8b8d1723c62_UltimateCoin.sol;45;owned;contract;16;13;0;2;2;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;0.5;2.0;0.0

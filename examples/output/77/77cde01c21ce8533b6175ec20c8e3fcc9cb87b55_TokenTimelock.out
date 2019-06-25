@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-77cde01c21ce8533b6175ec20c8e3fcc9cb87b55_TokenTimelock.sol;77;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-77cde01c21ce8533b6175ec20c8e3fcc9cb87b55_TokenTimelock.sol;77;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-77cde01c21ce8533b6175ec20c8e3fcc9cb87b55_TokenTimelock.sol;77;TokenTimelock;contract;54;27;17;4;4;0;0;0;11;0;0;0;1;3;3;1.0;0.0;0.0;0.0;2.75;0.75
-77cde01c21ce8533b6175ec20c8e3fcc9cb87b55_TokenTimelock.sol;77;SafeERC20;library;29;21;3;5;5;0;0;16;8;0;0;0;1;0;9;1.0;0.0;0.0;3.2;1.6;1.8

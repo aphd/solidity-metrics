@@ -1,8 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-de1f1ea07370b0ee063c2306c240b1e579c4ff34_Delfi.sol;de;Uniswap;contract;4;4;0;2;2;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
-de1f1ea07370b0ee063c2306c240b1e579c4ff34_Delfi.sol;de;BancorDai;contract;3;3;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-de1f1ea07370b0ee063c2306c240b1e579c4ff34_Delfi.sol;de;Kyber;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-de1f1ea07370b0ee063c2306c240b1e579c4ff34_Delfi.sol;de;Eth2Dai;contract;4;4;0;2;2;0;0;6;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-de1f1ea07370b0ee063c2306c240b1e579c4ff34_Delfi.sol;de;ERC20;contract;3;3;0;1;1;0;0;1;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0
-de1f1ea07370b0ee063c2306c240b1e579c4ff34_Delfi.sol;de;Bancor;contract;3;3;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-de1f1ea07370b0ee063c2306c240b1e579c4ff34_Delfi.sol;de;Delfi;contract;308;181;93;12;13;1;1;12;45;0;0;0;6;20;15;1.0833333333333333;0.08333333333333333;0.08333333333333333;1.0;3.75;1.25

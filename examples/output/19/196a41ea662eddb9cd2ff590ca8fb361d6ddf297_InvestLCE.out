@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-196a41ea662eddb9cd2ff590ca8fb361d6ddf297_InvestLCE.sol;19;InvestLCE;contract;151;113;3;15;19;4;3;15;57;2;2;0;1;11;23;1.2666666666666666;0.26666666666666666;0.2;1.0;3.8;1.5333333333333334
-196a41ea662eddb9cd2ff590ca8fb361d6ddf297_InvestLCE.sol;19;ERC20Basic;contract;5;5;0;2;2;0;0;3;0;0;0;2;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-196a41ea662eddb9cd2ff590ca8fb361d6ddf297_InvestLCE.sol;19;AltcoinToken;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-196a41ea662eddb9cd2ff590ca8fb361d6ddf297_InvestLCE.sol;19;SafeMath;library;26;22;0;4;5;1;1;8;11;0;0;0;0;0;3;1.25;0.25;0.25;2.0;2.75;0.75
-196a41ea662eddb9cd2ff590ca8fb361d6ddf297_InvestLCE.sol;19;ERC20;contract;3;3;0;1;1;0;0;3;0;1;1;1;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0

@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-0d874d0fc522bbbc9edf2b66dbaa9b0ad7b0dfdc_KKA.sol;0d;SafeMath;contract;29;25;0;5;5;0;0;9;13;0;0;2;0;0;5;1.0;0.0;0.0;1.8;2.6;1.0
-0d874d0fc522bbbc9edf2b66dbaa9b0ad7b0dfdc_KKA.sol;0d;ERC20;contract;55;39;1;4;4;0;0;9;26;1;2;1;0;2;6;1.0;0.0;0.0;2.25;6.5;1.5
-0d874d0fc522bbbc9edf2b66dbaa9b0ad7b0dfdc_KKA.sol;0d;KKA;contract;75;54;0;7;7;0;0;15;32;2;4;0;0;1;12;1.0;0.0;0.0;2.142857142857143;4.571428571428571;1.7142857142857142
-0d874d0fc522bbbc9edf2b66dbaa9b0ad7b0dfdc_KKA.sol;0d;owned;contract;17;13;0;1;1;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;1.0;4.0;0.0
-0d874d0fc522bbbc9edf2b66dbaa9b0ad7b0dfdc_KKA.sol;0d;ERC20Interface;contract;13;12;0;4;4;0;0;9;0;0;0;2;0;4;0;1.0;0.0;0.0;2.25;0.0;0.0

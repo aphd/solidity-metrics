@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-459239487ad4b0ced48f3b65a9d8a5ad662f253a_Orion.sol;45;Orion;contract;122;55;46;10;10;0;0;15;29;1;3;0;0;6;15;1.0;0.0;0.0;1.5;2.9;1.5
-459239487ad4b0ced48f3b65a9d8a5ad662f253a_Orion.sol;45;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-459239487ad4b0ced48f3b65a9d8a5ad662f253a_Orion.sol;45;SafeMath;contract;18;18;0;4;4;0;0;8;8;0;0;1;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
-459239487ad4b0ced48f3b65a9d8a5ad662f253a_Orion.sol;45;Owned;contract;25;21;0;3;3;0;0;1;8;0;0;1;0;2;3;1.0;0.0;0.0;0.3333333333333333;2.6666666666666665;1.0
-459239487ad4b0ced48f3b65a9d8a5ad662f253a_Orion.sol;45;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

@@ -1,2 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-73388dc2f89777cbdf53e5352f516cd703d070a6_SimplePrize.sol;73;SimplePrize;contract;20;16;0;4;4;0;0;3;4;0;0;0;0;2;3;1.0;0.0;0.0;0.75;1.0;0.75

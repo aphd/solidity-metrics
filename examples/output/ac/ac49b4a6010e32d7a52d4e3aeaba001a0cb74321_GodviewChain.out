@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-ac49b4a6010e32d7a52d4e3aeaba001a0cb74321_GodviewChain.sol;ac;ContractReceiver;contract;11;3;7;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-ac49b4a6010e32d7a52d4e3aeaba001a0cb74321_GodviewChain.sol;ac;SafeMath;library;12;11;0;2;2;0;0;4;5;0;0;0;0;0;2;1.0;0.0;0.0;2.0;2.5;1.0
-ac49b4a6010e32d7a52d4e3aeaba001a0cb74321_GodviewChain.sol;ac;GodviewChain;contract;93;46;37;5;6;1;1;11;21;0;0;0;1;6;10;1.2;0.2;0.2;2.2;4.2;2.0

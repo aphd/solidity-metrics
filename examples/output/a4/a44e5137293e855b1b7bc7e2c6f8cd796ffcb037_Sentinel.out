@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-a44e5137293e855b1b7bc7e2c6f8cd796ffcb037_Sentinel.sol;a4;Sentinel;contract;42;35;0;3;3;0;0;10;13;1;2;0;0;1;3;1.0;0.0;0.0;3.3333333333333335;4.333333333333333;1.0
-a44e5137293e855b1b7bc7e2c6f8cd796ffcb037_Sentinel.sol;a4;Owned;contract;22;18;0;2;2;0;0;1;5;0;0;1;0;1;1;1.0;0.0;0.0;0.5;2.5;0.5
-a44e5137293e855b1b7bc7e2c6f8cd796ffcb037_Sentinel.sol;a4;ERC20Token;contract;120;93;0;8;9;1;1;20;38;0;0;1;1;6;14;1.125;0.125;0.125;2.5;4.75;1.75
-a44e5137293e855b1b7bc7e2c6f8cd796ffcb037_Sentinel.sol;a4;tokenRecipient;interface;8;8;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

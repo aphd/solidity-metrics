@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-57ba8dffef44580e00bf1fb66b99e1fa1d43a787_ldoh.sol;57;OwnableContract;contract;22;19;0;2;2;0;0;1;7;0;0;2;0;1;1;1.0;0.0;0.0;0.5;3.5;0.5
-57ba8dffef44580e00bf1fb66b99e1fa1d43a787_ldoh.sol;57;ldoh;contract;490;321;82;30;52;19;19;42;178;2;2;0;1;19;54;1.7333333333333334;0.6333333333333333;0.6333333333333333;1.4;5.933333333333334;1.8
-57ba8dffef44580e00bf1fb66b99e1fa1d43a787_ldoh.sol;57;ERC20Interface;contract;16;12;1;6;6;0;0;10;0;0;0;0;0;2;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-57ba8dffef44580e00bf1fb66b99e1fa1d43a787_ldoh.sol;57;BlockableContract;contract;23;19;0;2;2;0;0;0;7;1;1;1;0;1;0;1.0;0.0;0.0;0.0;3.5;0.0

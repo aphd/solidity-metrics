@@ -1,2 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-96299dc3cb5c2a936058a9b200a60f722c721b69_KCLHold.sol;96;KCLHold;contract;12;12;0;5;9;4;4;1;8;0;0;0;0;2;2;1.8;0.8;0.8;0.2;1.6;0.4

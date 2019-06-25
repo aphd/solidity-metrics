@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-f902b3a6daee738ef7d165d8d38a7edb1336fbfe_PlaakPreSale.sol;f9;PlaakPreSale;contract;71;55;1;8;10;2;2;9;26;0;0;0;1;6;16;1.25;0.25;0.25;1.125;3.25;2.0
-f902b3a6daee738ef7d165d8d38a7edb1336fbfe_PlaakPreSale.sol;f9;ERC20;contract;4;4;0;2;2;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-f902b3a6daee738ef7d165d8d38a7edb1336fbfe_PlaakPreSale.sol;f9;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75

@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-5bc22b2088db0fa5d865e6cb1d142de1872a8d7d_PunkCoin.sol;5b;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-5bc22b2088db0fa5d865e6cb1d142de1872a8d7d_PunkCoin.sol;5b;PunkCoin;contract;18;11;4;0;0;0;0;0;2;2;2;0;0;7;0;0.0;0.0;0.0;0.0;0.0;0.0
-5bc22b2088db0fa5d865e6cb1d142de1872a8d7d_PunkCoin.sol;5b;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;2;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-5bc22b2088db0fa5d865e6cb1d142de1872a8d7d_PunkCoin.sol;5b;ERC20;contract;169;66;83;12;12;0;0;23;36;1;1;1;0;3;19;1.0;0.0;0.0;1.9166666666666667;3.0;1.5833333333333333

@@ -1,7 +1,0 @@
-# Output files
-# contracts.json
-# output/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb

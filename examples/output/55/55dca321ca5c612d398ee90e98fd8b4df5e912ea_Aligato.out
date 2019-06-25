@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;Aligato;contract;219;106;96;13;14;1;1;23;103;1;4;0;1;4;15;1.0769230769230769;0.07692307692307693;0.07692307692307693;1.7692307692307692;7.923076923076923;1.1538461538461537
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;SafeMath;library;40;23;13;4;5;1;1;8;21;0;0;0;0;0;0;1.25;0.25;0.25;2.0;5.25;0.0
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;Burnable;contract;8;5;1;2;2;0;0;3;0;0;0;1;0;0;0;1.0;0.0;0.0;1.5;0.0;0.0
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;isnot;contract;21;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;Permissioned;contract;8;6;0;3;3;0;0;7;0;0;0;1;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;Owned;contract;25;20;0;2;2;0;0;1;21;0;0;1;0;2;1;1.0;0.0;0.0;0.5;10.5;0.5
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;ERC20Interface;contract;11;9;0;2;2;0;0;3;0;0;0;1;0;4;0;1.0;0.0;0.0;1.5;0.0;0.0
-55dca321ca5c612d398ee90e98fd8b4df5e912ea_Aligato.sol;55;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

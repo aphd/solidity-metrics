@@ -23,13 +23,17 @@ It is a **Work In Progress**, supporting the following metrics
 
 ## User instructions
 
+This tool merges two metrics datasets: solmet(SolMet) and pyetherchain (EtherChain).
+The join result is named SMEC (SolMet and EtherChain).
+
 ### Download and compute the metrics
 
 ```bash
 cd examples
-python3 smartcontracs-from-etherscan.py
-python3 metrics-from-solmet.py
-python3 join_metrics.py
+
+python3 01-download-SCs.py
+python3 02-metrics-from-solmet.py # input_file: ./output/*.sol | output_file: ./output/*.out
+python3 03-join_metrics.py # input_file: contracts_overview_file | output_file: solmetant.csv
 ```
 
 ### Data Analysis with Pandas and Python
@@ -44,7 +48,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('solmetant.csv', sep=';')
+df = pd.read_csv('smec.csv', sep=';')
 df.sort_values(by=['CV'], inplace=True)
 df.head()
 
@@ -53,6 +57,8 @@ sns.swarmplot(x = 'CV',y='SLOC',data=df, size=5)
 plt.show()
 
 ```
+
+For further information, please follow this [link](http://svel.to/19y3).
 
 <!--
 ## Building the tool
@@ -83,3 +89,8 @@ The output is a comma separated file containing the values of the calculated met
 ## Credits
 
 The parser is based on the excellent antlr4 grammar available at https://github.com/solidityj/solidity-antlr4.
+
+## References
+
+1. A python interface to the ethereum blockchain explorer at www.etherchain.org. https://github.com/tintinweb/pyetherchain
+2. SolMet-Solidity-parser. https://github.com/chicxurug/SolMet-Solidity-parser

@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-02630ee76bf9d321fc6ec109b1b5c076f2dc951e_TechgoldologyToken.sol;02;Owned;contract;21;21;0;2;2;0;0;1;8;0;0;1;0;2;2;1.0;0.0;0.0;0.5;4.0;1.0
-02630ee76bf9d321fc6ec109b1b5c076f2dc951e_TechgoldologyToken.sol;02;ERC20Interface;contract;10;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-02630ee76bf9d321fc6ec109b1b5c076f2dc951e_TechgoldologyToken.sol;02;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-02630ee76bf9d321fc6ec109b1b5c076f2dc951e_TechgoldologyToken.sol;02;SafeMath;library;18;18;0;4;4;0;0;8;8;0;0;0;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0
-02630ee76bf9d321fc6ec109b1b5c076f2dc951e_TechgoldologyToken.sol;02;TechgoldologyToken;contract;102;56;46;9;9;0;0;15;30;1;2;0;0;6;11;1.0;0.0;0.0;1.6666666666666667;3.3333333333333335;1.2222222222222223

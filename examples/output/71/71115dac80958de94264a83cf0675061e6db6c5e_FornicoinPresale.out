@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-71115dac80958de94264a83cf0675061e6db6c5e_FornicoinPresale.sol;71;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;0;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-71115dac80958de94264a83cf0675061e6db6c5e_FornicoinPresale.sol;71;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-71115dac80958de94264a83cf0675061e6db6c5e_FornicoinPresale.sol;71;FornicoinPresale;contract;106;61;20;8;10;1;1;5;31;0;0;0;1;8;14;1.25;0.125;0.125;0.625;3.875;1.75
-71115dac80958de94264a83cf0675061e6db6c5e_FornicoinPresale.sol;71;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;1;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0

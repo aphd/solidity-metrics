@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-3f215ce0a5a0e10b61b04a1543106734aeec1b9b_WRTToken.sol;3f;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-3f215ce0a5a0e10b61b04a1543106734aeec1b9b_WRTToken.sol;3f;WRTToken;contract;116;69;25;0;0;0;0;0;8;1;2;0;0;55;0;0.0;0.0;0.0;0.0;0.0;0.0
-3f215ce0a5a0e10b61b04a1543106734aeec1b9b_WRTToken.sol;3f;Ownable;contract;27;16;11;1;1;0;0;1;15;0;0;1;0;1;1;1.0;0.0;0.0;1.0;15.0;1.0
-3f215ce0a5a0e10b61b04a1543106734aeec1b9b_WRTToken.sol;3f;ERC223ReceivingContract;contract;3;3;0;1;1;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;3.0;0.0;0.0
-3f215ce0a5a0e10b61b04a1543106734aeec1b9b_WRTToken.sol;3f;ERC223;contract;14;14;0;9;9;0;0;16;0;0;0;1;0;0;0;1.0;0.0;0.0;1.7777777777777777;0.0;0.0

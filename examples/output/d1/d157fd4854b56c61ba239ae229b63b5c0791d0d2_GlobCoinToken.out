@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;ERC20;contract;6;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;MintableToken;contract;36;21;10;2;2;0;0;2;10;3;5;1;0;1;5;1.0;0.0;0.0;1.0;5.0;2.5
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;GlobCoinToken;contract;33;19;10;3;3;0;0;7;5;4;6;0;0;6;3;1.0;0.0;0.0;2.3333333333333335;1.6666666666666667;1.0
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;ERC20Basic;contract;6;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;StandardToken;contract;80;38;29;5;6;1;1;11;21;2;3;2;0;1;11;1.2;0.2;0.2;2.2;4.2;2.2
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-d157fd4854b56c61ba239ae229b63b5c0791d0d2_GlobCoinToken.sol;d1;BasicToken;contract;30;14;11;2;2;0;0;3;6;1;1;3;0;1;4;1.0;0.0;0.0;1.5;3.0;2.0

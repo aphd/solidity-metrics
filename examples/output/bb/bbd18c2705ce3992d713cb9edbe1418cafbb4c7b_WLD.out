@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-bbd18c2705ce3992d713cb9edbe1418cafbb4c7b_WLD.sol;bb;ApproveAndCallFallBack;contract;3;3;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-bbd18c2705ce3992d713cb9edbe1418cafbb4c7b_WLD.sol;bb;ERC20Interface;contract;11;10;0;6;6;0;0;10;0;0;0;1;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-bbd18c2705ce3992d713cb9edbe1418cafbb4c7b_WLD.sol;bb;WLD;contract;137;69;47;10;11;1;1;15;39;1;3;0;0;9;17;1.1;0.1;0.1;1.5;3.9;1.7
-bbd18c2705ce3992d713cb9edbe1418cafbb4c7b_WLD.sol;bb;Owned;contract;25;21;0;3;3;0;0;1;8;0;0;1;0;2;3;1.0;0.0;0.0;0.3333333333333333;2.6666666666666665;1.0
-bbd18c2705ce3992d713cb9edbe1418cafbb4c7b_WLD.sol;bb;SafeMath;contract;18;18;0;4;4;0;0;8;8;0;0;1;0;0;4;1.0;0.0;0.0;2.0;2.0;1.0

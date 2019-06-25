@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-272647f664b5ba01b2ef2dab3d9d49e03bf58b0b_TradeFeeCalculator.sol;27;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-272647f664b5ba01b2ef2dab3d9d49e03bf58b0b_TradeFeeCalculator.sol;27;Ownable;contract;20;17;0;2;3;1;1;1;6;0;0;1;0;1;1;1.5;0.5;0.5;0.5;3.0;0.5
-272647f664b5ba01b2ef2dab3d9d49e03bf58b0b_TradeFeeCalculator.sol;27;TradeFeeCalculator;contract;82;37;33;4;5;1;1;7;24;1;1;0;0;1;7;1.25;0.25;0.25;1.75;6.0;1.75

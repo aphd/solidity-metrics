@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-144106999ff7f2fc278f166975a93d661d885b8f_FastnFurious.sol;14;Ownable;contract;43;24;13;2;2;0;0;1;9;0;0;1;0;2;1;1.0;0.0;0.0;0.5;4.5;0.5
-144106999ff7f2fc278f166975a93d661d885b8f_FastnFurious.sol;14;FastnFurious;contract;28;18;5;0;0;0;0;0;0;1;1;0;0;17;0;0.0;0.0;0.0;0.0;0.0;0.0
-144106999ff7f2fc278f166975a93d661d885b8f_FastnFurious.sol;14;SafeMath;library;41;23;14;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75

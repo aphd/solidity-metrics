@@ -1,3 +1,10 @@
 dependency-reduced-pom.xml
 target/
+.DS_Store
 
+# Jupyter Notebook
+examples/.ipynb_checkpoints
+examples/*.ipynb
+
+#Editor 
+*.vscode

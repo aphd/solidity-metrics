@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-1dcaef208411119ed3d2527d1a2e724f0e3a07cc_SilkrouteCoin.sol;1d;ContractReceiver;contract;26;16;7;1;1;0;0;3;6;0;0;0;0;0;2;1.0;0.0;0.0;3.0;6.0;2.0
-1dcaef208411119ed3d2527d1a2e724f0e3a07cc_SilkrouteCoin.sol;1d;SilkrouteCoin;contract;140;115;0;16;20;4;4;23;58;0;0;0;2;10;34;1.25;0.25;0.25;1.4375;3.625;2.125
-1dcaef208411119ed3d2527d1a2e724f0e3a07cc_SilkrouteCoin.sol;1d;SafeMath;library;26;23;0;4;5;1;1;8;12;0;0;0;0;0;3;1.25;0.25;0.25;2.0;3.0;0.75

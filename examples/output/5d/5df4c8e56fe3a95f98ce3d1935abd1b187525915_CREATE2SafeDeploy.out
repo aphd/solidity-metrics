@@ -1,2 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-5df4c8e56fe3a95f98ce3d1935abd1b187525915_CREATE2SafeDeploy.sol;5d;CREATE2SafeDeploy;contract;91;59;19;4;4;0;0;8;28;0;0;0;0;1;7;1.0;0.0;0.0;2.0;7.0;1.75

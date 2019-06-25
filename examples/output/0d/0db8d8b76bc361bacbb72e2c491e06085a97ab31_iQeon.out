@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-0db8d8b76bc361bacbb72e2c491e06085a97ab31_iQeon.sol;0d;Ownable;contract;18;14;0;2;2;0;0;1;5;0;0;1;0;1;1;1.0;0.0;0.0;0.5;2.5;0.5
-0db8d8b76bc361bacbb72e2c491e06085a97ab31_iQeon.sol;0d;iQeon;contract;146;66;82;8;9;1;1;16;37;1;1;0;1;6;14;1.125;0.125;0.125;2.0;4.625;1.75
-0db8d8b76bc361bacbb72e2c491e06085a97ab31_iQeon.sol;0d;tokenRecipient;interface;1;1;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

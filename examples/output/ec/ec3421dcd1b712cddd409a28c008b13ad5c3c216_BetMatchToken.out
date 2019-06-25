@@ -1,8 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-ec3421dcd1b712cddd409a28c008b13ad5c3c216_BetMatchToken.sol;ec;ERC20;contract;147;58;41;7;7;0;0;12;24;1;1;2;0;3;10;1.0;0.0;0.0;1.7142857142857142;3.4285714285714284;1.4285714285714286
-ec3421dcd1b712cddd409a28c008b13ad5c3c216_BetMatchToken.sol;ec;BetMatchToken;contract;19;11;0;0;0;0;0;0;3;3;5;0;0;6;0;0.0;0.0;0.0;0.0;0.0;0.0
-ec3421dcd1b712cddd409a28c008b13ad5c3c216_BetMatchToken.sol;ec;ERC20Pausable;contract;45;33;0;3;3;0;0;7;3;2;4;1;0;0;3;1.0;0.0;0.0;2.3333333333333335;1.0;1.0
-ec3421dcd1b712cddd409a28c008b13ad5c3c216_BetMatchToken.sol;ec;SafeMath;library;77;25;17;4;5;1;1;8;14;0;0;0;0;0;4;1.25;0.25;0.25;2.0;3.5;1.0
-ec3421dcd1b712cddd409a28c008b13ad5c3c216_BetMatchToken.sol;ec;Ownable;contract;61;23;14;3;3;0;0;2;9;0;0;3;0;1;3;1.0;0.0;0.0;0.6666666666666666;3.0;1.0
-ec3421dcd1b712cddd409a28c008b13ad5c3c216_BetMatchToken.sol;ec;IERC20;interface;52;24;0;6;6;0;0;10;0;0;0;3;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-ec3421dcd1b712cddd409a28c008b13ad5c3c216_BetMatchToken.sol;ec;Pausable;contract;57;21;12;2;2;0;0;0;8;1;1;2;0;1;0;1.0;0.0;0.0;0.0;4.0;0.0

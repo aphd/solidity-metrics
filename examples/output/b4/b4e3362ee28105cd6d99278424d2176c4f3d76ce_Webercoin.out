@@ -1,9 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;StandardToken;contract;153;37;30;5;6;1;1;11;20;2;3;2;0;1;10;1.2;0.2;0.2;2.2;4.0;2.0
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;ERC20Basic;contract;11;6;0;2;2;0;0;3;0;0;0;5;0;1;0;1.0;0.0;0.0;1.5;0.0;0.0
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;ERC20;contract;11;6;0;3;3;0;0;7;0;1;1;3;0;0;0;1.0;0.0;0.0;2.3333333333333335;0.0;0.0
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;Webercoin;contract;27;10;2;1;1;0;0;0;2;4;6;0;1;6;0;1.0;0.0;0.0;0.0;2.0;0.0
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;SafeMath;library;49;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;BasicToken;contract;57;14;11;2;2;0;0;3;6;1;1;3;0;1;4;1.0;0.0;0.0;1.5;3.0;2.0
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;Ownable;contract;69;16;11;2;2;0;0;1;6;0;0;1;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
-b4e3362ee28105cd6d99278424d2176c4f3d76ce_Webercoin.sol;b4;BurnableToken;contract;39;11;6;1;1;0;0;1;6;3;4;1;0;0;4;1.0;0.0;0.0;1.0;6.0;4.0

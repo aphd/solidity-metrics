@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-4fe96f8b4c6cfa819a4162ac4630787c191471e4_NFTokenSafeTransferProxy.sol;4f;Abilitable;contract;135;76;46;3;5;2;2;6;17;0;0;1;0;9;3;1.6666666666666667;0.6666666666666666;0.6666666666666666;2.0;5.666666666666667;1.0
-4fe96f8b4c6cfa819a4162ac4630787c191471e4_NFTokenSafeTransferProxy.sol;4f;NFTokenSafeTransferProxy;contract;31;17;11;1;1;0;0;4;1;1;2;0;0;1;2;1.0;0.0;0.0;4.0;1.0;2.0
-4fe96f8b4c6cfa819a4162ac4630787c191471e4_NFTokenSafeTransferProxy.sol;4f;ERC721;interface;169;72;84;9;9;0;0;19;0;0;0;0;0;0;0;1.0;0.0;0.0;2.111111111111111;0.0;0.0
-4fe96f8b4c6cfa819a4162ac4630787c191471e4_NFTokenSafeTransferProxy.sol;4f;SafeMath;library;112;65;39;5;6;1;1;10;12;0;0;0;0;6;5;1.2;0.2;0.2;2.0;2.4;1.0
-4fe96f8b4c6cfa819a4162ac4630787c191471e4_NFTokenSafeTransferProxy.sol;4f;Proxy;interface;18;9;7;1;1;0;0;4;0;0;0;1;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0

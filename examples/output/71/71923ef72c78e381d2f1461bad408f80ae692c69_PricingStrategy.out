@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-71923ef72c78e381d2f1461bad408f80ae692c69_PricingStrategy.sol;71;PricingStrategy;contract;33;22;5;3;3;0;0;4;9;2;2;0;0;2;2;1.0;0.0;0.0;1.3333333333333333;3.0;0.6666666666666666
-71923ef72c78e381d2f1461bad408f80ae692c69_PricingStrategy.sol;71;Ownable;contract;36;16;11;2;2;0;0;1;6;0;0;2;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
-71923ef72c78e381d2f1461bad408f80ae692c69_PricingStrategy.sol;71;SafeMath;library;25;20;2;4;4;0;0;8;10;0;0;0;0;0;3;1.0;0.0;0.0;2.0;2.5;0.75
-71923ef72c78e381d2f1461bad408f80ae692c69_PricingStrategy.sol;71;HasNoEther;contract;26;10;13;3;3;0;0;0;2;1;1;1;0;0;2;1.0;0.0;0.0;0.0;0.6666666666666666;0.6666666666666666

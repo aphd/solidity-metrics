@@ -1,2 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-c72684c0495da31a24f83197245cd7aa78f816d2_SlavenSS.sol;c7;SlavenSS;contract;39;29;1;5;5;0;0;2;10;0;0;0;0;3;2;1.0;0.0;0.0;0.4;2.0;0.4

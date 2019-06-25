@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-18330b947f12fa8a91fea73ae5d24fd57695283e_QBToken.sol;18;Token;contract;36;10;19;6;6;0;0;10;0;0;0;3;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-18330b947f12fa8a91fea73ae5d24fd57695283e_QBToken.sol;18;UnboundedRegularToken;contract;30;23;5;1;3;2;2;3;9;2;2;1;0;1;1;3.0;2.0;2.0;3.0;9.0;1.0
-18330b947f12fa8a91fea73ae5d24fd57695283e_QBToken.sol;18;QBToken;contract;12;10;0;1;1;0;0;0;2;3;3;0;1;6;1;1.0;0.0;0.0;0.0;2.0;1.0
-18330b947f12fa8a91fea73ae5d24fd57695283e_QBToken.sol;18;RegularToken;contract;40;33;1;5;7;2;2;10;18;1;1;2;0;3;3;1.4;0.4;0.4;2.0;3.6;0.6

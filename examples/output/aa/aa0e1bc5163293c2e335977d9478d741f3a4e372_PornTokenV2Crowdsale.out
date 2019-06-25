@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-aa0e1bc5163293c2e335977d9478d741f3a4e372_PornTokenV2Crowdsale.sol;aa;PornTokenV2Crowdsale;contract;71;44;20;4;6;2;2;4;18;0;0;0;1;9;5;1.5;0.5;0.5;1.0;4.5;1.25
-aa0e1bc5163293c2e335977d9478d741f3a4e372_PornTokenV2Crowdsale.sol;aa;token;interface;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0

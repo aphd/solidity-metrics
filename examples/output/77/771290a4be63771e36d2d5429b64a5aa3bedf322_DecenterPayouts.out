@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-771290a4be63771e36d2d5429b64a5aa3bedf322_DecenterPayouts.sol;77;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-771290a4be63771e36d2d5429b64a5aa3bedf322_DecenterPayouts.sol;77;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-771290a4be63771e36d2d5429b64a5aa3bedf322_DecenterPayouts.sol;77;DecenterPayouts;contract;179;115;23;10;19;7;7;9;68;0;0;0;2;8;24;1.9;0.7;0.7;0.9;6.8;2.4
-771290a4be63771e36d2d5429b64a5aa3bedf322_DecenterPayouts.sol;77;IERC20Old;contract;9;6;0;3;3;0;0;3;0;0;0;0;0;0;0;1.0;0.0;0.0;1.0;0.0;0.0

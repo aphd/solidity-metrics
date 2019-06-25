@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-1950de82dc08ffba1ee3b2a60dd4eb0e9bb77d3a_DalyVenturesShares.sol;19;DalyVenturesShares;contract;164;70;83;7;8;1;1;16;40;0;0;0;1;7;10;1.1428571428571428;0.14285714285714285;0.14285714285714285;2.2857142857142856;5.714285714285714;1.4285714285714286
-1950de82dc08ffba1ee3b2a60dd4eb0e9bb77d3a_DalyVenturesShares.sol;19;tokenRecipient;interface;4;2;0;1;1;0;0;4;0;0;0;0;0;0;0;1.0;0.0;0.0;4.0;0.0;0.0
-1950de82dc08ffba1ee3b2a60dd4eb0e9bb77d3a_DalyVenturesShares.sol;19;owned;contract;19;13;0;1;1;0;0;1;4;0;0;0;0;1;0;1.0;0.0;0.0;1.0;4.0;0.0

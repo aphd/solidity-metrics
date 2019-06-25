@@ -1,2 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-16fa8df7f16f9e41b7c5522cc12a22053a2a776f_BlockchainPi.sol;16;BlockchainPi;contract;42;35;0;4;7;3;3;3;18;0;0;0;0;3;3;1.75;0.75;0.75;0.75;4.5;0.75

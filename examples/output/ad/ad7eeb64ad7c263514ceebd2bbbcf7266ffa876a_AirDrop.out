@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-ad7eeb64ad7c263514ceebd2bbbcf7266ffa876a_AirDrop.sol;ad;Ownable;contract;22;16;0;2;2;0;0;1;6;0;0;1;0;1;2;1.0;0.0;0.0;0.5;3.0;1.0
-ad7eeb64ad7c263514ceebd2bbbcf7266ffa876a_AirDrop.sol;ad;AirDrop;contract;22;19;0;2;6;4;4;4;8;1;1;0;1;1;4;3.0;2.0;2.0;2.0;4.0;2.0
-ad7eeb64ad7c263514ceebd2bbbcf7266ffa876a_AirDrop.sol;ad;TokenTransferInterface;contract;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0

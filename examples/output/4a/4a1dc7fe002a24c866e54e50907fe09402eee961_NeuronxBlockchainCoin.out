@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-4a1dc7fe002a24c866e54e50907fe09402eee961_NeuronxBlockchainCoin.sol;4a;ERC20;contract;170;66;83;12;12;0;0;23;36;1;1;1;0;3;19;1.0;0.0;0.0;1.9166666666666667;3.0;1.5833333333333333
-4a1dc7fe002a24c866e54e50907fe09402eee961_NeuronxBlockchainCoin.sol;4a;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-4a1dc7fe002a24c866e54e50907fe09402eee961_NeuronxBlockchainCoin.sol;4a;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;3;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-4a1dc7fe002a24c866e54e50907fe09402eee961_NeuronxBlockchainCoin.sol;4a;ERC20Detailed;contract;32;19;9;3;3;0;0;0;6;1;1;1;0;3;0;1.0;0.0;0.0;0.0;2.0;0.0
-4a1dc7fe002a24c866e54e50907fe09402eee961_NeuronxBlockchainCoin.sol;4a;NeuronxBlockchainCoin;contract;13;10;1;0;0;0;0;0;1;2;3;0;0;8;0;0.0;0.0;0.0;0.0;0.0;0.0

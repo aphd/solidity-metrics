@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-26de40bffafe73ff4e37089b2c71e35fd02eb1a7_eUULATokenCoin.sol;26;Ownable;contract;14;13;0;1;1;0;0;1;4;0;0;1;0;1;0;1.0;0.0;0.0;1.0;4.0;0.0
-26de40bffafe73ff4e37089b2c71e35fd02eb1a7_eUULATokenCoin.sol;26;eUULATokenCoin;contract;75;58;1;6;10;3;3;12;28;1;1;0;0;9;9;1.6666666666666667;0.5;0.5;2.0;4.666666666666667;1.5
-26de40bffafe73ff4e37089b2c71e35fd02eb1a7_eUULATokenCoin.sol;26;SafeMath;library;59;29;21;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0

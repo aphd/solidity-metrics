@@ -1,5 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-0ccc5899ed51ce1fd512acfa4dcdd5a8ae1d3ab7_pDNA.sol;0c;CuratorsInterface;contract;3;3;0;1;1;0;0;2;0;0;0;0;0;0;0;1.0;0.0;0.0;2.0;0.0;0.0
-0ccc5899ed51ce1fd512acfa4dcdd5a8ae1d3ab7_pDNA.sol;0c;pDNA;contract;52;37;2;4;4;0;0;4;21;0;0;0;2;7;3;1.0;0.0;0.0;1.0;5.25;0.75
-0ccc5899ed51ce1fd512acfa4dcdd5a8ae1d3ab7_pDNA.sol;0c;Ownable;contract;65;30;27;5;5;0;0;2;12;0;0;0;0;1;3;1.0;0.0;0.0;0.4;2.4;0.6
-0ccc5899ed51ce1fd512acfa4dcdd5a8ae1d3ab7_pDNA.sol;0c;pDNADistributedRegistryInterface;contract;4;4;0;2;2;0;0;1;0;0;0;0;0;0;0;1.0;0.0;0.0;0.5;0.0;0.0

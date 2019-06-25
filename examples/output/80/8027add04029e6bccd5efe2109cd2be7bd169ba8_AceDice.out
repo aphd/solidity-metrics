@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-8027add04029e6bccd5efe2109cd2be7bd169ba8_AceDice.sol;80;CryptoTycoonsVIPLib;contract;108;85;4;10;22;12;3;9;65;0;0;0;0;8;4;2.2;1.2;0.3;0.9;6.5;0.4
-8027add04029e6bccd5efe2109cd2be7bd169ba8_AceDice.sol;80;AceDice;contract;142;55;62;1;1;0;0;1;15;0;0;0;0;27;0;1.0;0.0;0.0;1.0;15.0;0.0

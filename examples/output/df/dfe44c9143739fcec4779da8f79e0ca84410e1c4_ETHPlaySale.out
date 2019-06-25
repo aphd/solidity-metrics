@@ -1,6 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-dfe44c9143739fcec4779da8f79e0ca84410e1c4_ETHPlaySale.sol;df;SafeMath;library;39;29;0;5;6;1;1;10;16;0;0;0;0;0;5;1.2;0.2;0.2;2.0;3.2;1.0
-dfe44c9143739fcec4779da8f79e0ca84410e1c4_ETHPlaySale.sol;df;ReentrancyGuard;contract;15;12;0;0;0;0;0;0;5;0;0;1;0;1;0;0.0;0.0;0.0;0.0;0.0;0.0
-dfe44c9143739fcec4779da8f79e0ca84410e1c4_ETHPlaySale.sol;df;IERC20;interface;17;10;0;6;6;0;0;10;0;0;0;0;0;0;0;1.0;0.0;0.0;1.6666666666666667;0.0;0.0
-dfe44c9143739fcec4779da8f79e0ca84410e1c4_ETHPlaySale.sol;df;SafeERC20;library;27;21;0;5;5;0;0;16;8;0;0;0;1;0;9;1.0;0.0;0.0;3.2;1.6;1.8
-dfe44c9143739fcec4779da8f79e0ca84410e1c4_ETHPlaySale.sol;df;ETHPlaySale;contract;23;16;0;0;0;0;0;0;0;1;1;0;1;14;0;0.0;0.0;0.0;0.0;0.0;0.0

@@ -1,3 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-B9ea8Df7360a6931d162C014F69C42975DBE6054_SatanCoinRaffle.sol;b9;Random;contract;10;7;2;1;1;0;0;1;2;0;0;0;0;1;1;1.0;0.0;0.0;1.0;2.0;1.0
-B9ea8Df7360a6931d162C014F69C42975DBE6054_SatanCoinRaffle.sol;b9;SatanCoinRaffle;contract;102;66;9;5;5;0;0;6;24;0;0;0;1;4;11;1.0;0.0;0.0;1.2;4.8;2.2

@@ -1,4 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-bbd5a76f72e876ff9f9bd4829298855a85c3fa51_Super100.sol;bb;Super100;contract;24;20;2;0;0;0;0;0;0;0;0;0;2;19;0;0.0;0.0;0.0;0.0;0.0;0.0
-bbd5a76f72e876ff9f9bd4829298855a85c3fa51_Super100.sol;bb;PriceWatcherPlaceholder;contract;7;7;1;1;1;0;0;0;1;1;1;0;0;0;0;1.0;0.0;0.0;0.0;1.0;0.0
-bbd5a76f72e876ff9f9bd4829298855a85c3fa51_Super100.sol;bb;PriceWatcherI;interface;4;4;0;1;1;0;0;0;0;0;0;1;0;0;0;1.0;0.0;0.0;0.0;0.0;0.0

@@ -1,8 +1,0 @@
-SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
-bfa5c2f2b2ea28d7cad06d8a5ad796425ab999c5_HalfRoulette.sol;bf;CryptoTycoonsVIPLib;contract;108;85;4;10;22;12;3;9;65;0;0;0;0;8;4;2.2;1.2;0.3;0.9;6.5;0.4
-bfa5c2f2b2ea28d7cad06d8a5ad796425ab999c5_HalfRoulette.sol;bf;HalfRouletteEvents;contract;8;8;6;0;0;0;0;0;0;0;0;1;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-bfa5c2f2b2ea28d7cad06d8a5ad796425ab999c5_HalfRoulette.sol;bf;CryptoTycoonsDApp;contract;32;25;3;2;2;0;0;1;16;0;0;1;0;12;0;1.0;0.0;0.0;0.5;8.0;0.0
-bfa5c2f2b2ea28d7cad06d8a5ad796425ab999c5_HalfRoulette.sol;bf;HalfRoulettePure;contract;119;100;5;13;18;4;3;26;54;1;1;1;0;0;11;1.3846153846153846;0.3076923076923077;0.23076923076923078;2.0;4.153846153846154;0.8461538461538461
-bfa5c2f2b2ea28d7cad06d8a5ad796425ab999c5_HalfRoulette.sol;bf;HalfRouletteStruct;contract;8;8;4;0;0;0;0;0;0;0;0;1;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
-bfa5c2f2b2ea28d7cad06d8a5ad796425ab999c5_HalfRoulette.sol;bf;HalfRouletteConstant;contract;23;12;13;0;0;0;0;0;0;0;0;2;0;10;0;0.0;0.0;0.0;0.0;0.0;0.0
-bfa5c2f2b2ea28d7cad06d8a5ad796425ab999c5_HalfRoulette.sol;bf;HalfRoulette;contract;55;38;7;5;5;0;0;14;57;2;5;0;0;13;7;1.0;0.0;0.0;2.8;11.4;1.4
