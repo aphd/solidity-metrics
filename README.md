@@ -56,7 +56,14 @@ plt.figure(figsize=(20,5))
 sns.swarmplot(x = 'CV',y='SLOC',data=df, size=5)
 plt.show()
 
+### to calculate the number of contracts for every year
+df = pd.read_csv('smec.csv', sep=';')
+df.FS = pd.to_datetime(df.FS)
+df1 = df.resample('Y', on="FS").agg({"SolidityFile":'size'})
+print(df1)
+
 ```
+
 
 For further information, please follow this [link](http://svel.to/19y3).
 
@@ -65,9 +72,6 @@ For further information, please follow this [link](http://svel.to/19y3).
 
 You can build the tool with Maven to get an executable jar file:
 
-```
-mvn package
-```
 
 ## Using the tool
 
