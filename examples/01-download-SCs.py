@@ -36,11 +36,11 @@ class EtherScanIoApi(object):
         self.ec = EtherChain()
         self.soup = None
 
-    def get_contracts_from_fn(self, fn):
-        # It gets ethereum contract addresses from a file
-        # The address has this format B387C7E8fbadd98BAe04200106d292661e58Ff83
-        for address in self._get_addresses_from_fn(fn):
-            address = '0x' + address
+    def get_contracts_from_block(self, block):
+        soup = BeautifulSoup(requests.get(
+            'https://etherscan.io/txs?block=' + str(block)).text, features="html.parser")
+        addresses = soup.select("i[title='Contract']")
+        for address in list(set(map(lambda x: x.findNext('a')['href'].replace('/address/', ''), addresses))):
             if not self._is_new_address(address):
                 continue
             describe_contract = self.ec.account(address).describe_contract
@@ -87,7 +87,7 @@ class EtherScanIoApi(object):
             page += 1
 
     def write_etherChain_fn(self, contracts=[]):
-        amount = 2
+        amount = 100
         for nr, c in enumerate(contracts):
             with open(self.config['DEFAULT']['etherChain_fn'], 'a+') as f:
                 print("got contract: %s" % c)
@@ -208,5 +208,4 @@ class EtherScanIoApi(object):
 
 if __name__ == "__main__":
     e = EtherScanIoApi()
-    # e.write_etherChain_fn(e.get_contracts_from_fn('/tmp/addresses.in'))
-    e.write_etherChain_fn(e.get_contracts_from_etherscan())
+    e.write_etherChain_fn(e.get_contracts_from_block(5170165))
