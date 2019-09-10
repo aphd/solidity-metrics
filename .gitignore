@@ -1,6 +1,7 @@
 dependency-reduced-pom.xml
 target/
 .DS_Store
+__pycache__
 
 # Jupyter Notebook
 examples/.ipynb_checkpoints
