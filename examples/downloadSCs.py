@@ -207,15 +207,4 @@ class EtherScanIoApi(object):
 
 
 if __name__ == "__main__":
-    e = EtherScanIoApi()
-
-    start = 3000000
-    end = 8000000
-    gap = 5760  # 1 block each  day // month
-
-    import random
-    for block in range(start, end, gap):
-        block = block + random.randint(-gap/2, +gap/2)
-        print('\n### block:    ' + str(block) + ' ###\n')
-        e.write_etherChain_fn(e.get_contracts_from_block(block))
-    print("##### END ####")
+    pass
