@@ -2,10 +2,11 @@
 # -*- coding: UTF-8 -*-
 #
 import os
+import traceback
 """
 Script to download contracts from a list of SC addresses.
 Input: text file where each line is a SC address
-Output: 
+Output:
     ./output/a6/a6e0b24c65758154cac6f33b0c455727ab6193cb_BasicTokenSC.sol
     contracts.json
 """
@@ -129,11 +130,10 @@ class EtherScanIoApi(object):
                     "<pre class='js-sourcecopyarea editor' id='editor' style='margin-top: 5px;'>", 1)[1]
                 resp = resp.split("</pre><br>", 1)[0]
                 return resp.replace("&lt;", "<").replace("&gt;", ">").replace("&le;", "<=").replace("&ge;", ">=").replace("&amp;", "&").replace("&vert;", "|")
-            except Exception as e:
-                print('Exception: ', e)
+            except:
+                print(traceback.format_exc())
                 time.sleep(1 + 2.5 * _)
-                continue
-        raise e
+                break
 
     def _is_new_address(self, address):
         if (address not in open(self.config['DEFAULT']['smec_fn']).read()):
@@ -155,7 +155,7 @@ class EtherScanIoApi(object):
     def _get_contract_name(self):
         try:
             return self.soup.find(lambda tag: tag.name == "span" and "Name" in tag.text).parent.find_next('td').contents[0].strip()
-        except AttributeError:
+        except:
             return None
 
     def _get_addresses_from_fn(self, fn):
@@ -207,5 +207,4 @@ class EtherScanIoApi(object):
 
 
 if __name__ == "__main__":
-    e = EtherScanIoApi()
-    e.write_etherChain_fn(e.get_contracts_from_block(5170165))
+    pass
