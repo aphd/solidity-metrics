@@ -43,8 +43,6 @@ class EtherScanIoApi(object):
         addresses = soup.select("i[title='Contract']")
 
         for address in list(set(map(lambda x: x.findNext('a')['href'].replace('/address/', ''), addresses))):
-            # if not self._is_new_address(address):
-            #     continue
             print(address)
             self._set_soup(address)
             self.write_etherChain_fn(address)
@@ -53,15 +51,18 @@ class EtherScanIoApi(object):
     def write_etherChain_fn(self, address):
         with open(self.config['DEFAULT']['etherChain_fn'], 'a+') as f:
             print("got contract: %s" % address)
+            dir_path = os.path.join(
+                self.config['DEFAULT']['output_path'] + address[0:4])
+            f_path = os.path.join(dir_path, '%s.html' % (address))
 
-            f_path = os.path.join(
-                self.config['DEFAULT']['output_path'], '%s.sol' % (address))
             try:
                 source = self.soup.find(id="editor").text
                 abi = self.soup.find(id="js-copytextarea2").text
                 byteCode = self.soup.find(id="verifiedbytecode2").text
+                os.makedirs(dir_path, exist_ok=True)
                 with open(f_path, "wb") as f:
-                    f.write(bytes(source + '\n' + abi + '\n' + byteCode, "utf8"))
+                    f.write(bytes(source + '\n### ABI:\n' + abi +
+                                  '\n### byteCode:\n' + byteCode, "utf8"))
             except:
                 print(traceback.format_exc())
 
