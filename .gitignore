@@ -2,10 +2,13 @@ dependency-reduced-pom.xml
 target/
 .DS_Store
 __pycache__
+sol
 
 # Jupyter Notebook
 examples/.ipynb_checkpoints
 examples/*.ipynb
+examples/*html_files*
 
 #Editor 
 *.vscode
+*tar.bz2

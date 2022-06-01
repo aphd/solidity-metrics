@@ -7,8 +7,9 @@ def download():
     e = EtherScanIoApi()
 
     gap = 5760  # 1 block each  day
-    start = 3000000
+    start = 5000000
     end = 8000000
+    #end = 8000000
 
     import random
     for block in range(start, end, gap):
